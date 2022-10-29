@@ -1,0 +1,50 @@
+OID	File	Portion	English	廣東話口語（Colloquial Cantonese）v1028
+1	StringsFromCSFiles.xnb	GrandpaStory.cs.12026	...and for my very special grandson:	…同畀我親愛嘅孫仔:
+2	StringsFromCSFiles.xnb	GrandpaStory.cs.12028	...and for my very special granddaughter:	…同畀我親愛嘅孫女:
+3	StringsFromCSFiles.xnb	GrandpaStory.cs.12029	I want you to have this sealed envelope.	我希望你收低哪個密封信封。
+4	StringsFromCSFiles.xnb	GrandpaStory.cs.12030	No, no, don't open it yet... have patience.	唔好打開佢……等陣畀啲耐性。
+5	StringsFromCSFiles.xnb	GrandpaStory.cs.12031	Now, listen close...	而家聽住……
+6	StringsFromCSFiles.xnb	GrandpaStory.cs.12032	Someday, you might find yourself in a desperate gloom...	有一日，你可能會發現自己處於絕望嘅陰霾中……
+7	StringsFromCSFiles.xnb	GrandpaStory.cs.12033	...and your spirit will fight to stay awake.	…而自己嘅精神會努力保持清醒。
+8	StringsFromCSFiles.xnb	GrandpaStory.cs.12034	There will come a day when you feel crushed by the burden of modern life...	總有一日，你會覺得畀現代生活嘅重擔壓垮……而你明亮嘅精神將為之奮鬥。
+9	StringsFromCSFiles.xnb	GrandpaStory.cs.12035	...and your bright spirit will fade before a growing emptiness.	…而你明亮嘅精神將喺越嚟越大空虛面前消逝。
+10	StringsFromCSFiles.xnb	GrandpaStory.cs.<12036/12038>	When that happens, my boy, you'll be ready for this gift.	當嗰發生嘅時候，孫仔，你會準備好接受呢份禮物。
+12	StringsFromCSFiles.xnb	GrandpaStory.cs.12040	Now, let Grandpa rest...	而家，等阿公休息啦……
+13	StringsFromCSFiles.xnb	GrandpaStory.cs.12051	Dear {0},^^If you're reading this, you must be in dire need of a change.^^The same thing happened to me, long ago. I'd lost sight of what mattered most in life... real connections with other people and nature. So I dropped everything and moved to the place I truly belong.^^^I've enclosed the deed to that place... my pride and joy: {1} Farm. It's located in Stardew Valley, on the southern coast. It's the perfect place to start your new life.^^This was my most precious gift of all, and now it's yours. I know you'll honor the family name, my boy. Good luck.^^Love, Grandpa^^P.S. If Lewis is still alive say hi to the old guy for me, will ya?	親愛的{0}，^^如果你喺讀呢篇文章，你一定急需改變。 ^^好耐之前，同樣嘅嘢都發生喺我身上。我失去咗生命中最重要嘅嘢，同其他人同大自然嘅真正聯繫。所以我放棄咗一切，搬咗真正屬於我嘅地方。 ^^^我將嗰個地方嘅地契附上啦，我牙擦同快樂。 {1}農場。佢位於南海岸嘅星露谷。呢個係你開始新生活嘅完美地方。 ^^呢個系我最矜貴嘅禮物，而家佢係你喇。我知道你會尊重呢個家族嘅名，我嘅孫仔。祝你好運。^^愛你，阿公^^注：如果Lewis仲在生，唔該幫我同向佢問好？
+14	StringsFromCSFiles.xnb	GrandpaStory.cs.12055	Dear {0},^^If you're reading this, you must be in dire need of a change.^^The same thing happened to me, long ago. I'd lost sight of what mattered most in life... real connections with other people and nature. So I dropped everything and moved to the place I truly belong.^^^I've enclosed the deed to that place... my pride and joy: {1} Farm. It's located in Stardew Valley, on the southern coast. It's the perfect place to start your new life.^^This was my most precious gift of all, and now it's yours. I know you'll honor the family name, my dear. Good luck.^^Love, Grandpa^^P.S. If Lewis is still alive say hi to the old guy for me, will ya?	親愛的{0}，^^如果你喺讀呢篇文章，你一定急需改變。 ^^好耐之前，同樣嘅嘢都發生喺我身上。我失去咗生命中最重要嘅嘢，同其他人同大自然嘅真正聯繫。所以我放棄咗一切，搬咗真正屬於我嘅地方。 ^^^我將嗰個地方嘅地契附上啦，我牙擦同快樂。 {1}農場。佢位於南海岸嘅星露谷。呢個係你開始新生活嘅完美地方。 ^^呢個系我最矜貴嘅禮物，而家佢係你喇。我知道你會尊重呢個家族嘅名，我嘅孫女。祝你好運。^^愛你，阿公^^注：如果Lewis仲在生，唔該幫我同向佢問好？
+15	StringsFromCSFiles.xnb	GrandpaStory.cs.12059	XX Years later	XX年之後
+16	Content / Data / Events / Busstop.xnb	60367/u 0	Hello! You must be @.#$b#I'm Robin, the local carpenter. Mayor Lewis sent me here to fetch you and show you the way to your new home. He's there right now, tidying things up for your arrival.#$b#The farm's right over here, if you'll follow me.	你好！你係邊個呀？你一定係@.#$b#我係Robin，當地嘅木匠。Lewis市長派我嚟接你，畀你帶路僕你個新屋。佢而家就喺邊，為你執到嘅嘢。#$b#農場就喺度，如果你願意跟住我。
+17	Content / Data / Events / Busstop.xnb	60367/u 0	This is %farm farm.	呢個系%farm 農場。
+18	Content / Data / Events / Busstop.xnb	60367/u 0	What's the matter?#$b#Sure, it's a bit overgrown, but there's some good soil underneath that mess!#$b#With a little dedication you'll have it cleaned up in no time.	點呀？ #$b#當然，佢有嘅雜草叢生，但喺呢啲垃圾嘢下面重有一啲好土壤！ #$b#只要稍加努力，好快就會將佢清理乾淨嘅。
+19	Content / Data / Events / Busstop.xnb	60367/u 0	...And here we are, your new home.$h	……我哋去你個新屋啦。$h
+20	Content / Data / Events / Busstop.xnb	60367/u 0	Ah, the new farmer!$h	新農夫！$h
+21	Content / Data / Events / Busstop.xnb	60367/u 0	Welcome! I'm Lewis, Mayor of Pelican Town.#$b#You know, everyone's been asking about you.#$b#It's not every day that someone new moves in. It's quite a big deal!	歡迎！我係Lewis。鵜鶘鎮嘅鎮長。 #$b#個個都係問起你。 #$b#唔係每日都有新嘅人搬離。呢個系一個大新聞！
+22	Content / Data / Events / Busstop.xnb	60367/u 0	So... You're moving into your grandfather's old cottage.#$b#It's a good house... very 'rustic'.	所以，你要搬入你阿公嘅老別墅。 #$b#呢系一個好屋……好「鄉村風格」。
+23	Content / Data / Events / Busstop.xnb	60367/u 0	Rustic? That's one way to put it... $4#$b#'Crusty' might be a little more apt, though.$4	鄉村風格？呢一種講法……$4#$b#'Crusty'可能更貼切啲$4
+24	Content / Data / Events / Busstop.xnb	60367/u 0	Rude!	無禮貌！
+25	Content / Data / Events / Busstop.xnb	60367/u 0	Don't listen to her, @. She's just trying to make you dissatisfied so that you buy one of her house upgrades.$u	咪聽佢， @.佢只係想畀你唔滿意，噉你就買佢間屋升版之一。$u
+26	Content / Data / Events / Busstop.xnb	60367/u 0	Hmmph.	好呀。
+27	Content / Data / Events / Busstop.xnb	60367/u 0	Anyway... You must be tired from the long journey. You should get some rest.#$b#Tomorrow you ought to explore the town a bit and introduce yourself.#$b#The townspeople would appreciate that.	無論如何……長途跋涉，你一定好攰。你應該休息一下。 #$b#聽日你應該探索下呢個鎮子，介紹一下自己。 #$b#鎮上嘅人都會好感激。
+28	Content / Data / Events / Busstop.xnb	60367/u 0	Oh, I almost forgot. If you have anything to sell, just place it in this box here. I'll come by during the night to collect it.#$b#Well... Good luck!	哦，我差啲唔記得咗。如果你有乜嘢要賣，就將佢擺喺個盒度。我會喺夜晚過嚟收貨。#$b#祝你好運！
+29	Content / Data / Events / Busstop.xnb	4081148/e 47/t 1600 1900	Hi @. Thanks for coming.	你好 @. 多謝你嘅到嘅。
+30	Content / Data / Events / Busstop.xnb	4081148/e 47/t 1600 1900	Well, our gear's loaded already... Looks like everything's set.	哇，我哋嘅裝備已經裝好…睇嚟一切都準備好喇。
+31	Content / Data / Events / Busstop.xnb	4081148/e 47/t 1600 1900	Alright, everyone... let's get in the bus!$u	好嘞，各位……我哋上車！ $u
+32	Content / Data / Events / Busstop.xnb	4081148/e 47/t 1600 1900	*gulp*... I'm starting to get really nervous.$8	*gulp*…我好緊張。
+33	Content / Data / Events / Busstop.xnb	4081148/e 47/t 1600 1900	Okay, here we are... wish me luck!$u	好，我哋去……祝我好運！$u
+34	Content / Data / Events / Busstop.xnb	4081148/e 47/t 1600 1900	Hey. The show was a great success! Thanks again, @.	嘿，演出好成功！我好開心。再次多謝，@.
+35	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Hey, there you are!$6#$b#I'm glad you decided to come. We should get going...$6	嘿，你喺呢度！ $6#$b#我好開心見到你。我哋要走了…$6
+36	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	We're almost there...	我哋就快到啦……
+37	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	*gulp* ...pre-game nerves...$10	*gulp*……賽前緊張，$10
+38	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Here, I got you another cold one...	畀你，我又畀你買咗杯凍嘢……。
+39	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Hey, I've been meaning to say... $6#$b#Thanks for sticking with me through everything... my anxiety, depression... you know...$6#$b#You've been a really good friend to me.$6	嘿，我一直想講……$6#$b#多謝你陪我度過一切……我焦慮，閉翳噉……
+40	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Anyway...  it's your first gridball game, huh?	總之……呢係你嘅第一場網格波比賽，哇？
+41	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	$q -1 null#Well, what do you think?#$r -1 10 event_stadium1#Noisy... It makes me appreciate how peaceful it is back home.#$r -1 10 event_stadium2#Fun... Pelican Town seems really boring in comparison.	$q -1 null#你覺得點？ #$r -1 10 event_stadium1#好嘈……咁畀我好欣賞鄉下嘅寧靜。 #$r -1 10 event_stadium2#Fun…比之下，鵜鶘鎮似乎真係好悶。
+42	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Gahh!! Look, the Tunnelers are on the attack!$10	Gahh！睇，隧道工人緊進攻！ $10
+43	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Goal!!	入波！ ！
+44	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Goal!	入波！
+45	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Oh!...$10	哦！ ……$10
+46	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Um... Sorry... I got carried away there.$10#$b#Maybe I had one too many...	呃……對唔住，或者係我飲多咗$10#$b#……
+47	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Well... that was definitely a good game.$l	嗯……比賽好正。$l
+48	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Oh, yeah... and we won, too.$l	哇，我哋都贏咗。$l
+49	Content / Data / Events / Busstop.xnb	9581348/e 2128292/t 1600 1800	Well... see you soon.$6	好……拜拜。$6
+11	StringsFromCSFiles.xnb	GrandpaStory.cs.<12036/12038>	When that happens, my dear, you'll be ready for this gift.	當嗰發生嘅時候，孫女，你會準備好接受呢份禮物。

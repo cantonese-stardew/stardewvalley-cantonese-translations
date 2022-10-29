@@ -1,0 +1,471 @@
+OID	File	Portion	English	廣東話口語（Colloquial Cantonese）v1028
+219	Alex	Introduction	Oh, hey. So you're the new guy, huh? Cool.^Hey, you're the new girl, huh? I think we're going to get along great. I'm Alex.#$e#I'll see you around.	喂，你係新嚟嘅？^ 好呀，你係新嚟嘅女仔，嗯？ 我想我哋會相處得好好。 我係Alex。 #$e#我哋會拜拜面嘅。
+220	Alex	Resort_Entering	Finally, we're here!	我哋終於到啦！
+221	Alex	Resort_Leaving	Aw... I guess it can't last forever.$s	噢... 我諗應該唔會一直都咁。$s
+222	Alex	Resort_Wander	I knew I shoulda brought a frisbee... Oh well.$h	我知我應該帶個飛碟... 哦 ， 好啊 。$h
+223	Alex	Resort_Wander_2	I wonder if anyone would be up for a volleyball tournament.#$e#Don't worry, I'll go easy!$h	我想知是否有人肯參加排球比賽。 #$e#唔好擔心，我會輕鬆地去嘅！ $h
+224	Alex	Resort_Shore	I wonder how far I could swim out, and still make it back?#$e#I'm guessing at least a mile.#$b#... Don't worry, I'm not going to try it.$h	我想知我可以游出去多遠，仲可唔可以游返嚟啊？ #$e#我猜至少有一英里。 #$b#唔好擔心，我唔會去嘗試嘅。 $h
+225	Alex	Resort_Chair	Aren't you hot in that outfit? C'mon, man... It's the beach!^Aren't you hot in that outfit? You gotta get some ocean breeze goin'!	你着呢身衫唔熱咩？ 嚟啦... 這是沙灘！ ^你着呢身衫唔熱咩？ 你吹吹海風'！
+226	Alex	Resort_Towel	With this island open, there's no excuse to be pasty anymore!	隨住呢個島嘅開放，再也沒有借口畀自己變得蒼白無力咗！
+227	Alex	Resort_Towel_2	Phew, it feels good to finally get these abs a little sunlight.#$e#Kind of a shame to have them hidden away all the time back home.	唷，終於畀呢啲腹肌有咗啲陽光，感覺真係好。 #$e#喺屋企一直把佢們收埋，有點可惜。
+228	Alex	Resort_Towel_3	When I go pro, I'll vacation on islands all around the world.#$e#But for now, this place will do just fine!$h	我做職業選手時，會喺世界各地嘅島嶼上度假。 #$e#但而家，呢個地方就滿意啦！ $h
+229	Alex	Resort_Bar	I'm ordering a banana shake with two scoops of protein powder.	我點啦一杯香蕉奶昔，加咗兩勺蛋白粉。
+230	Alex	Resort	Ah... The island life. I could get used to this!	啊...... 島上嘅生活。 我可以！
+231	Alex	danceRejection	Nah... I'm gonna ask someone else. Good luck.	唔係...... 我去問人。 好彩。
+232	Alex	divorced	I thought we had something special... I guess I was wrong.$s	我以為我哋有咩特別嘢... 我想我錯啦。$s
+233	Alex	dumped_Guys	You're not worth my time.$a	你唔值得我花時間。$a
+234	Alex	secondChance_Guys	I don't know if I can trust you anymore, but I'm willing to give you a chance.$9	我唔知我是否能再相信你，但我願意畀你一個機會。$9
+235	Alex	breakUp	You're giving me wha...?$7#$b#*huff*... Got it. Alright... well, you've made your choice. You're not gonna see me begging.$a	你在給我咩......？ $7#$b#*huff*......。 明喇. 好囉...... 好啦，你有做出你的選擇。 你唔會睇到我乞求嘅。$a
+236	Alex	Mon	Did you know I was an all-star quarterback in high school? It's true.$u#$e#See this little star on my jacket here? That proves it.	你知我喺高中時係個明星四分衛晒呀？ 呢個係堅嘅. $u#$e#睇到我外套上嘅呢個小星星咗呀？ 證明咗。
+237	Alex	Tue	The beach is a cool place to hang out and soak up some rays.#e#You gotta spend some time in the sun or else you'll get all pale.#$e#*sigh*... I wish there were more girls in this town, know what I mean?$s^Hey, do you wanna hang out with me at the beach some time? Do you have a bikini?	沙灘係一個好酷嘅地方，可以掛出一些射線。 #e#你必須花一些時間在陽光下，否則你會變得幾蒼白。 #$e#*嘆氣*... 我希望呢個城市有更多嘅女仔，知我嘅意思呀？ $s^喂，你想唔想和我一起在沙灘上玩？ 你有比堅尼啊？
+238	Alex	Wed	Looks like a good day to play catch, huh?$u#$e#$q 5/6 Wed_01_old#I'd ask you to throw the ball around, but you don't really seem like the sports type.^If you weren't a girl I'd ask you to play catch.#$r 6 0 Wed_01_02#I'm fine just watching you from a distance.#$r 5 15 Wed_01_01#I want to play catch with you!#$r 5 0 Wed_01_03#(angry) What's that supposed to mean?	今日好似打波好日子?$u#$e#$q 5/6 Wed_01_old#我想同你一齊打波，但你應該唔係運動型。^如果你係男，我會叫你去玩接球遊戲。#$r 6 0 Wed_01_02#我唔玩，係遠處望住你玩。#$r 5 15 Wed_01_01#我想同你玩接球!#$r 5 0 Wed_01_03#(生氣地)咩意思？
+239	Alex	Wed_01_old	#$p 5#Go long! ...just kidding. Hahaha.|I just wish I had someone to play catch with...$s	#$p 5#去！ ... 講笑。 哈哈哈。 |我只係希望有個人可以同我一齊玩接球遊戲...$s
+240	Alex	Wed_01_01	Really? I guess I underestimated you.#$b#My arm's a little sore, but maybe next time.	真係噶? 我想我低估啦你。 #$b#我的手臂有點痛，但也許下一次。
+241	Alex	Wed_01_02	Yeah, some people just aren't made for sports.	系呀，有些人就係唔適合運動。
+242	Alex	Wed_01_03	Uh... nevermind.	骗...... 算啦，唔講咗。
+243	Alex	Thu	The air's starting to warm up... I'm feeling pumped.	空氣開始變暖啦...... 我感覺好振奮。
+244	Alex	Fri	Hey, what's up farmer guy?^Hey, it's farm girl. Did you get new pants? You're doing something right.#e#Oh, I almost forgot! It's my day for doing push-ups!#e#Every time I do push-ups I try to do one more than last time. Pretty cool strategy, huh?	嘿，點呀，農夫？^ 嘿，係農場女仔。 你買咗新褲咩？ 你做得幾對。#e#哦，我差啲唔記得！ 今日係我做掌上壓嘅日子！ #e#每次我做掌上壓嘅時候，我都想比上次多做一個。 好酷嘅策略，係啩？
+245	Alex	Sat	My arms are really sore, but that's the sign of progress for a guy like me.#e#I must've done a thousand push-ups yesterday.	我嘅手臂真係好酸，但係好似我咁樣嘅人進步嘅標誌。 #e#我昨天肯定做咗一千多个掌上壓。
+246	Alex	Sun	Hey.#$e#What, you wanna talk to me? I'm busy.	嘿。 #$e#咩，你想和我說話？ 我好忙.
+247	Alex	Sun2	Hey, @.#$e#That's right, I remember your name.	嘿 ，@.#$e#我記得你個名。
+248	Alex	Sun4	Hey, @.#$e#How's your day going?	點呀@.#$e#你今日點呀?
+249	Alex	Fri4	Hey, @. I'm glad you stopped by.#e#I'm not ashamed to say that I love my Grandma!#$e#Now Grandpa, on the other hand...#$e#Just kidding.$h	嘿，@. 我好开心你停落嚟。 #$e#我唔羞於話我愛我的婆婆！ #$e#而家阿公，在另一方面...#$e#只係講笑。$h
+250	Alex	Tue6	Nothing's better than an energetic day at the beach with your friends... right?	冇乜嘢過同朋友一齊喺沙灘上精力充沛地度過一日仲好咗... 啱唔啱呀?
+251	Alex	Mon8	You know, I used to want fame and fortune, but lately I've been starting to sing a different tune. In the end it's the humble little things that satisfy, don't you think?#$e#I still want to go pro, but it's not the most important thing in the world.	你知唔知我曾經想要名利，但呢排我開始唱起咗唔同嘅調子。最終系啲卑微嘅小事畀人滿意，你唔覺得呀？ #$e#我仍然想做職業選手，但唔係世界上最重要嘅嘢。
+252	Alex	Fri8	Hi @. You look sporty today.$h^Hey @. Did you do something different with your hair? Something keeps grabbing my attention.$h	你好 @. 你今日好似好運動。 $h^喂 @。你對你啲頭髮做咗啲唔同嘅處理嗎？有乜嘢一直裝住我$h
+253	Alex	Sat10	I've been having a hard time staying focused lately.$l	我呢排好難保持focus。 $l
+254	Alex	Event_beach1	Of course you do. If you didn't I'd think you were crazy. Or some kind of nerd.	你梗系會啖做。如果你唔啖做，我會認為你係癲佬。或者係毒男。
+255	Alex	Event_beach2	Really? You must be some kind of weirdo.$a#$b#Sorry.	真係咩？你一定係某種怪人。 $a#$b#對唔住。
+256	Alex	Event_books1	No, I'm not! You're just trying to flatter me.$a	唔係，我唔係！你只係想奉承我。$a
+257	Alex	Event_books2	Yeah, I guess you're right...$s	係呀，我想你係啱嘅……$s
+258	Alex	Event_books3	You were supposed to disagree with me.$a	你應該系唔同意我嘅觀點。$a
+259	Alex	event_box1	Yes... I know. That's why I've been so determined to be successful with my sports stuff...$9#$b#Make it or not... As long as I try my hardest I think she'd be proud. Thanks.	系呀……。我知。呢就係點解我一直堅定地要喺體育嘅嘢上取得成功……$9#$b#無論有冇成功……。只要我盡力，我想佢會覺得牙擦嘅。多謝。
+260	Alex	event_box2	Wow... It's the anniversary of my Mom's death! Have a heart...$a	哇，今日系我媽媽嘅忌日！有心喇……$a
+261	Alex	event_box3	...Thanks, @.#$b#You... you're different than the other guys. More sensitive.$l^You've become my best friend in the whole town... #$b#I'm glad.^Is that embarrassing to say?$l	…多謝，@.#$b#你……你同其佢嘅人唔一樣。更加敏感。 $l^你已經成為我喺成鎮上最好嘅朋友……#$b#我好開心。 ^啖話好尷尬啊？ $l
+262	Alex	event_box4	That doesn't make me feel any better, jerk.$a	呢並冇畀我感覺重好，扑街。$a
+263	Alex	Event_parents1	That's an interesting thought...	哩個得意嘅諗法……
+264	Alex	Event_parents2	They would never do that!$a	佢哋絕對唔會咁做嘅！ $a
+265	Alex	Event_parents3	...Maybe you're right... I dunno.$s	或者你係啱嘅，我唔知。 $s
+266	Alex	summer_1	Hey. Summer is definitely the best time of year.#$e#Right now is great because we've got the whole season to look forward to. Catch you later.	嘿，夏天絕對系一年中最大好嘅光。 #$e#而家就好好，因為我哋有成季嘅等咗好耐。遲啲再嚟揾你。
+267	Alex	summer_Mon	Hey, farmer guy. You look a little burnt.^Hey Farmer girl. You've got a nice tan going.$h#$e#The more I practice this summer, the easier it'll be for me to go pro.#$e#Then you'd be able to say you knew me once. Cool, huh?	嘿，農夫。你好似有啲燒燶咗。 ^喂，農夫。你皮膚曬得好好。 $h#$e#呢個夏天我練得多，我就越易成為職業選手。 #$e#嗰陣你就可以話你曾經識我。好有型，系嘛？
+268	Alex	summer_Tue	If my hair wasn't so popular with the ladies, I swear I'd shave it all off in a second.#$e#*sigh*... Life can be tough.	如果我啲頭髮唔係咁受女士們歡迎，我發誓我會喺一秒鐘內將佢全部鏟左。#$e#*嘆氣*生活可能好艱難。
+269	Alex	summer_Wed	Hey farm guy, I've got a question for you.^Hey Farm girl, I've got a question for you.#$b#$q 52/53 summer_Wed_01_old#Do you think I'll ever turn pro?#$r 52 30 summer_Wed_01_01#You're destined to be a sports legend#$r 52 0 summer_Wed_01_02#Maybe, if you practice a lot#$r 53 -50 summer_Wed_01_03#No, you'll most likely fail and become a salesman	嘿，農夫，我有個問題要問你。 ^嘿，農場女仔，我有個問題要問你。 #$b#$q 52/53 summer_Wed_01_old#你覺得我會成為職業選手嗎？#$r 52 30 summer_Wed_01_01#你注定會成為一個體育傳奇 #$r 52 0 summer_Wed_01_02#也许，如果你練習幾多 #$r 53 -50 summer_Wed_01_03#你可能會失敗，成為一個推銷員
+270	Alex	summer_Wed_01_old	$p 52#Hey, when I turn pro you can say you were my first \"fan\". Not bad, huh?|Hey, I've been practicing twice as hard so I can turn pro and prove you wrong. You just wait.$a	$p 52#嘿，当我變成職業球員嘅時候，你可以話你係我嘅第一個 \"fan\"。 係咪唔錯？|嘿，我一直在努力練習，這樣我就能成為職業選手，證明你係錯嘅。 你只係等待。$a
+271	Alex	summer_Wed_01_01	Hey, now that's what I'm talking about!$h#$e#You're cooler than I thought.	嘿，我講嘅就係呢個$h#$e#你比我想象中更形。
+272	Alex	summer_Wed_01_02	Yeah, well I'm so good I'm not going to have to practice all that much.$u	我幾好，我唔需要練習咁多，$u
+273	Alex	summer_Wed_01_03	That's insane. You're just jealous that I'm talented and popular and you're not.$a^That's ridiculous. You're just jealous that I'm way more popular than you'll ever be, freak.$a#$e#Get away from me.$a	痴線。 你只係嫉妒我有才華又受歡迎，而你冇。 $a ^ 荒謬。 你只係嫉妒我比你更受歡迎，怪人。$a#$e# 離我遠啲$a
+274	Alex	summer_Thu	Hey, you must be getting pretty strong working on that farm all day.^Hey, you must be getting pretty fit working on that farm all day.#$e#Maybe you'll reach my level some day. Something to look forward to, huh?#$e#Why do you have that look on your face?	你喺農場做咗成日野，一定好強壯啦。 ^嘿，你成日喺農場做嘢，一定變得好健康咗。 #$e#或者有一日你會達到我嘅水平。 有值得期待的事，係啩？ #$e#你臉上做乜嘢有呢種表情？
+275	Alex	summer_Fri	What do you want?#$e#I've got more important things to do right now.	你想要乜嘢? #$e#我而家有更重要嘅事要做。
+276	Alex	summer_Sat	Mmmm... I smell a barbeque.#$e#Damn I could go for a burger.	嗯...... 我聞到燒烤嘅味道。#$e# 頂，我真係想去食個漢堡。
+277	Alex	summer_Sun	I got these new shoes yesterday 'cuz my old pair had a brown smudge.#$b#I just threw them into the garbage. I would've donated them but I don't like the idea of some weirdo wearing my shoes, ya know?#$e#...What?$a	我昨天買咗呢对新鞋，因為我嘅舊鞋子上有棕色嘅污漬。 #$b#我只係將佢哋扔入咗垃圾桶。 我本想把佢們捐啦，但我唔鍾意畀怪人着我嘅鞋，#$e#你知唔知 $a
+278	Alex	summer_Sun4	Oh wow...your shoes are a little dirty... but that's fine, too!#$e#Different people have different tastes I guess.	哦 嘩 ... 你嘅鞋有啲污糟... 但這也沒關係！#$e# 我想不同嘅人有不同嘅品味。
+279	Alex	summer_Thu4	Hey, you look like you're getting into some good shape this summer!#$b#All that farm work is paying off, huh?	嘿，你呢個夏天睇嚟身材唔錯呀！ #$b#所有嘅農活都有回報晒，係啩？
+280	Alex	summer_Mon4	Hey, nice tan.	嘿，晒得幾靚。
+281	Alex	summer_Fri6	Sorry my room is so messy.$s#$e#It's just hard to always remember to clean. I'm trying to get better, though.	对唔住，我的房間太亂啦。 $s#$e#只係好難成日記得清潔。 不過我正在努力變好。
+282	Alex	summer_Wed8	You know, I actually wouldn't mind being a farmer... it seems a lot like playing sports, in a way.#$e#I like being outdoors and doing things with my hands.	你知道嗎，我其實不介意當個農民...... 在某種程度上，睇嚟似足運動。 #$e#我中意喺戶外，用我隻手做事情。
+283	Alex	summer_Sat10	I've been trying to do more reading lately... I feel like I've been neglecting my brain for years because of my athletic obsession.	呢排我試著多讀點書。 我覺得我多年嚟一直忽視啦我的大腦，因為我對運動嘅癡迷。
+284	Alex	fall_1	Sure, it's getting colder... But it's still warm enough for sports!#$e#That's all I care about.	當然，天氣越來越冷啦...... 但佢仍然足夠温暖嘅運動！#$e# 我只關心呢個。
+285	Alex	fall_Mon	My Grandma told me I should spend more time studying.#$e#I was like, '...Grams, don't fret. I'm turning pro!'$h#$e#Studying is for nerds, anyway.	我婆婆告訴我我應該花更多嘅時間學習。#$e# 我當時的反應是，唔使擔心。 我將職業！ 唔理點講，'$h#$e#學習係咪家嘅事。
+286	Alex	fall_Wed	Hey, I want to ask you something.^Hey, can I ask you something?#$e#$q 54/55 fall_Wed_01_old#Do you think the ladies like my haircut?^What do you think about my haircut?#$r 54 30 fall_Wed_01_01#It looks very fashionable.#$r 55 -30 fall_Wed_01_02#It looks like some kind of fungal growth.	我想問你點事。^ 嘿，我可唔可以問你件事啊？ #$e#$q 54/55 fall_Wed_01_old#你覺得女士們喜歡我的髮型嗎？ ^你覺得我嘅髮型咩環境呀？#$r 54 30 fall_Wed_01_01#睇嚟好摩登。#$r 55 -30 fall_Wed_01_02# 睇嚟好似某種真菌生長。
+287	Alex	fall_Wed_01_old	I put too much gel in my hair today. It kind of hurts.#$e#Don't touch it!#$e#...what?	我今日喺頭髮上涂啦太多嘅髮膠。 有啲痛。#$e#唔好掂！#$e#... 咩話?
+288	Alex	fall_Wed_01_01	Yeah, I know. That's why I have it like this.	係嘅 我知。 所以我先將佢攪成噉。
+289	Alex	fall_Wed_01_02	Yeah right. You're just jealous that I look so good.	係啊對嘅。 你只係嫉妒我咁靚。
+290	Alex	fall_Thu	What's up?#$e#Isn't your name, like, %firstnameletter%name, or something?#$e#Oh. It's @? Okay. Sorry.	點呀? #$e#你個名唔係好似%firstnameletter%name之類嘅啊？#$e#@嗎？ 好。 對唔住。
+291	Alex	fall_Fri	I'm going to do two hundred sit-ups tonight.#$b#I'm pretty dedicated, aren't I?$h#$e#Need anything else?	我今晚要做200个仰臥起坐。#$b# 我好敬業，唔系吗？ $h#$e#需要别的吗？
+292	Alex	fall_Sat	I think you can find salmon in the river this time of year.#$e#At least that's what I heard.	我想你每年呢個時候都能在河裏搵到三文魚。#$e# 至少我係咁聽講嘅。
+293	Alex	fall_Sun	Hey, the gridball game is on today!#e#Sundays are pretty awesome in the fall.$u	嘿，今日係網格球比賽！#e#秋天嘅星期日真係太好啦$u
+294	Alex	fall_Thu2	What's up, @?	點呀，@？
+295	Alex	fall_Fri6	I'm going to do a ton of sit-ups tonight.#$e#You have to work really hard if you want to achieve your maximum potential.	我今晚要做好多仰臥起坐。#$e# 如果你想發揮你嘅最大潛力，你必須非常努力咁工作。
+296	Alex	fall_Mon4	My Grandma told me I should spend more time studying.#$e#Maybe she's right...$s	我婆婆告訴我我應該花更多嘅時間學習。 #$e#或者佢啱... $s
+297	Alex	fall_Wed8	I finally took the plunge... I've decided to stop putting gel in my hair.#$e#I wouldn't want to be friends with someone who only liked me because I have gel in my hair.	我終於冒險啦...... 我決定唔再往頭髮上塗髮膠啦。 #$e#我唔想同一個只因為我頭髮沾咗髮膠而鍾意我嘅人做朋友。
+298	Alex	fall_Thu10	@! Um... Hi.$l	@！嗯... 嗨。$l
+299	Alex	winter_1	Winter is kind of lame. There's too much snow to do anything fun.#$e#I guess some people like it.	冬天有啲無聊。 好多雪，乜嘢好玩嘅都做不啦。#$e# 我諗應該有人會鍾意。
+300	Alex	winter_Mon	You like the snow? Me... I'm just looking forward to spring.	你中意雪啊？ 我...... 我只係盼望春天嘅到來。
+301	Alex	winter_Tue	Hey, can you go find Haley and tell her I said 'hi'?	你得唔得幫我同Haley問好？
+302	Alex	winter_Tue_inlaw_Haley	Oh, hey. How's the married life coming along?$9	喂， 婚後生活係點？$9
+303	Alex	winter_Wed	People stay indoors a lot during the winter, and do boring stuff.$s#$e#Maybe if I read a book I'd be less bored... nah.	冬天人們經常呆喺室內，做一些無聊的事情。 .$s#$e#或者如果我讀一本書，我就唔會咁無聊... 。
+304	Alex	winter_Thu	When I turn pro, I'll be so rich that I'll get a vacation home in the tropics.#$e#Then I won't have to deal with these boring winters.	当我成為職業選手嘅時候，我會非常富有，我可以喺熱帶地區有一個度假屋。#$e# 我就唔使應付呢啲無聊嘅冬天。
+305	Alex	winter_Fri	You came all the way through the snow to see me?#$e#I guess that makes sense.	你咁遠冒雪嚟見我？ #$e#我想這是有道理嘅。
+306	Alex	winter_Sat	There's some weird people living in this town.#$e#...like that guy Sebastian. Why does he wear black all the time?#$e#I don't get it.	呢個鎮上住住啲奇怪嘅人。.#$e# 比如Sebastian。 佢做乜嘢成日着黑色衫？ #$e#我唔明。
+307	Alex	winter_Sun	Hey, the gridball game is on today!#e#This might be my favorite day of the week.	嘿，今日係網格球比賽！#e# 今日可能係我一周中最鍾意嘅一日。
+308	Alex	winter_Fri4	You came all the way through the snow to see me?#$e#That's nice of you.$h	你咁遠冒雪嚟見我？ #$e#你真系太定$h
+309	Alex	winter_Sat6	I guess it's interesting that some people are totally different than us, you know?#$b#I don't always understand why others act the way they do, but that's fine.	我覺得好得意係有啲人同我哋完全唔同，#$b#你知唔知我沒有成日理解人點解會啖做，但唔緊要。
+310	Alex	winter_Tue4	Hey, @. Could you do me a favor?$l#$b#If you see Haley, tell her I'm busy.$l#$e#Thanks.	嘿，@。 你可唔可以幫我一個忙啊？ $l#$b#如果你看到海莉，告訴佢我好忙。 $l#$e#多謝。
+311	Alex	winter_Tue4_inlaw_Haley	I'll admit... I was a little jealous when you and Haley got married. But, hey... It's a chance for me to learn something new about myself.$9	我承認... 你同Haley結婚嘅時候我有點嫉妒。 但是，嘿... 係一個機會，令我對自己有新嘅認識。 $9
+312	Alex	winter_Wed8	You know what? I'm going to start reading a book!	你知唔知? 我要開始讀一本書啦！
+313	Alex	winter_Thu6	I wish I could control the weather.	我希望我可以控制天氣。
+314	Alex	winter_Thu10	If I ever make a lot of money, I'll make sure all my friends and family are taken care of.#$e#That means you, too.$h	如果我有一日賺咗好多錢，我會確保我所有嘅朋友同家人都得到照顧。 #$e#意味住你都係。$h
+428	Elliott	Introduction	Ah, the new farmer we've all been expecting... and whose arrival has sparked many a conversation!#$b#I'm Elliott... I live in the little cabin by the beach. It's a pleasure to meet you.	啊，我哋都期待緊嘅新農民...... 佢的到來引發咗好多談話！ #$b#我叫 Elliott......。 我住喺沙灘邊嘅小木屋度。 見到你好開心.
+429	Elliott	Resort_Entering	That was quite the ride!	一路走來可真係唔易！
+430	Elliott	Resort_Leaving	I'll see you back in the valley.	我哋喺山谷度見。
+431	Elliott	Resort_Leaving_2	Hopefully a crab hasn't snuck onto my clothes again.$s#$b#Imagine crawling out of a pocket and finding yourself on a beach hundreds of miles from home!$h#$e#Hmmm... Perhaps this could make for an interesting novel...	希望蟹冇又走嚟我件衫上面。 $s#$b#想像下喺銀包入面爬出嚟，發現自己喺離家幾百咪嘅沙灘上！ $h#$e#嗯。或者呢可以做一套得意嘅小說……
+432	Elliott	Resort_Chair	I'm just taking a quick break to slather some coconut oil on my body.$h	我只係稍作休息，喺身上塗抹啲椰子油。$h
+433	Elliott	Resort_Bar	Gus, I'll order a round for everyone!#$b#*hic*... Oh... I don't have the G.$s#$b#Heh heh... Never mind!	格斯，我畀大家啲一輪！ #$b#*hic*……。哦，我冇G.$s#$b#嘿嘿……算啦！
+434	Elliott	Resort_Wander	I've heard rumors of pirates coming to shore near here at night. They say it can get pretty wild!	我聽講有海賊夜晚嚟到呢度附近嘅岸邊嘅傳言。佢哋話呢度可以變得，好狂野！
+435	Elliott	Resort	I must admit, this beach blows my own humble strand out of the water.	我一定要認，呢個沙灘比我自己嘅耷濕沙灘仲要好。
+436	Elliott	Resort_2	Oh dear! Some seaweed has tangled itself in my hair.#$e#That's the trouble with relaxing on the beach.	哦，日邊！有啲海草纏住咗我。啲海草纏住我頭髮。#$e#呢就係喺沙灘上放鬆嘅，唔該。
+437	Elliott	danceRejection	Excuse me... not today.$s	對唔住，今日唔得。$s
+438	Elliott	divorced	...$s#$e#Why do you torment me? Can't you see you've shattered all my hopes and dreams?$s	……$s#$e#點解你要折磨我？你冇睇到你已經粉碎咗我所有希望同夢想？$s
+439	Elliott	dumped_Guys	Go away. I can't bear to see you.$s	行開啦。我唔想見到你。$s
+440	Elliott	secondChance_Guys	You've hurt me beyond measure... but I'm willing to leave the past behind us.$s	你對我傷害系唔因住嘅，但我想將過去留喺我哋身後。$s
+441	Elliott	breakUp	Ah... the wilted bouquet. A sight I'd hoped to never see...$s#$b#I suppose there are other horizons to set my eyes upon...$s	呀……枯萎嘅花束。我希望永遠唔會睇到嘅景象……$s#$b#我想仲有其佢嘅地平線可唔可以畀我對眼睇到……$s
+442	Elliott	Mon	I'm kind of new to this town myself, but I really feel at home.$h#$e#I moved here only a year before you.	我自己對呢個鎮子都有啲生暴，但我真係有間嘅感覺。 $h#$e#我只比你早年搬離呢度。
+443	Elliott	Mon4	I hope you've come to think of this place as 'home'.	我希望你已經將呢個地方是咗'家'。
+444	Elliott	Tue	A great idea can pass through your head when you least expect it... but if your mind is too busy you might miss it.#$e#Well, I really must get back to my work.	一個大諗法會喺你最意想不到嗰陣經過你頭腦……但如果你頭腦好忙，你可能會錯過佢。 #$e#好啦，我真係要返工啦。
+445	Elliott	Tue6	The sweet friction of pen and paper is the music of my soul.$u#$b#That's why I chose this beach as my home, so that I could have peace and quiet to do my work.	筆同紙嘅甜蜜摩擦系我靈魂音樂。 $u#$b#呢就係點解我揀呢個沙灘作為我屋企，啖我就可以有安靜嘅環境嚟做我做野。
+446	Elliott	Wed	The forest is a wonderful place. Have you been there?	森林系一個美妙嘅地方。你去咗邊呀？
+447	Elliott	Wed8	Sorry, I'm feeling morose today.$s#$e#I wish there was more certainty about the future.$s#$e#I don't want to grow old as a lonely hermit on this beach...$s	對唔住，今日我覺得好喪氣。 $s#$e#我希望對未來有多啲嘅揸拿。 $s#$e#我唔想喺呢片沙灘上成個孤獨嘅隱士一樣變老……$s
+448	Elliott	Thu2	I can't seem to find the inspiration to begin writing my novel...$s	我似乎搵唔到開始寫嘅小說嘅靈感……$s
+449	Elliott	Thu4	I've been feeling hopeful lately. Perhaps the weather is changing.	我呢排都覺得有希望。或者天氣喺變化。
+450	Elliott	Thu6	Sometimes I wonder if I might just have an inflated self-image and no real skills...$s#$e#No, no... I'm not fishing for compliments. Though they are appreciated...	有時我諗，我可能係自我形象膨脹，冇真正嘅散手……$s#$e#唔係…。我並唔係喺尋求贊。雖然佢哋好感激……
+451	Elliott	Thu8	#$1 elliottApol#It's a little lonely out here on the beach... so I apologize if I was ever a little too forward with you when we first met. I was just eager to have a friend.$k#$e#It feels good to have a close friend like you.	#$1 elliottApol#呢度嘅沙灘有啲寂寞，所以如果我哋第一次見面，我對你有啲太過投怀，唔好意思。我只係想有一個朋友。 $k#$e#有你咁個親密嘅朋友感覺好好。
+452	Elliott	Thu	Hello, @.#$e#Are you well?	你好，@.#$e#你幾好嗎？
+453	Elliott	Fri	The fresh air of this valley is good for body and mind.#$e#A quick stroll outdoors always invigorates me.	呢個山卡罅嘅新鮮空氣對身體同心靈都有著數。 #$e#喺戶外趕漫步總能畀我精神振奮。
+454	Elliott	Fri4	Ah... do not get too close to my hair with a torch...$8	啊……唔用電筒太埋我啲頭髮……$8
+455	Elliott	Fri8	I'll admit... it takes me several hours each morning to make my hair look this good.	我認……我每朝早要花好幾個鍾先至我啲頭髮攪到咁好睇。
+456	Elliott	Sat	You probably wouldn't like it inside my cabin. It's dark and full of spiders.$s	你可能唔鍾意我小屋裡面。嗰度好黑，而且周圍都係蠄蟧。$s
+457	Elliott	Sat4	Please excuse the sorry state of my cabin.	請原諒我小屋嘅衰嘢。
+458	Elliott	Sat6	Some people are shy. Keep showing interest in them and they'll get comfortable around you.#$e#Everyone likes to have friends, even that grumpy blacksmith.	有啲人好怕醜。繼續表現出對佢哋嘅興趣，佢哋就會喺你身邊變得舒服。 #$e#個個都鍾意有朋友，就算系嗰個躁嘅打鐵佬。
+459	Elliott	Sun	Hello. I hope your new farming life is panning out as you'd hoped?	你好。我希望你新農業生活，正如你所希望嘅啖發展？
+460	Elliott	Sun6	Oh, @! I was hoping you'd show up.#$e#It's always a pleasure to see you.$h	哦，@！我正希望你會出現。 #$e#見到你成日都好開心。$h
+461	Elliott	event_idea1	Mystery, huh? It's definitely an exciting genre. I'll remember that.	懸疑片，哇？呢絕對系一個令人興奮嘅類型。我會記住呢一啲嘅。
+462	Elliott	event_idea2	Ah, one of the classic genres. I'll remember that.	啊，經典流派之一。我會記住嘅。
+463	Elliott	event_idea3	I would've never guessed! I suppose even those of the 'earthiest' profession sometimes have their heads in the stars.$h#$b#I'll remember that.	我從來冇估到過我想就算系嗰啲“最接地氣”嘅職業，有時都會把頭壅喺星星度。$h#$b#I我會記住嘅。
+464	Elliott	event_boat1	... I was worried you might not feel this way about another man.$l^So am I.$l	…我擔心你對另一個男人冇呢種感覺呢。$l^我都係。$l
+465	Elliott	event_boat2	Oh! I'm so sorry.$8%fork	哦！我好對唔住。 $8fork
+466	Elliott	event_toast1	Well...okay.#$b#Here's to @!	嗯……好啦。 #$b#呢係為@！
+467	Elliott	event_toast2	That's a great idea!$h#$b#Here's to us!	哩個好主意！ $h#$b#為我哋飲杯！
+468	Elliott	event_toast3	Hmmph...forget it.$a	嗯哼……算啦。$a
+469	Elliott	event_toast4	Ah, to a harmonious future for the community... what a virtuous idea.#$b#Here's to Pelican Town!	啊，為咗議員嘅和諧未來……多好橋。 #$b#為鵜鶘鎮飲杯！
+470	Elliott	summer_Mon	A gentle little sunbeam woke me up this morning. I've never felt so refreshed.$u#$e#I'm sorry if that isn't very interesting to you.	今日朝早，一扎溫柔嘅小太陽光將我叫醒。我從未仲系咁清爽。$u#$e#我好對唔住，如果呢對你嚟講唔係好得意。
+471	Elliott	summer_Mon4	I know that I am kind of an 'oddball'.#$e#I hope you don't mind.$h	我知道我係一種'怪人 '。#$e#我希望你唔介意。 $h
+472	Elliott	summer_Mon6	@, I know you have faith in my abilities as a writer. That means a lot to me.$h	@，我知你對我作為一個作家嘅能力，有信心。呢對我意義架。 $ h
+473	Elliott	summer_Tue	I've encountered some beautiful shells in front of my house.#$e#I would imagine the rarer varieties to be quite valuable.	我喺我家門前遇到過啲靚貝殼。 #$e#我想比較稀有嘅品種會相當有價值。
+474	Elliott	summer_Tue6	I write in hopes of connecting with others through time and space.$u#$e#*sigh*...times are changing, though. People don't read anymore.$s	我寫作系希望透過時間同空間同佢人聯繫。 $u#$e#*嘆氣*……之，時代喺變化。啲人唔再讀書咗。$s
+475	Elliott	summer_Wed	It must be satisfying to follow your crop from seed to harvest.#$e#It's as if your essence is infused into the fruit.$u	跟隨你嘅咁作物由種子到收穫一定係令人滿意嘅咁。 #$e#I就好似你嘅咁精髓系度注入咗果一樣。$u
+476	Elliott	summer_Thu	Oh dear! My shoes are filled with sand.$s#$e#That's the trouble with living on the beach.	親愛的！我對鞋裡面裝滿曬沙子。我對鞋度都係沙子。 $s#$e#就係生活喺沙灘上嘅咁麻煩。
+477	Elliott	summer_Fri	@? You look puzzled.#$b#I guess the hot summer air can make us a little dizzy.	@? 你睇嚟好疑惑。 #$b#我想夏天嘅咁熱空氣會令我哋有啲暈眩。
+478	Elliott	summer_Sat	The sun is angry today... My skin is a bit too delicate, I'm afraid.	今日嘅咁太陽好勞激…我嘅咁皮膚有啲好脆弱，我擔心。
+479	Elliott	summer_Sun	You came all the way here just to talk to me? How kind.$h	你大老遠走嚟就係為咗同我講嘢？幾咁親切呀。$h
+480	Elliott	summer_Sun4	Visit my cabin whenever you like. I could use the company.$h	只要你願意，隨時都可以嚟我嘅咁小屋。我需要有人傍。$h
+481	Elliott	fall_Mon	Hello @.#$e#Make sure and take breaks from your work now and then.	你好@.#$e#確保你嘅咁工耐不耐咁休息嚇。
+482	Elliott	fall_Mon4	Come visit me if you need a break from your labors.$h#$e#I'm usually at my house.	如果你要由你嘅咁勞動中休息嚇，就嚟探我。 $h#$e#我通常喺我嘅咁屋度。
+483	Elliott	fall_Tue	It's been said that a pirate's ship, full of plundered gold, shipwrecked here a long time ago.	據講好禁以前有一艘海賊船喺呢度遇難，船上面裝滿曬掠奪嚟嘅黃金。
+484	Elliott	fall_Tue8	@, I was just thinking about you.$l#$e#Maybe you sensed it.$h#$e#So! Tell me about your day.	@，我只係喺想你。 $l#$e#或者你感覺到啦。 $h#$e#咁！話畀我知你慨咁一日。
+485	Elliott	fall_Wed8	I wouldn't mind trying my hand at farming.#$e#The quiet atmosphere of a farm might be a good source of literary inspiration, don't you think?$h	我唔介意試嚇我慨咁農活。 #$e#農場慨咁靜氣氛可能係文學靈感慨咁一個好來源，你唔覺得呀？$h
+486	Elliott	fall_Thu	Oh dear! A tiny crab appears to have made his home in my shirt pocket.$l#$e#That's the trouble with living on the beach.	親愛的！一隻蟛蜞好似喺我嘅襯衫袋里安咗間。一隻蟛蜞好似喺我嘅襯衫袋里安咗間。 $l#$e#呢就係喺海皮慨，唔該。
+487	Elliott	fall_Fri4	My legs are stiff from sitting at my writing desk all night.$s#$e#Sometimes I envy you, @.	我隻腳，因為成晚坐喺寫字台前而變得僵硬。 $s#$e#有時我羨慕你，@。
+488	Elliott	fall_Fri	My legs are stiff from sitting at my writing desk all morning.$s	我隻腳，因為喺寫字台前坐咗一朝早而僵硬。 $s
+489	Elliott	fall_Fri10	@, when you're around... I feel unusually creative.$l#$e#I know... strange, but it's true.	@，當你喺我身邊慨時候，。我覺得異常有創造力。 $l#$e#我知…好奇怪，但呢系真慨。
+490	Elliott	fall_Sat	It gets windy this time of year. Marvelous!$h	明慨呢個時候都會有風。 妙不可言！ $h
+491	Elliott	fall_Sun	I have to remember to water my plants today. And not with sea water this time!	我一定要記得今日畀我慨植物澆水。今次唔用海水喇！
+492	Elliott	winter_Mon	You've come to visit me in the cold?#$e#I could do with a respite from my lonely labors.	你喺寒風中嚟探我？ #$e#我可以從我慨孤獨慨勞作中得到喘息。
+493	Elliott	winter_Mon4	@, you've trudged through the snow to visit me?#$e#I'm honored!$h	@，你喺雪地度跋涉嚟探我？ #$e#我好榮幸！ $h
+494	Elliott	winter_Tue	People have scraped a living off the sea for thousands of years.#$e#I just go to the grocery store.$s	幾千年嚟，啲人都靠海為生。 #$e#我只係去士多寶買嘢。$s
+495	Elliott	winter_Tue10	@, I had a feeling that you would show up.#$e#Perhaps we're connected by an other-worldly thread.$l	@，我有一種感覺，你會出現。 #$e#或者我哋係由另一個世界慨線鏈接慨。 $l
+496	Elliott	-winter_Wed	A day can never be boring when you follow the whims of your imagination.$u#$e#Sorry, am I babbling on about nonsense?	當你跟隨你想像力慨奇思妙想時，一日系唔會悶嘅。 $u#$e#對唔住，我唔係喺發噏風？
+497	Elliott	winter_Thu	Breathe deeply. Do you notice it? That's the smell of the sea.#$e#How does it make you feel?	深呼吸。你留意佢呀？啖系大海慨味道。 #$e#佢畀你覺得點？
+498	Elliott	winter_Thu6	Breathe deeply. Do you notice it? That's the smell of the sea.#$e#Whenever I smell the sea, it reminds me of my youth. The ocean really impressed me as a child.	透大氣。你留意佢呀？呢就係大海慨味道。 #$e#每當，我聞大海慨味道，佢就會令我諗起我青春。大海喺我細個嗰陣真係畀我留低咗深刻慨印象。
+499	Elliott	winter_Fri	I have to brush my hair daily, or else it'll clump up into messy knots.#$e#It's a lot of work.#$e#I'm surprised I haven't just shaved it off in a fit of passion.$h#$e#I suppose I am too vain.	我一定要每日梳理我啲頭髮，如果唔係，佢就會結成垃圾#$e#呢系一個好大慨工作。 #$e#我好驚訝我冇喺激情中直接將佢鏟左。 $h#$e#我諗我太虛榮喇。
+500	Elliott	winter_Sat	I've been doing little indoor exercises, since it's often too cold to go out.#$e#Sorry if it's a little humid in the cabin.$s	我一直都係做啲細慨室內運動，因為成日太凍而唔出。 #$e#對唔住，如果機艙入面有啲潮濕。$s
+501	Elliott	winter_Sun	I really should scrub my floorboards today. I think an algae is starting to form.$s#$e#Do you make time for cleaning?	我今日真係應該擦洗嚇我地板。我想一種藻已經開始形成喇。 $s#$e#你有冇時間打掃？
+776	Harvey	Introduction	It's a pleasure to meet you. I'm Harvey, the local doctor.#$e#I perform regular check-ups and medical procedures for all the residents of Pelican Town. It's rewarding work.#$e#I hope you'll find your own work equally rewarding, in time.$h	好開心見到你。我係哈維，翻慨醫生。 #$e#我為鵜鶘鎮慨所有居民進行定期檢查同醫療程式。呢個系一個有意義架。慨工作。#$e#我希望你會發現你自己慨工作都同樣有意義架。$h
+777	Harvey	Resort_Entering	Sunscreen? Check...#$b#Sun hat? Check...	防曬霜？帶咗……#$b#太陽帽？帶咗……
+778	Harvey	Resort_Leaving	If you get burnt, a little aloe vera cream might help soothe the skin.	如果你曬傷，有蘆薈霜有助於舒緩皮膚。
+779	Harvey	Resort_Shore	I combed the whole beach for glass. We wouldn't want anyone to get a cut on their foot!	我清理咗成個沙灘上玻璃。我哋唔希望有人喺腳上畀割傷！
+780	Harvey	Resort_Chair	It's nice to have an opportunity to relax now and then.#$b#The trouble is actually letting go of your worries...$s	間中有機會放鬆下係好好慨。 #$b#麻煩慨系真正放低你擔心……$s
+781	Harvey	Resort_Bar	It's important to stay hydrated in this heat. I'm going to ask Gus if he has any coconut water!$h	喺咁熱慨天氣入面，保持水分係好重要慨。我去問格斯，佢有無椰子水！$h
+782	Harvey	Resort	I'll let you in on a little secret... I can only swim with floaties.$s	我話畀你聽一個細秘密……。我唯有用漂浮物游水，$s
+783	Harvey	danceRejection	Oh! I'm sorry... I, er... have plans to ask someone else.$s	哦！對唔住……我，呃……有計劃。我，呃……有計劃要問人。$s
+784	Harvey	divorced	I... I can't look at you. Please spare me any more pain.$s	I…我唔睇住你。唔該唔好再畀我痛苦。$s
+785	Harvey	breakUp	...Y...You...?$s#$b#*gulp*... I... I think I'm going to be sick...$s	…你…$s#$b#*gulp*……I…我諗我要病啦……$s
+786	Harvey	dumped_Guys	I'm busy with my work. I can't speak to you.$s	我慨工作好忙。我唔同你講野。 $s
+787	Harvey	secondChance_Guys	I want you back in my life, @. I'm willing to forget what happened.$s	我希望你返我慨生活中，@。我都唔記得所發生慨事。 $s
+788	Harvey	Mon	We sell a few over-the-counter medicines at the clinic... feel free to stop by if you're feeling exhausted.#$b#I know that being a farmer is pretty tiring work... don't overdo it!	我哋喺診所出售啲非處方藥……如果你覺得疲憊，隨時嚟睇睇。 #$b#我知當農民系相當攰慨工作……唔好濟勞累！
+789	Harvey	Mon2	I feel responsible for the health of this whole community... it's kind of stressful.#$e#It's a pretty small community, and I'm fortunate to be able to build a good relationship with my patients.	我覺得自己對成議員慨健康負有責任……呢系種壓力。 #$e#呢系一個相當小議員，我好好彩可以同我慨病人建立良好慨關係。
+790	Harvey	Mon6	I'd like to stay in Stardew Valley for a while. I'm finally starting to feel involved in the community.#$e#It feels good to know that you're useful.	我想喺星雲谷對上一段時間。我終於開始覺得自己共到議員中嚟嘞。 #$e#知道自己係有用慨，感覺好好。
+791	Harvey	Mon10	Oh! Hi, @.$l#$e#Do you... have any medical questions?$l	哦！你好，@.$l#$e#你，有咩醫療問題呀？ $l
+792	Harvey	Tue	Feel free to stop by my office if you're ever feeling ill.#$e#You're young, though. You'll probably stay healthy without trying.$h	如果你覺得唔舒服，請隨時嚟我辦公室嚟。 #$e#你仲後生，不過。你可能唔使努力就可以保持健康。$h
+793	Harvey	Tue8	Don't overwork yourself, @. Doctor's orders!#$e#Your health is important to me.$l	唔好俾自己濟勞累，@。醫生慨說話！ #$e#你慨健康對我好重要。 $l
+794	Harvey	Wed4	I'd like to get to know you better, @. Let's put aside our doctor-patient relationship.	我想更加好地瞭解你，@。我哋將我哋慨醫生同病人慨關係，擺喺一邊。
+795	Harvey	Wed6	It's nice to have a friend in town.$h	有個朋友喺城裡真係好。$h
+796	Harvey	Wed8	You have a really healthy glow. That's good.$h	你有一種非常之健康慨光澤。好好。$h
+797	Harvey	Wed	Remember to cover your mouth when you sneeze.#$e#Then make sure to wash your hands.	打赫痴時記得揞住嘴。 #$e#然後一定要洗手。
+798	Harvey	Thu8	It's a lot of work, being a doctor. I don't eat as well as I should.$s#$e#If I didn't live alone I think it would be easier.$l	作為一個醫生，呢系一個好大慨工作。我食得冇咁好。 $s#$e#如果我唔係一個人住，我想就會比較容易。$l
+799	Harvey	Thu	Nutrition is important, so make sure and eat well. Try to increase your vegetable intake!#$e#Home-cooked meals are best. Do you cook?	營養好重要，所以要確保並吃好。盡量增加菜慨攝入量！ #$e#家庭烹飪啲飯餸系最好慨。你識煮飯啊？
+800	Harvey	Fri	It's a beautiful day, isn't it?#$e#I wish I had less work to do.$s	呢個系一個好靚慨日子，唔係咩？ #$e#我希望我有更少慨嘢要做.$s
+801	Harvey	Fri4	If you want to hang out in my apartment, that's okay with me. I live above the clinic.	如果你想喺我慨公寓度玩，我都冇意見。我住診所慨樓上。
+802	Harvey	Fri10	Stop by my place if you ever need a confidential check-up.$l	如果你要個秘密慨檢查，唔該去我度。$l
+803	Harvey	Sat	Can I do anything for you?#$e#Take care.	我可唔可以幫你做啲咩呀？#$e#保重。
+804	Harvey	Sat4	I came here because I liked the small-town atmosphere, and the potential for a holistic approach to patient care.#$e#I've grown to really love it.$h	我嚟到呢度係因為我鍾意呢度慨小鎮氛圍，與及對病人進行整體護理慨潛質。#$e#我真係好鍾意。$h
+805	Harvey	Sat8	*Sigh*... I'm starting to feel kind of old...#$e#The older you get the more memories you're burdened with. It can be overwhelming.$s#$e#I think I'll stay younger with you around.$l	*嚡嚡聲*…我開始覺得自己有D老喇……#$e#你越老，你所承擔慨嘢就多。佢可以系壓倒性慨。 $s#$e#我想有你喺身邊，我會保持後生。.$l
+806	Harvey	Sun	Hmm... I'm struggling to make ends meet. I don't have enough patients.#$e#I guess I should try to get patients from the neighboring towns...	嗯…我喺度為生計而掙扎。我冇緊要慨病人。 #$e#我諗我應該嘗試喺隔籬慨城鎮獲得病人。
+807	Harvey	Sun6	Imagine having a patient's life completely in your hands, and failing to keep them alive... that's something that will haunt you forever.$s	想像一下，病人生命完全掌握你手，而你就唔可以保住佢哋慨性命……咁系會永遠困擾你慨嘢。 $s
+808	Harvey	event_george1	Thanks, @.$h#$b#You see, George, I'm just trying to help you.	多謝，@.$h#$b#你睇，阿George，我只係想幫助你。
+809	Harvey	event_george2	*Sigh*$s#$b#Look, George. If you want to behave like this I'm going to have to tell your wife. I don't think she'll be happy.	*嘆息*$s#$b#聽著，George。如果你想這樣做，我就到告訴你的妻子。我唔認為佢會開心。
+810	Harvey	event_aerobics1	Thanks, @. I appreciate that.$h	多謝，@。我好感激。 $h
+811	Harvey	event_aerobics2	*Sigh*... rude.$s	*嘆息*...... 無禮貌。 $s
+812	Harvey	event_heart1	Oh! Hospitals make you nervous, huh?#$b#Just try and relax. I'm here to help.$h	哦！醫院搞到你緊張，嗯？ #$b#只要試著放鬆。我係嚟幫手慨。 $h
+813	Harvey	event_heart2	Okay. That makes sense.	好. 這幾有道理。
+814	Harvey	event_heart3	Um. Okay... If you say so.$s	嗯 。好囉... 如果你咁講慨話。 $s
+815	Harvey	event_grave1	...You're right.#$b#...Thanks.	... 你係啱慨. #$b#... 多謝.
+816	Harvey	event_grave2	*sigh*$s	*嘆氣*$s
+817	Harvey	summer_Mon	It's okay to get a moderate amount of sunlight. Just don't get burnt.#$e#Okay. Take care! Stay healthy.	接受適度的陽光照射係可以慨。只係唔好畀曬傷。 #$e#好啦。照顧好自己！保持健康。
+818	Harvey	summer_Thu	Exercise is important, but don't get too exhausted, or you might end up at my clinic!#$e#Make sure and listen to your body.	鍛煉好緊要，但唔好太攰啦，否則你可能會喺我慨診所結束！ #$e#確保並傾聽你的身體。
+819	Harvey	summer_Fri	People don't get sick much during the summer. That's nice, but it also means less business for me.	啲人喺夏天唔係幾病。幾好，但也意味著我慨生意少咗。
+820	Harvey	fall_Fri	Have you been going into the mines, @?#$e#It's a dangerous place. I recommend against it.	你有冇進入礦區，@？ #$e#系個危險慨地方。我建議唔好去。
+821	Harvey	fall_Sat	When you eat certain foods you'll perform better.#$e#Eating a 'Farmer's Brunch' will give you the nutrition you need to water and harvest crops better!	當你食某些食物時，你會表現得更好慨。 #$e#吃“農民的早午餐”會給你帶來所需的營養，令你更好地澆灌和收割莊稼！
+822	Harvey	winter_Wed	It's flu season, so you'd better be extra careful.#$e#Make sure to wash your hands often.	而家系流感季節，所以你最好特別小心。 #$e#確保經常洗手。
+823	Harvey	winter_Sun	I hate to say this, but I do make a lot more money during flu season.#$e#I guess if people stopped getting sick, I'd be out of business.#$e#Don't get the wrong idea! I want people to be healthy... really	我唔想咁講，但我確實喺流感季節賺咗好多錢。 #$e#我想如果啲人唔再病，我就冇生意咗。 #$e#唔好有錯誤慨諗法！我希望人們能夠健康... 真慨
+1419	Sam	Introduction	Hey, I'm Sam. Good to meet you.$h	嘿，我係Sam。見到你好開心. $h
+1420	Sam	Resort_Entering	Wow, what a spot!	哇，真是個好地方！
+1421	Sam	Resort	I bet there's some cool stuff deeper on the island.#$e#Willy said we have to stay here, though... some kind of liability issues or something.$s	我打賭喺島慨深處有啲好酷慨嘢。 #$e#Willy說我們必須呆在這裡，雖然...... 某種責任問題或乜嘢。$s
+1422	Sam	Resort_Leaving	I'm feeling pretty good from all the sunlight.$h	我在陽光下感覺好好。$h
+1423	Sam	Resort_Shore	Check out these gnarly waves... Guess what? I'm gonna save up for a surfboard.	睇下呢啲可怕慨海浪...。你估發生咗乜嘢? 我想話儲錢買一塊衝浪板。
+1424	Sam	Resort_Towel	%Sam is playing a jazzy tune on his guitar.	%Sam用緊佢慨結佢彈奏一首爵士樂曲。
+1425	Sam	Resort_Towel_2	Maybe I should learn to play the ukelele.#$e#Abby on the congas and Sebastian on the steel drums... 'The Pelicans of Paradise'...$s#$e#What's the matter, you look worried.$h	或者我應該學習彈奏Ukelele。 #$e#Abby系打congas，Sebastian系打鋼鼓... "The Pelicans of Paradise"...$s#$e#W咩事，你好愁咁.$h
+1426	Sam	Resort_Bar	I'm just getting juiced up, then it's back to the beach.	我只係喺補充能量，然後就回沙灘咗。
+1427	Sam	danceRejection	Hmm... I dunno. Maybe next year.$s	嗯 ... 我唔知. 也許明年啦！ $s
+1428	Sam	dumped_Guys	...$a	...$a
+1429	Sam	secondChance_Guys	Alright, I'm done with the cold shoulder act. Let's just forget about what happened.$7	好啦，我有受夠冷眼旁觀慨行為。畀我哋忘掉所發生慨一切啦！ $7
+1430	Sam	breakUp	Wait... what?!$8#$b#I thought we were doing okay... I guess I was way off... alright, then.$9#$b#Yeah, sure... we can still be friends.$9	等陣...... 咩話? $8#$b#我以為我哋做得好好...... 我想我偏離啦方向。 我想我偏離啦...... 好啦，咁。$9#$b#是的，當然...... 我哋仍然可以成為朋友。.$9
+1431	Sam	divorced	I'm sorry, @. I don't think I can still be your friend.$s	我好抱歉，@。我唔認為我仲可以做你慨朋友。 $s
+1432	Sam	Mon2	Hey, how's it going?#$e#Last night I practiced guitar for 4 hours straight. My fingers hurt like crazy.$s#$e#Bye, I've got something to do...	嘿，咩環境呀？ #$e#昨天晚上我連續練咗4個小時慨結佢。我的手指痛到死。 $s#$e#拜拜，我還有事要做......
+1433	Sam	Mon	Hey, farmer.	嘿，農夫。
+1434	Sam	Mon8	I'll tell you a secret... my name 'Sam' is short for 'Samson'.$10#$e#Most people don't know that so keep it on mute.	我告訴你一個秘密...... 我慨名Sam系'Samson'慨簡稱。$10#$e#大多數人都唔知，所以保持靜音。
+1435	Sam	Tue	Oh, hi! It's good to see you again.#$e#Take it easy.	哦，你好！好開心又見到你。好開心又見到你。 #$e#別緊張。
+1436	Sam	Tue4	Hi, @. Do you want to hang out or something?#$e#Sleeping feels nice but sometimes I wish I could skip it... it's just such a time-waster.	嗨，@。你想出去玩玩嗎？ #$e#睡覺的感覺幾好，但有時我希望我能飛佢...... 佢只是這樣一個時間浪費者。
+1437	Sam	Wed	I'm trying to come up with a new song for my band, but I'm blanking...#$q 19/20 Wed_old#Hey.. What do you think my new song should be about?#$r 20 30 Wed_20#Farming, mining, and chopping wood.#$r 8820 30 Wed_20#A city in the sea.#$r 8821 30 Wed_20#Trains.#$r 19 -50 Wed_19#Choose anything. It'll still be a horrible song.	我想為我的樂隊想出一首新歌，但我腦子裡一片空白......#$q 19/20 Wed_old#Hey. 你覺得我慨新歌應該系乜嘢？ #$r 20 30 Wed_20#農耕同砍木#$r 8820 30 Wed_20#城市之海#$r 8821 30 Wed_20#火車。#$r 19 -50 Wed_19#隨便揀。仍然會系一首可怕慨歌。
+1438	Sam	Wed_old	$p 19#But I already know what you think about it.$a|Thanks to your help I'm already done with the lyrics!$h	$p 19#但我有知道你對佢的看法。 $a|感謝你慨幫助，我有寫好歌詞！ $h
+1439	Sam	Wed_19	Hey, man... what the heck is your problem? Sorry I asked.$a	嘿，伙計... 你到底有咩問題？對唔住，我問咗。 $a
+1440	Sam	Wed_20	Hey, you know what? That sounds perfect. Thanks!$h	嘿，你知唔知 聽起嚟好完美。多謝! $h
+1441	Sam	Wed6	I've been friends with Sebastian for a while. He's a pretty cool guy.#$e#If you two weren't around I wouldn't really have any friends in town.	我同Sebastian做朋友有一段時間啦。佢係個好酷慨傢伙。 #$e#如果你哋兩個不在身邊，我喺城裡就真係冇任何朋友咗。
+1442	Sam	Wed10	Hey buddy. You look like you're full of energy today!^@. Um... I just wanted to say... You look nice today.$10	嘿，伙計。你今日睇嚟充滿咗活力！ ^@。嗯...... 我只係想講......。你今日睇嚟唔錯。$10
+1443	Sam	Thu6_1	I think my Dad might be coming back in a year or so.#$e#I guess you might be able to meet him, then. If you're still living here.#$e#You wouldn't abandon the farm after putting so much effort into it!	我諗我阿爸可能會喺一年度慨時間，企返嚟。 #$e#我想你可能會見到佢，然後。如果你仲住喺呢度慨嘢。 #$e#你唔會喺投入咁多力後放棄農場啲！
+1444	Sam	Thu6_2	...I have mixed feelings about my father being back. He seems strange.$s#$b#But I guess I haven't seen him in 3 years... so that could explain it.	……我對我阿爸返嚟有復雜慨感覺。佢好似好怪。 $s#$b#，但我諗我已經三年冇見過咗，所以呢可以解釋。
+1445	Sam	Thu_3	*sigh*... what am I still doing here?	*嚡嚡聲*……我重喺度做緊咩？
+1446	Sam	Thu	The clouds look great this time of year, don't they?#$e#Like scoops of vanilla ice cream floating on blue raspberry sauce... Or maybe I'm just hungry.	呢個季節慨雲好似好好，唔係咩？ #$e#好似一匙羹匙羹漂浮喺藍色勒士啤梨醬料上慨香草雪糕……或者，或者我只係肚餓啦。
+1447	Sam	Thu2	My Dad is a soldier, fighting against the Gotoro Empire. That's why he's not here...#$e#He'll come back someday.#$e#...I've heard some terrible things about the Gotoro Empire...$s	我爸爸系軍人，而家與哥特羅帝國作戰。呢就係，點解佢唔喺度……#$e#佢總有一日會返嚟慨。 #$e#……我聽咗一啲介紹御道夫帝國慨可怕嘢……$s
+1448	Sam	Thu_2	Well, my Dad is back. Have you met him?#$b#I'm just glad he's okay.	哇，我阿爸返嚟啦。你見過佢咩？ #$b#我只係好開心佢冇事。
+1449	Sam	Thu2_2	Well, my Dad is back. Have you met him?#$b#I'm just glad he's okay.	哇，我阿爸返啦。你見過佢咩？ #$b#我好開心佢冇事。
+1450	Sam	Fri	Did I ever tell you we used to live in the city?#$e#There's a lot more stuff going on, but it's also kinda noisy and hectic... It's hard to say which is better.	我有無話過你，我哋以前喺城裡？ #$e#邊有多啲慨嘢，但都有啲嘈同頻撲……好難講邊個更好。
+1451	Sam	Fri4	Dad used to work as a garbage man in the city.#$e#You don't even want to know some of the things he found in people's trash.	爸爸曾經喺城裡做過垃圾工。#$e#你甚至唔想知佢喺啲人慨垃圾中發現慨一啲嘢。
+1452	Sam	Fri10	The older I get the more attached I feel to the valley.#$b#Although I could be biased... for a certain reason.$10#$e#So, how are you doing today?$h	我細越大，對山卡罅慨感情就越深。 #$b#即管我可能有偏見－－因為某種羅。 $10#$e#咁，你今日過得點啊？$h
+1453	Sam	Sat4	Oh! I just remembered I'm supposed to call my Grandma. Okay, I'm going to put this rubber band on my wrist so I don't forget.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h	哦！我啱啱諗起我應該畀我阿嫲打電話。好啦，我要將呢個膠箍套喺手腕上，啖我就唔會忘記咗。 #$e#我一定要為自己做啲小提醒，如果唔係，我就完全唔記得做野。$h
+1454	Sam	Sat	Hmm. I just remembered that I was meaning to do something... But I forgot.#$e#This happens to me all the time.	嗯。我啱啱諗起，我本來想做一件事……但我唔記得#$e#我成日都係咁。
+1455	Sam	Sun8	Sometimes I wonder if my mother is actually happy with her life...$s#$e#I asked her once and got the feeling she was hiding some inner pain.	有時我想知道我母親是否真的對佢的生活感到滿意......$s#$e#我問過佢一次，感覺佢隱藏啦一些內心的痛苦。
+1456	Sam	Sun	Oh, it's a nice day... isn't it?	哦，今日天氣唔錯...... 唔係咩?
+1457	Sam	10	Did you watch the game last night?#$b#Or wait, do you even have a TV set...?	你昨晚睇比賽啦嗎？ #$b#或者等等，你甚至有部電視機......？
+1458	Sam	14	Ugh, I stepped in something gross earlier... and I just bought these shoes.$s	骗，我頭先踩到啦一些核突嘅嘢...... 而我啱啱買咗呢对鞋。 $s
+1459	Sam	spring_21	Sometimes those spring petals that float around make my nose drip.$s#$e#I like summer best, myself.	有時，嗰啲飘嚟飘去嘅春天嘅花瓣畀我嘅鼻子滴水。 $s#$e#我自己最鍾意夏天。
+1460	Sam	Event_band1	Hey, you know what? That's exactly the kind of style I've been thinking about... for the band.	嘿，你知唔知 這正是我一直在考慮的...... 樂隊嗰種風格。
+1461	Sam	Event_band2	Hey, you know what? That's exactly the kind of style I've been thinking about... for the band.	嘿，你知唔知 正是我一直在考慮嘅...... 樂隊嘅風格。
+1462	Sam	Event_band3	Hey, you know what? That's exactly the kind of style I've been thinking about... for the band.	嘿，你知唔知呢個正是我一直幫樂隊考慮嘅風格...... 。
+1463	Sam	Event_band4	Hey, you know what? That's exactly the kind of style I've been thinking about... for the band.	嘿，你知唔知呢個正是我一直幫樂隊考慮嘅風格...... 。
+1464	Sam	event_room1	Oh, I see.	哦，我明白。
+1465	Sam	spring_12	My little brother gets so excited for festivals. He's been talking about tomorrow's egg hunt all day.	我嘅细佬對節日感到非常興奮。 佢成日都喺談論聽日嘅彩蛋活動。
+1466	Sam	spring_23	Why couldn't the flower dance be today so I could get work off?$s	點解花舞唔可以喺今日舉行，這樣我就可以放工啦？$s
+1467	Sam	winter_7	One time, Gus fell in the river during the Ice Festival. We had to build a huge fire in the saloon to dry him out.#$e#We were all worried we'd never taste his famous spaghetti ever again.	有一次，古斯喺氷雪節期間掉進啦河裏。 我哋不得不喺酒館度生起大火，把佢烤乾。 #$e#我哋都擔心再也嘗不到佢著名嘅意大利麵。
+1468	Sam	fall_26	Tonight, after everyone is asleep, that weird old man who lives in the woods will set up the haunted maze. He always makes sure no one is around to see him working.	今晚，在所有人都睡著後，那個住在樹林裡的怪老頭會佈置鬧鬼的迷宮。 佢成日確保周圍冇人睇到佢工作。
+1469	Sam	summer_10	I don't have to work tomorrow! I've never been so happy.$h	我聽日唔使工作啦！ 我從來冇咁開心過。$h
+1470	Sam	winter_24	The Feast of the Winter Star is supposed to be a time to show gratitude for all the good things in life.#$b#Me? I'm mostly interested in the food. Hehe.$h	冬星節應該係對生活中所有美好事物表示感謝嘅時候。 #$b#我？ 我主要對食物感興趣。哈哈。$h
+1471	Sam	event_room2	Yeah... That's what happened!	係呀... 就係咁回事兒！
+1472	Sam	event_snack1	He's right... That's what happened.$s^She's right... that's what happened.$s	佢係啱嘅... 就係所發生嘅事情。 $s^佢是對的...... 就係所發生嘅事情。$s
+1473	Sam	event_snack2	Yeah... That's what happened!	係... 就係所發生嘅事情！
+1474	Sam	event_snack3	What!? He's lying!$a^What!? She's lying!$a	咩話!? 佢喺講大話！ $a^乜嘢！？ 佢在講大話！ $a
+1475	Sam	summer_Mon2	Hey, how's it going?#$e#I'm hungry.#$e#See you later.	嘿，咩環境呀？ #$e#我餓啦。 #$e#待陣見。
+1476	Sam	summer_Mon6	Have you been to the desert yet?#$e#You can find some interesting things there. Dad took me a couple times when I was younger.	你去過沙漠啦嗎？ #$e#你可以喺嗰度搵到啲有趣嘅嘢。 我後生嘅時候，爸爸帶我去過幾次。
+1477	Sam	summer_Mon	There's a little less pollen in the summer... my nose is really happy.	夏天的花粉少一點...... 我的鼻子真係好開心。
+1478	Sam	summer_Tue	Oh, hi! It's good to see you again.#$e#Goodbye for now.	哦，你好！ 你係邊個? 好开心又見到你。 #$e#暫時告別。
+1479	Sam	summer_Tue4	Hi, @. Do you want to hang out or something?#$e#I'm so energized during summer I hardly have to sleep!	嗨，@。 你想出去玩玩嗎？ #$e#我在夏天精力充沛，幾乎不用睡覺！
+1480	Sam	summer_Wed	Hi. Taking the day off?#$e#Sounds interesting.	嗨，請假啦？ #$e#聽起嚟好有趣。
+1481	Sam	summer_Wed2	I saw a spider on my ceiling last night. They sure like the warmth.#$e#I hope he didn't crawl into my mouth while I was asleep...$s	我昨天夜晚喺我嘅天花板上看到一隻蜘蛛。 佢哋肯定喜歡温暖。 #$e#我希望佢冇喺我瞓覺時爬進我的嘴裏...$s
+1482	Sam	summer_Thu	Dad was telling me about our national enemy, the Gotoro Empire... They sound like a ruthless bunch.	爸爸告訴我關於我們嘅國家敵人，Gotoro帝國...。 佢哋聽起嚟係一群無情嘅人。
+1483	Sam	summer_Thu6_1	Sometimes I can hear my Dad pacing down the hallway at night.$s#$b#...But he won't tell us what's troubling him.	有時我可以聽到爸爸夜晚喺走廊上踱步。 $s#$b#...... 但佢唔會話畀我哋有咩事困擾住佢。
+1484	Sam	summer_Fri	You know... I used to live in the city and I have to admit, this place is much nicer in the summer.$h#$e#The city is so hot with all that concrete.	你知... 我以前住喺城里，我不得不承認，呢個地方喺夏天要好得多。 $h#$e#城市入面嘅混凝土太熱啦。
+1485	Sam	summer_Sun	When you see hot air balloons drifting over the sea, you'll know that summer's in full swing.	当你睇到熱氣球喺海面上漂迻時，你就會知道夏天已經開始咗。
+1486	Sam	fall_Mon2	I like taking walks in the forest this time of year. The temperature is so comfortable#$e#...$h	我中意年年呢個時候喺森林度散步。 溫度是如此舒適#$e#...$h
+1487	Sam	fall_Mon	Oh, hi. Are you making friends with anyone in town?#$e#Bye.	哦 ， 你好 。 你同鎮上嘅人交朋友啊？ #$e#拜拜。
+1488	Sam	fall_Tue	My shoes always seem to wear out this time of year. Look, my toe's poking through!$h#$e#That's what happens when you skateboard too much.	我的鞋子似乎成日喺年年嘅呢個時候着壞。 看，我的腳趾都戳破晒！ $h#$e#就係你玩滑板太多嘅後果。
+1489	Sam	fall_9	I ordered a new pair of shoes online. They're the same style so I know they'll fit right.	我喺網上訂購啦一雙新鞋。 佢們係同樣嘅款式，所以我知道牠們會好啱。
+1490	Sam	fall_16	I ordered some shoes online more than a week ago! Man, they're really taking a long time.#$e#I guess we must really live in the middle of nowhere.$s	我一个多星期前喺網上訂咗幾对鞋！ 夥計，佢哋真係花咗好長時間。 #$e#我想我哋一定係真嘅住喺荒郊野外。 $s
+1491	Sam	fall_23	Ah, my feet feel great in these new shoes. They're a little crisp, but they'll break in. Especially after I run through the haunted maze this weekend.$h	啊，我隻腳穿着呢对新鞋感覺好好。 牠們有點脆，但牠們會磨合。 尤其係喺我呢個周末跑完鬼屋迷宮之後。 $h
+1492	Sam	fall_Tue4	Hi, @. Do you want to hang out or something?#$e#Just stop by whenever you want.	嗨，@。 你想出去玩嗎？ #$e#只要你想，隨時都可以嚟。
+1493	Sam	fall_Wed	Hey... something smells good, like pizza.#$e#Do you smell that? Maybe Mom's cooking something.	嘿...... 有啲嘢聞起嚟好香，好似pizza。 #$e#你聞到啦嗎？ 或者媽咪喺煮嘢。
+1494	Sam	fall_Thu6_1	I think my Dad might be coming back next year.#$e#I guess that's kind of soon. Weird.	我想我爸可能出年就會返嚟喇。 #$e#好奇怪。
+1495	Sam	fall_Thu6	I guess I should start thinking about moving out soon...$s#$e#...But I would miss Mom's fish casserole, so I dunno...$s#$e#I hate making decisions.	我想我應該開始考慮盡快搬出去......$s#$e#...... 但係我會掛住媽咪嘅瓦煲魚，所以我唔知......$s#$e#我討厭做決定。
+1496	Sam	fall_Thu	Did you ever notice all the spider webs that appear during the fall?#$e#If you get up early you'll see them covered in dew... like little stars.	你有冇注意到秋天出現嘅所有蜘蛛網？ #$e#如果你早起，你會看到佢們被露水覆蓋...... 好似小星星。
+1497	Sam	fall_Fri	I used to live in Zuzu City, you know. The biggest difference is the noise. It's never quiet in the city.#$e#There's way more people around you, always. And it's always bright with city lights, even at night.#$e#I guess which setting you like depends on your personality.	我以前住喺唐人街，你知咩？最大慨有咩唔同噪音。城市裡面永遠唔會安靜。 #$e#你周圍慨人多啲，仲系咁。而且城市慨燈光係好著，就算系喺晚。#$e#我諗你中意邊種環境決於你個性。
+1498	Sam	fall_Fri10	I think I've grown to like the country more than the city.$h#$b#Although I could be biased... for a certain reason.$10#$e#So, how are you doing today?$h	我諗我越嚟越鍾意鄉村而唔$城市。 h#$b#雖然我可能有偏見－－因為某種。 $10#$e#咁，你今日過得點啊？$h
+1499	Sam	fall_Sat4	I'm lucky to have the biggest room in the house to myself.#$e#I guess there's advantages to being the oldest child.	我好好彩，我有屋企最大慨房間。 #$e#我想作為最年長仔都有著數。
+1500	Sam	fall_Sat	Hmm. I think I was meaning to do something... But I forgot.#$e#This happens to me all the time.	嗯。我諗我係想做啲野……。但我唔記得咗。 #$e#呢種情況經常發生喺我身上。
+1501	Sam	fall_Sun8	The first week of fall is already over. Man, that went by fast.$s#$e#Whatever. I'm just happy that you came to visit me!#$e#So do you have anything new to tell me?	秋天第一個禮拜已經過去喇。天呀，過得好快。 $s#$e#點都好。我只係好開心，你可唔可以離探下我！ #$e#咁你有咩新消息要講我聽呀？
+1502	Sam	fall_Sun	It's hard to have fun on Sunday... I keep thinking about having to go to work tomorrow.$s	星期日好難有樂趣……。我一直喺度諗聽日要去翻工慨事。 $s
+1503	Sam	fall_14	Hi @.#$e#Hmm.. I wonder if I could grow a cactus in my room?	嗨@.#$e#嗯...... 我想知我是否可以喺我間房度種上仙人掌？
+1504	Sam	winter_Mon2	Everyone's indoors during the winter, so I can play guitar as loud as I want.$h	冬天大家都在室內，所以我可以隨心所欲地彈結佢。 $h
+1505	Sam	winter_Mon	Hi... Cold, isn't it?	嗨...... 係咪好凍？
+1506	Sam	winter_Tue	Oh, hi! It's good to see you again.#$e#Take it easy.	哦，你好！好開心又見到你。 #$e#別緊張。
+1507	Sam	winter_Tue4	Hi, @. Do you want to hang out or something?#$e#Well, it's a good time of year to catch up on all the sleep I've missed.$h	嗨，@。你想出去玩玩嗎？ #$e#嗯，而家系一年中慨好時候，可以補上我錯過的所有睡眠。$h
+1508	Sam	winter_Wed	$d Joja#I hate working at JojaMart, but how else am I going to make money in this town?|I'm glad I work at the museum now. It's way more interesting than that depressing JojaMart ever was.	$d Joja#我討厭在JojaMart工作，但在這個鎮上我還能怎麼賺錢呢？ |我幾高興我現在在博物館工作。佢比那個令人沮喪的JojaMart要有趣得多。
+1509	Sam	winter_Thu6_1	I think my Dad is coming back this spring.#$e#It's been 3 years since I've seen him. This is going to be strange.	我想我爸爸今年春天會返嚟。 #$e#我有三年冇見過佢。將會好奇怪。
+1510	Sam	winter_Thu6	Dad's been back for a while now. I guess I'm finally getting used to it.	爸爸返嚟已經有一段時間啦。我想我終於慣咗。
+1511	Sam	winter_Thu	My Dad is in the military, fighting against the Gotoro Empire. That's why he's not here.#$e#He's coming back soon, though.	我爸爸喺軍隊度，與哥特羅帝國作戰。就係點解佢唔喺呢度。 #$e#之，佢好快就會返嚟慨。
+1512	Sam	winter_Thu_2	One thing that's nice about winter... all the mosquitos are gone.	冬天有一件事幾好...... 所有慨蚊都唔見咗。
+1513	Sam	winter_Fri	The worst thing about the snow is getting your feet soaked. You're lucky in those thick boots.	落雪時最糟糕的事情係你慨腳被淋濕啦。你穿著雙厚厚慨靴子，真係幸運。
+1514	Sam	winter_Sat4	I just remembered I need to change the strings on my guitar.#$b#Okay, I'm going to write a note on my wrist so I remember to do it tonight.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h	我啱啱想起嚟要畀結佢換弦咗。 #$b#好啦，我要在手腕上寫張紙條，這樣我就會記得今晚要做。 #$e#我必須畀自己做一些小提醒，否則我就會完全忘記做事情。$h
+1515	Sam	winter_Sun8	It would be fun if we could go sledding, wouldn't it?#$e#I don't think there are any good hills nearby.$s#$e#Plus, I don't have a sled.#$e#So, how have you been doing lately?	如果我哋可唔可以去滑雪橇，會好有趣，唔係嗎？ #$e#我唔認為附近有咩好山。 $s#$e#此外，我冇雪橇。 #$e#咁，你呢排過得咩環境呀？
+1516	Sam	winter_Sun	Try not to make a mess in the house or my Mom will flip.	盡量唔好將屋企弄得一團糟，否則我阿媽會反曬面慨。
+1517	Sebastian	Introduction	Oh. You just moved in, right? Cool.#$e#Out of all the places you could live, you chose Pelican Town?	哦 。你啱啱搬入嚟，對嗎？ #$e#在所有你能住的地方中，你選擇啦鵜鶘鎮？
+1518	Sebastian	Resort_Entering	I liked the boat ride. At one point you couldn't see any land at all..	我中意坐船。在某一點上，你根本睇唔到任何陸地。
+1519	Sebastian	Resort_Leaving	I'm ready to get back home.	我有準備好回家。
+1520	Sebastian	Resort	The beach is nice, but I don't love the crowds.	沙灘唔錯，但我唔鍾意人多慨地方。
+1521	Sebastian	Resort_Shore	You think Willy would let me lug a jet ski out here?#$b#...Nah.$h	你認為威利會令我拖住噴氣式滑雪板嚟呢度呀？ #$b#... 唔啦。$h
+1522	Sebastian	Resort_Wander	...Now, if I were a tropical frog, where would I hide...$h	... 現在，如果我係一隻熱帶青蛙，我會藏喺邊度...$h
+1523	Sebastian	Resort_Wander_2	I bet this place looks pretty cool in the rain.	我打賭呢個地方喺雨中看起來非常酷。
+1524	Sebastian	Resort_Towel	It's good to get away from the computer and see the real world sometimes. I forget how nice it can be.$h	有時離開電腦，睇下真實慨世界系件好事。我唔記得佢可以有多好。$h
+1525	Sebastian	Resort_Bar	I usually wear black, but in this heat...	我通常穿黑色慨衫，但喺咁熱慨天氣度...
+1526	Sebastian	danceRejection	No... There's someone else I want to dance with.	不，等我仲想和別人跳舞。
+1527	Sebastian	divorced	Why do you keep bothering me? I'm trying to forget about you.$s	你做乜嘢阻我開？我想忘掉你。 $s
+1528	Sebastian	dumped_Guys	I don't want to see you for a while.$u	我有段時間唔想見到你啦。$u
+1529	Sebastian	breakUp	... alright...$s#$b#I guess I'll see you around, then...$s	... 好啦...$s#$b#我想我會看到你的，然後...$s
+1530	Sebastian	secondChance_Guys	Hey...	嘿...
+1531	Sebastian	Mon	Um... need something?	嗯 ... 需要咩嗎？
+1532	Sebastian	Mon4	If I just disappeared would it really matter?$s	如果我就這樣消失啦，真係有關係嗎？$s
+1533	Sebastian	Tue	I was thinking... people are like stones skipping over the water.#$b#Eventually we're going to sink.	我喺度諗...... 人就好似石喺水面上跳動。 #$b#最終我哋會沉沒。
+1534	Sebastian	Tue6	I like your new boots!$h^Your hair looks nice today.$h#$e#Do you want to hang out for a while?	我中意你慨新靴！ $h^你慨頭髮今日睇嚟唔錯。 $h#$e#你想喺出便玩一陣呀？
+1535	Sebastian	Wed	What am I going to do today?#$e#Probably nothing.	我今日要做咩？ #$e#可能乜都唔做。
+1536	Sebastian	Wed2	Sam is probably my only friend in this town.#$e#Well, Abby is nice too, but...$h#$e#Umm.. nevermind.	薩姆可能係我喺呢個鎮上唯一慨朋友。 #$e#嗯，Abby都好好，但係...$h#$e#嗯... 算啦，唔講咗。
+1537	Sebastian	Wed2_inlaw_Abigail	Sam is probably my only friend in this town, anymore...	Sam可能是我在這個鎮上唯一的朋友啦......。
+1538	Sebastian	Wed6	You and Sam are probably my only friends in this town.$s	你同Sam可能係我喺呢個鎮上唯一慨朋友。$s
+1539	Sebastian	Wed10	Um... You're single, right?#$e#Just wondering!$l	嗯...... 你係單身，對嗎？ #$e#只是想知道！ $l
+1540	Sebastian	Thu	#$1 Sebastian1#I snuck into the caves last night and got a nasty cut from a rock crab. Don't tell anyone, okay?#$e#Hi.#$e#...want something?	#$1Sebastian1#我昨晚溜進山洞，被岩蟹劃啦一道噁心的傷口。唔好話畀任何人，好唔好？ #$e#你好。#$e#... 想要咩？
+1541	Sebastian	Mountain_47_23	I come here for the peace and quiet.	我到呢度嚟係為咗享受和平與靜。
+1542	Sebastian	Thu4	Why does everyone like Maru so much? Sure, she's smart and friendly, but don't they realize it's all just an attention-grabbing scam?#$e#Sorry...$s	做乜嘢個個都咁鍾意小丸子？當然，佢好叻，都好友好，但佢哋唔通唔知一切只係一個吸引人注意慨騙局呀？#$e#對唔住...$s
+1543	Sebastian	Thu6	Could you picture someone like me living on a farm? It seems ridiculous.$h	你能想像像我啖慨人生活喺一個農場度呀？似乎好荒謬。$h
+1544	Sebastian	Thu8	Could you picture me living on a farm?#$e#It seems ridiculous, but I have been thinking about it lately.	你能想像我住喺一個農場度呀？ #$e#似乎好荒謬，但我呢排一直在思考呢個問題。
+1545	Sebastian	Fri	Uh... I don't really know you.	呃...... 我唔真正瞭解你。
+1546	Sebastian	Fri2	*sigh*... If gas wasn't so expensive I'd ride my motorcycle to the city today.#$e#$q 15/16 Fri_old#So what do you do when you aren't working?#$r 15 0 Fri_bad#More Farming#$r 16 30 Fri_good#Comic books#$r 15 -30 Fri_bad#Shopping#$r 15 -30 Fri_bad#Sports	*嘆氣*... 如果汽油唔係咁貴慨話，我今日會騎住我慨電單車去城裡。 #$e#$q 15/16 Fri_old#咁你唔工作慨時候都做啲乜？ #$r 15 0 Fri_bad#更多耕種#$r 16 30 Fri_good#搞笑書#$r 15 -30 Fri_bad#購物#$r 15 -30 Fri_bad#運動
+1547	Sebastian	Fri_old	$p 16#Hey, if you're bored feel free to hang out in my room...$h|You probably prefer the small-town life, huh?	$p 16#嘿，如果你覺得無聊，可以到我的房間去玩......$h|你可能更喜歡小鎮的生活，嗯？
+1548	Sebastian	Fri_good	Oh yeah? Well, did you read the new 'Cave Saga X'? I won't spoil it for you, but oh man...$h	係咩? 好啦，你睇過新嘅《洞穴傳奇X》呀？ 我唔會破壞你嘅心情，但係哦，夥計......$h
+1549	Sebastian	Fri_bad	Oh yea? Hmm... Not really my thing, but everyone's different I guess.$u	係咩? 嗯 ... 我唔太喜歡，但我想個個都唔一樣。$u
+1550	Sebastian	Sat	What? I didn't hear you... I'm busy thinking about something.#$e#What do you want?	乜嘢，我冇聽見... 我正忙著想事情呢。 #$e#你想咩環境呀？
+1551	Sebastian	Sat2	You know, I should be doing something productive right now. I just lose focus too fast...$s#$b#Maybe I should drink more coffee?	你知道，我而家應該做一些有意義嘅事情。 我只是太快失去啦注意力......$s#$b#也許我應該多喝些咖啡？
+1552	Sebastian	Sun	Hey. Your name is @, right?	嘿，你嘅名係@？
+1553	Sebastian	Sun2	Having a good weekend? ...nice.	周末點呀？ ... 幾好.
+1554	Sebastian	Sun4	I usually stay inside, but I do go to the beach now and then.#$b#Pretty much only when it's raining, though.#$e#For some reason, staring off into the bleak horizon makes me feel... I dunno. Like it's worthwhile to keep pushing on, I guess.	我通常呆喺屋度，但我偶爾會去沙灘。 #$b#幾乎只有喺落雨嘅時候先去。 #$e#出於某種原因，凝視著暗淡的地平線令我覺得......。 我唔知. 就好似值得繼續前進一樣，我想。
+1555	Sebastian	Fri8	What's new?$h#$e#I'll be at the saloon tonight destroying Sam at pool again.$h	有咩新鮮事啊？ $h#$e#我今晚會喺酒館同Sam一起打桌球。$h
+1556	Sebastian	Sun10	I was just thinking about you...$l	我只是在想你...$l
+1557	Sebastian	Event_game1	Okay, that'll work.	好的，這就可以啦。
+1558	Sebastian	Event_game2	Good choice. That works well with my role.	唔錯嘅選擇。 同我嘅角色好搭。
+1559	Sebastian	Event_cave1	Not so fast! I want to know what it is.	唔好咁快！ 我想知佢係乜嘢。
+1560	Sebastian	Event_cave2	Really? It was making a lot of noise!	真係噶? 好大聲！
+1561	Sebastian	Event_cave3	It's too dangerous without a sword. But I like your sense of adventure.$h	冇劍太危險啦。 但我鍾意你嘅冒險精神。$h
+1562	Sebastian	event_garage1	Great.$8	好好.$8
+1563	Sebastian	event_garage2	Okay... Nevermind then.$9	好囉....... 噉就唔好理喇。$9
+1564	Sebastian	event_garage3	Don't worry, I'll make sure to show you the ropes before I let you do anything dangerous.$8^There's no need to worry... I'll make sure you're safe.$8	別擔心，喺我畀你做任何危險嘅事情之前，我一定會畀你指點迷津嘅。$8^ 我會保證你嘅安全。$8
+1565	Sebastian	event_city1	Hmm... Not exactly how I'd put it but, yeah.	嗯...... 唔係我想講嘅咁，但是，是的。
+1566	Sebastian	event_city2	Yea... That's exactly how I feel, too.$l	系吖，呢個正系我慨感覺。$l
+1567	Sebastian	event_city3	Oh... Well maybe this wasn't the right place to bring you, then. I thought you'd see the beauty in it.$s	哦……咁，或者呢唔係帶你嚟慨正確地方。我以為你會見到佢慨靚。$s
+1568	Sebastian	event_city4	Ugh... You sound like my Mom.$a#$b#...*sigh*$s#$b#You're right, though. I'm addicted to these things, it's not good.$s	呃……你慨氣呀好似我阿媽。 $a#$b#…*透氣*$s#$b#不過你講慨對。我對呢啲嘢上癮，呢可唔好。 $s
+1569	Sebastian	summer_Mon	Everyone is so happy in the sun. I don't get it.	每人喺陽光下都係咁慨快樂。我唔明。
+1570	Sebastian	summer_Mon6	Everyone is so happy when it's sunny out...#$e#Different people like different things, I guess.	每人喺陽光下都好開心……#$e#唔同慨人鍾意唔同慨嘢，我估。
+1571	Sebastian	summer_Tue	I'm looking forward to the cold, damp season. I feel more at home.	我等咗好耐住寒冷、潮濕慨季節。我覺得好似喺屋企。
+1572	Sebastian	summer_Wed	What's the point of going outside? I've already seen it all.	到出面去有咩意義架。呢？我已經睇到呢一切。
+1573	Sebastian	summer_Wed8	Why am I grinning? I guess I've been unusually happy lately...$l	點解我喺度笑？我諗我呢排異常開心……$l
+1574	Sebastian	summer_Thu	I definitely don't want to go swimming, if that's what you're going to ask.$s#$e#Oh, you just stopped to say hi? Sorry.	我絕對唔係想去游水，如果呢係你要問慨。 $s#$e#哦，你只係停落嚟打招呼？對唔住。
+1575	Sebastian	summer_Thu10	If you ever wanted to go swimming... I guess I'd do it.$l	如果你想去游水慨話，我諗我會去慨。 $l
+1576	Sebastian	summer_Mountain_58_35	#$c .5#The temperature only starts to get comfortable at night.#$e#It always seems to stay a little cooler by the lake.	#$c .5#溫度得夜晚先開始變得安樂。 #$e#喺湖邊似乎總能保持一啲涼意。
+1577	Sebastian	summer_Fri	Oh, hey. *yawn*	哦，*嘿嘿*
+1578	Sebastian	summer_Fri6	Hey, I'm glad you stopped by.$h#$e#How have you been coping with this heat?	嘿，我好開心你停落嚟。 $h#$e#你係點應對呢種高溫慨？
+1579	Sebastian	summer_Sat	I hope we're not having mushroom casserole tonight...$s	我希望我地今晚唔好食油菇煲……$s
+1580	Sebastian	spring_12	I'm not too big on festivals. Lots of commotion, too much social interaction... More stress than fun, if you ask me.	我唔係好鍾意牙齒印架嘛。大量慨騷動，太多慨社交活動……。如果你問我，壓力多於樂趣。
+1581	Sebastian	spring_23	Ugh... Tomorrow is the worst festival of the year by a mile. Just wait and see how stupid I look during the flower dance.	呃…聽日系今年最衰節嘞。等住睇我喺跳花舞時睇落有多壽啦。
+1582	Sebastian	fall_20	Are you looking forward to the Spirit's Eve festival? It's probably my favorite.$h	你等咗好耐聖靈節慨到慨咩？呢可能係我最愛。$h
+1583	Sebastian	fall_26	The Spirit's Eve festival is tomorrow. I really hope they have those skeletons on display again this year.$h#$e#I almost feel like they're my friends at this point.	聽日系聖靈降臨節嘞。我真係希望佢哋今年可以又展出啲骷髏。 $h#$e#喺呢一啲上我差唔多覺得佢係我朋友。
+1584	Sebastian	summer_10	Hehe... It might be funny to put something disgusting in the potluck soup tomorrow. Just don't poison anyone.#$e#Why ruin the potluck? Hmm... I guess some people feel liberated when the rigid structures of society break down a little. Maybe I'm weird.	嘿嘿…聽日喺聚餐慨湯裡放啲作嘔慨嘢可能會好得意。只係冇毒任何人。 #$e#點解要破壞聚餐活動？嗯…我想有啲人喺社會慨僵化結構略略打爛後會覺得解放。或者我好怪。
+1585	Sebastian	summer_27	Tomorrow we'll all be gathering at the docks to see the migration of the moonlight jellies. I think it starts at ten o'clock.	聽日我哋都會聚集喺碼頭，睇月光下慨啫喱慨遷移。我諗佢喺十點鐘開始。
+1586	Sebastian	winter_24	It's the eve of the winter star today. Better make sure you've got an empty stomach for the feast tomorrow.	今日系冬星慨前夜。最好確保你有一個吉肚嚟應付聽日慨盛宴。
+1587	Sebastian	summer_Sun	I usually only go outside after dark. Does that sound weird to you?	我通常只係天黑後至到出面去。你覺得呢聽落好怪咩？
+1588	Sebastian	summer_Sun4	Last night, I saw a group of bats flying around near the lake.#$e#I guess maybe they are feeding on the mosquitoes this time of year?	冬天有一件事幾好...... 所有慨蚊都唔見咗。#$e#我諗佢地今年食飽晒
+1589	Sebastian	fall_Mon	So... it's the big harvest season, isn't it?	咁……而家系大收穫季節，系未啊？
+1590	Sebastian	fall_Mon4	You're probably making a lot of money on your farm, huh?#$e#I guess I should get a job soon...$s	你可能喺你個農場上賺咗好多錢，系嘛？ #$e#我諗我應該盡快搵份工$s……
+1591	Sebastian	fall_Tue	Pumpkin spice this... pumpkin spice that... man, I do get sick of these seasonal fads.	番瓜香料呢個……番瓜香料嗰個……伙計，我真係對呢啲季節性慨流行覺得厭。
+1592	Sebastian	fall_Tue6	Who does Demetrius think he is, telling me what to do? He's not even my real father.$a	Demetrius以為佢係邊個，話畀我知應該做啲咩？佢甚至唔係我親生老豆。$a
+1593	Sebastian	fall_Wed	*yawn*... what time is it? I think I slept too much last night.	*打喊路*，而家係幾時？我諗我琴晚訓得太多啦。
+1594	Sebastian	fall_Wed8	I'm glad you showed up. I was starting to get bored.#$e#Now I feel a lot more energetic, believe it or not.	我好開心你出現。我開始覺得厭喇。 #$e#而家我覺得精力充沛多咗，信唔信由你。
+1595	Sebastian	fall_Thu	My room might be a little less depressing if I had a window...$s	如果我有一扇窗，我間房可能就唔會咁壓抑啦……$s
+1596	Sebastian	fall_Fri	*yawn*... I was up until 3 reading this new book...#$q 62/63 fall_Fri_old#Do you read, @?#$r 62 -30 Fri_bad#Yep. The classics.#$r 63 30 Fri_good#Only Sci-fi and Fantasy#$r 62 0 Fri_bad#I like a good Romance#$r 63 -30 Fri_bad#No, I don't read books	*打喊路*…我一直到3啲仲讀無呢本新書#$q 62/63 fall_Fri_old#你睇書啊，@？ #$r 62 -30 Fri_bad#系慨。 #$r 經典之作。 63 30 Fri_good#就科幻#$r 62 0 Fri_bad#我鍾意浪漫故事#$r 63 -30 Fri_bad#我唔睇書。
+1597	Sebastian	fall_Fri_old	$p 62#You probably wouldn't like it.$s|I think you'd like it.	$p 62#你可能唔中意佢。$s|我諗你會中意慨。
+1598	Sebastian	fall_Fri_good	Hey, me too. There's nothing like a good fiction to push the boundaries of the imagination.$h	嘿，我都係。冇咩過一部好慨小說更可突破想像力慨界限喇。$h
+1599	Sebastian	fall_Fri_bad	Huh. Sounds boring.	嗯。聽落好悶。
+1600	Sebastian	fall_Fri6	I've been reading a book about a farmer. Reminds me a lot of you, actually.$h#$e#Sorry if that creeps you out.$h	我一直都係讀一本關於農民慨書。令我諗起咗好多你，其實。 $h#$e#對唔住，如果呢畀你覺得驚。$h
+1601	Sebastian	fall_Sat	I was *this* close to moping in bed the entire day. Kinda wish I had, now.	我*就差*咁啲就可以喺張床上慪啦啦咁成日喇。而家，我真係希望我有。
+1602	Sebastian	fall_Sun	The sun is coming out less and less these days... wonderful.	呢幾日太陽出嚟慨次數越嚟越少咗……好咯。
+1603	Sebastian	winter_Mon	I'm enjoying this gloomy weather... although I have to say, it's a little cold.	我好嘆呢種陰沉慨天氣，雖然我唔講唔得噶喇，呢有啲凍。
+1604	Sebastian	winter_Mon4	Nothing surprises me anymore... nothing makes me laugh.#$e#Yeah, I know... I'm being a little dramatic.	冇咩可以畀我驚訝……冇咩可以畀我笑咗。 #$e#係呀，我知……我有啲作大喇。
+1605	Sebastian	winter_Tue	Hmm... I don't really have anything to say. I still don't know you very well.	哇，我真係冇咩夠膽講話慨。我都係唔好瞭解你。
+1606	Sebastian	winter_Tue4	Hey...#$b#It's hard to think of new things to talk about, sometimes. Even after you know someone.#$e#...Sorry.	嘿……#$b#有時好難想出新慨話題嚟。即使喺你識某之後。 #$e#…唔好意思。
+1607	Sebastian	winter_Tue6	I was so close to screaming at Mom for throwing away my old comic collection... But something stopped me.#$e#Hmm... with age comes wisdom.	我差啲就對阿媽大喊大叫，因為佢抌咗我舊漫畫集……。但有嘢阻止都咗我。 #$e#嗯……隨著年齡慨增長，智慧都隨之而來。
+1608	Sebastian	winter_Tue10	You came here to see me?$l#$e#...$h	你係嚟揾我呀？$l#$e#...$h
+1609	Sebastian	winter_Wed	%Sebastian seems lost in thought...	%Sebastian似乎陷入咗沉思……
+1610	Sebastian	winter_Wed4	Hey, don't let me stop you from getting your work done.#$e#If you aren't busy I don't mind if you stick around.$h	嘿，唔好畀我阻止都你完成你慨工作。 #$e#，如果你唔忙，我唔介意你留低。 $h
+1611	Sebastian	winter_Thu	I wonder what's for dinner tonight... *grumble*$s	我想知今晚慨晚餐慨系咩… *生氣*$s
+1612	Sebastian	winter_Thu6	I should learn how to cook. That would be useful.	我應該學習點煮飯。咁會好有用。
+1613	Sebastian	winter_Fri	It's fun to live so close to the train tracks. It's a reminder that there's a big world out there.	住喺離火車軌道咁近慨地方真係有意思。佢提醒我，外面慨世界好大。
+1614	Sebastian	winter_Fri8	When I was younger I'd run out to the railroad whenever I heard a train coming.#$e#Whatever happened to those days...? *sigh*$s	當我後生嗰陣，每當我聽到火車嚟啦，#$e#我就會去鐵路上。 *嘆氣*$s
+1615	Sebastian	winter_Sat	The frogs aren't very happy in winter.#$e#Poor little guys.$s	青蛙喺冬天唔係好開心。 #$e#可憐慨小嘢。$s
+1616	Sebastian	winter_Sat6	I like winter but I do feel bad for all the cold animals out there.#$e#I guess they're used to it, though... like me.	我鍾意冬天，但我為外面所有寒冷慨動物覺得難過。#$e#我想佢哋已經習慣咗，雖然……好似我一樣。
+1617	Sebastian	winter_Sun	I built a snowgoon but Demetrius made me get rid of it.#$e#What's his problem?$u	我起咗個雪球，但Demetrius令我掉咗。 #$e#佢有咩問題？$u
+1618	Sebastian	winter_Sun6	I built a snowgoon but Demetrius made me get rid of it... yet Maru's cute little snowman goes unharmed!$a#$e#Ridiculous.	我整咗個雪球，但Demetrius令我將佢整走咗，但Maru可愛慨細雪人就毫髮無損！$a#$e#痴線。
+1619	Shane	Mon	I don't know you. Why are you talking to me?	我唔識你. 你做乜嘢要同我講話？
+1620	Shane	Resort_Entering	Buh... hope the bar's open.	希望酒吧開。
+1621	Shane	Resort_Leaving	Welp... got my year's supply of Vitamin D. Now I can play video games with the blinds shut the rest of the year.	我有維他命D啦。而家我可以喺剩番嘅時間入面关住百葉窗玩電子遊戲啦。
+1622	Shane	Resort_Shore	That's right... I'm not wearing any shoes or socks.#$b#Some call it a public health risk.#$b#The crabs seem to enjoy it, though.$h	噉就啱喇... 我冇着任何鞋子或襪。 #$b#有人話係一種公共健康風險。 #$b#之，螃蟹似乎好鍾意咁。$h
+1623	Shane	Resort_Chair	Hoo... Feels good to rest these hams.#$b#If anyone needs me, I'll just be sitting here, marinating.	嗚... #$b#如果有人需要我，我就坐喺度醃製，感覺好好。
+1624	Shane	Resort_Bar	Phew... feels good to have a cold drink...#$e#Or maybe a few...	呼...... 感覺好好，可以飲杯冷飲......#$e#或者可能飲幾杯......
+1625	Shane	Resort	Okay, this sand is piping hot. I regret not wearing shoes.$s	好啦，沙好熱。 我後悔冇穿靴。$s
+1626	Shane	danceRejection	...No.$s	... 唔係。 $s
+1627	Shane	pamHouseUpgrade	I heard you built Pam a house... That's really generous...#$b#You know, I could use a hundred thousand gold myself...#$e#*ahem* ...ah ...Just kidding. ...Heh.	我聽說你給 Pam建一棟屋......。 那真是太慷慨啦......#$b#你知道，我自己也可以用十萬金幣......#$e#*哎呀*... 啊... 只係講笑。 ... 呵。
+1628	Shane	pamHouseUpgradeAnonymous	I heard someone bought Pam a house... *sigh*... What did Pam ever do to earn that kind of generosity??	我聽說有人給Pam買啦一套房子......*嘆息*...... Pam做咗乜嘢嚟贏得噉嘅慷慨呢？
+1629	Shane	divorced	...$a#$e#...Leave me alone.$a	...$a#$e#... 唔好攪我。$a
+1630	Shane	breakUp	*gulp* Oh... Yeah, okay... I guess I should've seen this coming.$s#$b#I'll... uh... guess I'll see you at the Saloon.	*哦*...... 係，好啊...... 我想我應該睇到啲。 我想我應該有看到這一點。 $s#$b#我...... 我想我會在酒館見到你。
+1631	Shane	dumped_Guys	%Shane has a glazed look in his eye. He won't speak to you.	%Shane嘅眼入面有一種凝重嘅神情。 佢唔肯同你講話。
+1632	Shane	secondChance_Guys	I don't understand you... *sigh*...	我唔明你...*嘆息*...
+1633	Shane	Mon2	I hardly know you. Why are you talking to me?	我幾乎唔識你。 你做乜嘢要同我講話？
+1634	Shane	Mon4	Hey. Sorry if I came off as rude when we first met.#$e#It takes me a while to warm up to strangers.	嘿，如果我哋第一次見面時我表現得好粗魯，我好抱歉。 #$e#我需要一段時間嚟熱絡陌生人。
+1635	Shane	Mon10	Do you ever feel like the whole world is scrutinizing you like some disgusting insect?	你有冇覺得成個世界都喺審視你，就好似啲核突嘅昆蟲？
+1636	Shane	Tue	What? What do you want? Go away.	咩話? 你想要乜嘢? 行啦.
+1637	Shane	Tue2	What do you want from me? Money? I'd give you a pot of gold to leave me alone!	你想由我呢度得到乜嘢？ 錢嗎？ 我願意畀你一罐金子令你離我遠啲！
+1638	Shane	Tue4	Every time I try something new it goes horribly wrong. You learn to just stay in a shell.	每次我嘗試新嘅嘢都會出現可怕嘅錯誤。 你要學會只呆喺一個殼度。
+1639	Shane	Tue6	Life isn't so bad... at least I have frozen pizza and eggs.$u	生活並無咁差...... 至少我有冷凍pizza同雞蛋。$u
+1640	Shane	Wed	No, I don't have time to chat with you.	不，我冇時間和你傾偈。
+1641	Shane	Wed8	I guess I've grown attached to Marnie and Jas. We're a ragtag bunch but it kind of feels like a weird family.#$e#I never really had much of a family as a kid.$s	我想我有對Marnie同Jas產生感情。 我哋係一群破爛不堪嘅人，但感覺有點像一個奇怪嘅家庭。 #$e#我自細就冇乜嘢家庭。$s
+1642	Shane	Wed4	$d Joja#*sigh* ...Every day is the same. Stocking those horrible shelves, going to the saloon, tossing and turning all night.$s|I hated my job at JojaMart, but now that I'm unemployed I feel even worse.$s	$d Joja#*嘆息*...... 每日都係一樣嘅。 擺放那些可怕嘅貨架，去沙龍，整夜輾轉反側。 $s|我討厭我在JojaMart的工作，但現在我失業啦，我感覺更糟糕。$s
+1643	Shane	Thu	What do you want? Leave me alone.	你想要乜嘢? 等我靜一靜。
+1644	Shane	Thu4	You're really persistent. I guess I'm just surprised that anyone would be interested in talking to me.	你真係好執著。 我想我只係驚訝於有人會有興趣同我交談。
+1645	Shane	Thu6	Buh... Where's the Joja Cola?	Joja Cola呢？
+1646	Shane	Thu8	You like talking to me? I guess I believe you... maybe you're as weird as I am.$h	你中意同我傾計？ 我諗我相信你...... 或者你和我一樣古怪。$h
+1647	Shane	Fri	Don't you have work to do?	你唔係有工作要做咩？
+1648	Shane	JojaMart	%Shane's hard at work. He doesn't seem interested in talking.	%Shane正在努力工作。 佢似乎對談話不感興趣。
+1649	Shane	Fri4	$d Joja#What's the point of life if all you do is work?|I haven't been able to pay my rent, but Marnie's letting me stay anyway. I'm lucky.	$d Joja#如果你只顧住工作，生活仲有乜意義？|我仲未交租，但Marnie收留咗我。 我好幸運。
+1650	Shane	Fri6	I'll definitely be going to the saloon tonight. What else is there to do?	我今晚肯定會去酒館嘅。 仲有乜嘢可做嘅呢？
+1651	Shane	Sat	Why are you bothering me? I want to be alone.	你做乜嘢要阻我？ 我想一個人待住。
+1652	Shane	Sat2	#$1 ShaneJOSH#I'm surprised that you're still trying to make friends with me. Haven't I been rude enough to you yet?#$e#*sigh*...$s	#$1 ShaneJOSH #我好驚訝，你仲想同我交朋友。 我對你仲唔夠粗魯咩？ #$e#*嘆氣*...$s
+1653	Shane	Sat4	$d Joja#I'm renting my room from Marnie at a really good price. It's small but I can't complain.|If I could reset my life maybe I'd start a chicken farm. Only free-range eggs of course.	$d Joja#我從Marnie 那裡租啦我的房間，價格非常好。 佢好细，但我唔可以抱怨。 |如果我可以重新設定我嘅生活，或者我會開一個養雞場。 當然，只養土雞蛋。
+1654	Shane	Sat8	I've really grown attached to Marnie's chickens.$h	我真係對Marnie嘅雞產生啦感情。$h
+1655	Shane	Sun	I'm busy, can't you tell?	我好忙，你睇唔出咩？
+1656	Shane	Sun6	...I think I might be gaining weight.$s	... 我想我又肥啦。$s
+1657	Shane	Sun8	If I watch more TV maybe I can forget about life. That would be relaxing.$u	如果我多睇电视，或者我可以忘記生活。 會好輕鬆嘅。 $u
+1658	Shane	Sun10	Hi, @. I've actually been having a pretty good day so far.$h	嗨，@。 其實目前我嘅日子過得好唔錯。 $h
+1659	Shane	Sun4	Hmm... it's %time. Should I throw a frozen pizza in the microwave, or should I wait?$u	嗯 ... 而家係%時間。 我應該喺微波爐度掉一個冷凍pizza，還是應該等待？ $u
+1660	Shane	Sun2	You again? How many times do I have to tell you to leave me alone?$s	又是你？ 我到告訴你幾多次，令你離我遠啲？$s
+1661	Shane	event_room1	Okay... that'll require a great script. Maybe I'll ask Elliott for advice next time I see him at the saloon.$s	好囉...... 需要一個好劇本。 或者下次我喺酒館見到Elliott時，我會向佢徵求意見。$s
+1662	Shane	event_room2	Sounds great. I'll have to create a bunch of practical effects to make it look cool.	聽起嚟唔錯。 我必須創造一堆實際效果，使佢看起來幾酷。
+1663	Shane	event_noLoan1	I didn't know you were such a miser...$s	我唔知你係咁一個孤寒嘅人......$s
+1664	Shane	event_noLoan2	Okay, Dad...$s^Okay, Mom...$s	好啦，爸爸......$s^好啦，媽媽......$s
+1665	Shane	event_noLoan3	Oh, wow...$s	哦， 哇哦...$s
+1666	Shane	event_apologize1	...Yeah, me too.	... 是的，我都係。
+1667	Shane	event_apologize2	I know... that's why I stopped by, to tell you about it.	我知...... 就係我停落嚟嘅原因，要告訴你呢件事。
+1668	Shane	event_apologize3	Wow, it was that serious, huh? I can hardly remember...	哇，有咁嚴重，係啩？ 我幾乎記不得啦...
+1669	Shane	event_stadium1	Oh yeah? I guess that makes sense.$6#$b#Me? I get bored with Pelican Town sometimes.#$b#But... I like that you're different. We balance each other out.$l	係咩? 我想這是有道理嘅。 $6#$b#我？ 我有時會對鹈鹕鎮感到厭煩。 #$b#但係...... 我中意你嘅与众不同。 我哋彼此平衡。$l
+1670	Shane	event_stadium2	Oh really? I'm surprised... Didn't you move to Stardew Valley to escape the noise of the city?$6#$b#I mean... Don't get me wrong, I totally understand. My life in Pelican Town is pretty bland, you know.	係真唔係呀? 我好驚訝... 你搬到星露谷唔係為咗逃避城市喧嘩咩？$6#$b#我係話... 唔好誤會我嘅意思，我完全理解。 我喺鹈鹕鎮嘅生活好平淡，你知道。

@@ -1,0 +1,544 @@
+OID	File	Portion	English	廣東話口語（Colloquial Cantonese）v1028
+101	Abigail	Introduction	Oh, that's right... I heard someone new was moving onto that old farm.#$e#It's kind of a shame, really. I always enjoyed exploring those overgrown fields by myself.$9	哦，咁就啱嘞，我聽講，有人要搬嗰個老農場去。 #$e#呢有啲可惜，真係。我係中意自己去探索嗰啲雜草叢生嘅田野。$9
+102	Abigail	Resort_Entering	I hope a mermaid visits the beach.	我希望有人魚公主嚟探沙灘。
+103	Abigail	Resort_Leaving	I'm gonna ask Willy if we can take the scenic route back.	我想問嚇Willy，我可唔可以走風景路線返去。
+104	Abigail	Resort_Leaving_2	Maybe we'll see a sea monster on the way back.	或者我地會喺返嚟嘅路上睇到海怪。
+105	Abigail	Resort_Shore	The beach is okay, but it gets boring pretty quick. I'd rather check out that dark jungle, or the volcano!	沙灘都唔錯，但好快就會變得，好悶。我寧願去睇下嗰條鼆嘅叢林，或者火山！
+106	Abigail	Resort_Shore_2	Hmm, you think I could sneak my guinea pig onto the island?#$e#Nah, David's probably not much of a swimmer anyways.$h	哇，你話我可以將我天竺鼠偷偷帶到島上呀？#$e#不，David可能不怎麼會游泳。$h
+107	Abigail	Resort_Umbrella	My skin gets burnt really easily. So I'm just gonna stay under this umbrella for a while.#$e#I like it in the shade. Too much sun makes me dizzy.	我皮膚真係好易畀燒親。所以我就喺呢把遮下一陣間。 #$e#我鍾意喺陰涼處。太多嘅陽光畀我頭暈目眩。
+108	Abigail	Resort_Umbrella_2	Hey @, want to build a sand castle with me?#$e#Actually, a sand dungeon might be cooler!$h	嘿 @，想同我一齊切個沙堡嗎？#$e#其實沙地牢可能更有型！ $h
+109	Abigail	Resort_Umbrella_3	Hey @, you think you could build a raft?#$e#I saw a few cool islands on the way here I want to visit.	嘿@，你覺得你可唔可以做個木筏嗎？#$e#喺離呢度慨路上我睇咗幾個好有型慨島，我想去睇睇。
+110	Abigail	Resort_Wander	An island this big has got to be hiding some buried treasure.#$e#Quick, get me a shovel!#$e#Relax, I'm just kidding.$h	咁大嘅個島肯定收埋啲埋藏嘅寶藏。 #$e#快，畀我將鏟子！ #$e#放鬆啲，我只係講笑。$h
+111	Abigail	Resort_Bar	Gus made me a dark purple refresher, to match my hair. It tastes great!$h	Gus畀我做咗個深紫嘅醒神劑，以配合我啲頭髮。味道好嘢！ $h
+112	Abigail	Resort	Bummer... Willy says we have to stay on the beach...$s#$b#And I brought my sword and everything...$s	憎……Willy話我哋一定要留喺沙灘上……$s#$b#我重帶咗我架劍同所有嘢……$s
+113	Abigail	danceRejection	That's flattering... but I'm gonna have to say no. Sorry.	呢個真係畀人受寵若驚，但我要拎話唔。對唔住。
+114	Abigail	divorced	What are you doing here? Just leave me alone!$a	你喺度做咩呀？等我一個人留住！ $a
+115	Abigail	dumped_Girls	Don't talk to me!$a	唔好同我講！$a
+116	Abigail	secondChance_Girls	*sigh*... I can't stay mad at you anymore, @. Let's just move on with our lives.$s	*透氣*…我唔再繼續對你嬲咗，@。畀我哋繼續我哋嘅生活。$s
+117	Abigail	breakUp	Oh... I... I understand. You see me as just a friend...$s#$b#I guess we weren't really a good match...$s	哦……我…我理解。你將我看作只係一個朋友……$s#$b#我想我哋唔係真正嘅對象……$s
+118	Abigail	Mon	Oh, hey. Taking a break from work?	哦，嘿嘿。喺嘢之餘休息嚇？
+119	Abigail	Mon2	Oh, hi!#$e#Do you ever hang out at the cemetery? It's a peaceful place to spend some time alone.	哦！ #$e#你曾經喺公墓閒逛過咩？呢個系一個寧靜嘅地方，可以獨自度過啲時間。
+120	Abigail	Tue	Ugh... I'm not in a good mood right now.$s#$e#I said I'm not in a good mood... what do you want?$a	呃…我而家心情唔好。 $s#$e#我話我心情唔好……你想要咩？ $a
+121	Abigail	Tue2	...*sigh*...$s#$e#I know my parents mean well, but sometimes they just cannot understand my point of view. Weren't they ever young?	…*透氣*……$s#$e#我知我阿爸阿媽係好意，但有時，佢哋就唔可以理解我嘅觀點。佢哋唔係曾經好後生嗎？
+122	Abigail	Wed	Hey. Sorry in advance if I say anything rude. I didn't get much sleep last night.#$e#What do you want?	嘿，如果我講咗咩唔禮貌嘅話，唔該提前道歉。我尋晚冇乜訓教。 #$e#你想點？
+123	Abigail	4	Oh, hi.	哦，你好。
+124	Abigail	Thu	#$1 Abigail1#Oh no, I think my Dad's going to cook dinner tonight...$s#$e#I don't feel like doing anything today...$u	#$1 Abigail1#哦，唔好，我諗我阿爸今晚要煮飯……$s#$e#我今日唔想做咩……$u
+125	Abigail	Fri	Wow, I just realized it's Friday. $u#$e#Sometimes I totally lose track of time.	哇完全唔知係星期五. $u#$e#有時我完全唔記得咗時間。
+126	Abigail	Fri2	We're all going to hang out in the saloon this evening. It's kind of like a friday tradition, I guess.	今晚我哋都要喺沙龍度玩。呢有啲似星期五嘅傳統。
+127	Abigail	Sat	The fresh mountain air is nice on a day like this.$h#$e#I wonder if the frogs will make an appearance soon.	喺噉嘅日子企，山里嘅新鮮空氣好好。 $h#$e#我想知青蛙係咪會好快出現。
+128	Abigail	Sun	Oh man... I've been pushing off my homework all weekend. Looks like I'll be pulling another all-nighter...$s	哦，伙計…我成個週末都喺推跌我啲功課。睇嚟，我又要通宵$s……
+129	Abigail	Sun2	I wonder what would happen if I spent all night in the graveyard?#$q 17/18 Sun_old#@, What do you think happens to us after we die?#$r 17 0 Sun_17#I have no idea.#$r 18 40 Sun_18#We come back as spooky ghosts.#$r 17 0 Sun_17#We go to Heaven.#$r 18 0 Sun_17#Our energy bodies enter the astral plane.#$r 17 30 Sun_nothing#Nothing. We just cease to exist.	我想知，如果我喺墓地度留一晚會發生咩？ #$q 17/18 Sun_old#@，你話我哋死後會發生咩？ #$r 17 0 Sun_17#我唔知.#$r 18 40 Sun_18#我哋扮鬼扮馬#$r 17 0 Sun_17#我哋上天堂#$r 18 0 Sun_17#我們的能量體進入星界。#$r 17 30 Sun_nothing#我哋系唔再存在。
+130	Abigail	Sun_old	$p 17#I guess you think nothing would happen, right?$u|Maybe a wicked ghost would appear!	$p 17#我估你認為咩都唔會發生，對呀？ $u|或者一個邪惡嘅幽靈會出現！
+131	Abigail	Sun_17	Hmm, interesting...	哇，有意思……
+132	Abigail	Sun_18	Well that's an interesting theory!$h	哇，哩個有趣嘅理論！$h
+133	Abigail	Sun_nothing	You know, that wouldn't be so bad.$8	你知唔知，咁又唔係咁衰。$8
+134	Abigail	Wed2	Oh, hi @. Taking a break from your work?#$e#Me too. Oh! Nothing physical... just some online classes I'm taking.	哦，你好@。由你嘅工作中休息嚇？ #$e#我都係。哦！冇咩實物……只係一啲我喺度嘅在線課程。
+135	Abigail	Tue4	Hi, I'm glad to see you.$h#$e#I want to take my mind off things for a while... how is your day going?	餵，我好開心見到你。 $h#$e#我想暫時忘掉我嘅嘢，你今日過得點啊？
+136	Abigail	Sat6	You came all this way to visit me? That's nice.$h#$e#So have you been exploring the mountain caves at all?#$e#Interesting. I'd like to go there myself one of these days.$l	你大老遠走嚟探下我？真係好。 $h#$e#咁你有冇去探索過山窿呢？#$e#呢幾日我想自己去果度。 $l
+137	Abigail	Mon8	...Oh, @! Hi.$h#$e#Want to hang out for a while? Here! Let me read your palm. *giggle* $h	…哦，@！ $h#$e#想喺出面玩一陣呀？喺呢度！俾我睇嚇你個手板。 *咯咯笑*$h
+138	Abigail	Thu10	Hi.$l#$e#Do you feel like everything seems unreal lately?$l#$b#Not in a bad way, though.$h	Hi.$l#$e#你覺得最近慨一切都顯得流啊？ $l#$b#雖然唔係衰。$h
+139	Abigail	Fri6	The birds were happily chirping today. They're too simple to understand the future.#$e#It's better to be like them, isn't it?	今日雀仔們開心啖鳴叫住。佢好簡單，唔識未來。 #$e#似佢哋一樣，更加好，唔係咩？
+140	Abigail	Event_VideoGame_Yes	Great! I'm sure you'll be able to beat this level with ease.$h	真係好！我相信你一定可以輕鬆啖打贏呢一關。$h
+141	Abigail	Event_VideoGame_No	Oh? *sigh*... I guess I'll never get past this level, then...$s	哦，*嚡嚡聲*…我諗我永遠都過唔到呢一關，咁……$s
+142	Abigail	Event_Grave1	See? You understand why I'm out here, then.#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8	睇到未呀？咁你就明白我點解要離呢度。 #$b#我永世都喺山卡罅入面，但我從來冇真正做過啲咩令人難忘慨嘢。我想去冒險！ $8
+143	Abigail	Event_Grave2	Sure. I don't want to kill anything, either. I just want to do a little exploring without risking my neck!#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8	當然，我都唔想殺死任何嘢。我只係想喺唔危及我頸慨情況下，做一啲探索！ #$b#我喺山卡罅度生活咗一世，但我從來冇真正做過啲咩令人難忘慨嘢。我想去探險！ $8
+144	Abigail	Event_Grave3	Oh, it's because I'm a girl... isn't it? Ugh...$u^Why? I'm just as strong as you!$a#$b#I'm not some fragile princess.. I can take care of myself!$a#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8	哦，呢，係因為我係個女仔……唔係呀？ Ugh……$u^點解？我同你一樣堅強！ $a#$b#我唔係咩脆弱慨公主。我可以照顧自己！ $a#$b#我喺山卡罅度生活咗一世，但我從來冇真正做過啲咩難忘慨嘢。我想去冒險！ $8
+145	Abigail	Event_Grave4	Really? That's surprising.$8#$b#I've lived in the valley my whole life, but I've never really done anything memorable. I want to go on an adventure!$8	真係咩？呢個系令人驚訝慨。 $8#$b#我喺山卡罅度生活咗一世，但我從來冇真正做過啲咩令人難忘慨嘢。我想去冒險！ $8
+146	Abigail	Event_Rain_1	I see...$8	我明喇……$8
+147	Abigail	Event_Rain_2	Yea... I guess you would be one to appreciate this somber ambience.	係啊。我估你會系一個欣賞呢陰鬱氛圍慨人。
+148	Abigail	Event_Rain_3	...That's true.$8	…咁都係真慨。$8
+149	Abigail	Event_Tragic_1	Yeah... I guess my own life is okay...$s	係呀，我諗我自己慨生活都唔錯……$s
+150	Abigail	Event_Tragic_2	...!$h	...!$h
+151	Abigail	Event_Tragic_3	I would feel better if I could believe that...#$b#But I don't.$s	如果可以信呢一點，我會覺得更加好……#$b#，但我唔信。$s
+152	Abigail	Event_Cave2_1	@...$8	@...$8
+153	Abigail	Event_Cave2_2	@... I'm alright.$8	@我好好$8
+154	Abigail	Event_Cave_1	...okay.$8	好在.$8……
+155	Abigail	Event_Cave_2	I guess when you have something to lose, it's normal to be afraid...$l	我想當你有嘢要失去慨時候，驚係正常慨……$l
+156	Abigail	Event_Cave_3	...Um, okay. Sorry.$9	…哇，好慨。對唔住.$9
+157	Abigail	summer_1	Summer's here. It's not really my favorite season.#$e#The air is so muggy I feel like I'm floating in soup.	夏天嚟嘞。呢並唔係我最鍾意慨季節。 #$e#空氣系啲啖慨焗，我覺得我喺湯裡漂浮。
+158	Abigail	summer_Mon	My pet guinea pig, David, just hates this hot weather. He's fussy.	我寵物豚鼠，David，只係憎呢種暑熱慨天氣。佢好揀擇。
+159	Abigail	summer_Tue	The air is so thick with honey and nectar all summer. I almost feel dizzy.$u	成個夏天，空氣中慨蜜糖同花蜜都好濃。我差唔多覺得頭暈目眩。$u
+160	Abigail	summer_Wed	Have you decorated your house at all? That's what I'd be doing if I had a house.	你有無裝潢過你間屋？如果我有間屋，我都會啖做。
+161	Abigail	summer_6	I went to the beach last night, after dark... Sometimes you can see strange lights bobbing over the sea.#$e#Or maybe that was just a dream I had... It doesn't feel real anymore.	我尋晚去沙灘，喺天黑之後，有時你可以睇到怪慨燈光喺海面上#$e#或者或者嗰只係我個夢……感覺已經流。
+162	Abigail	summer_Thu	If I knew how to use a sword I would be exploring those caves by the mountain lake right now. It's probably nice and cool in there.	如果我知點使用劍，我而家就會去探索山湖邊啲山窿。嗰度可能又好又凍。
+163	Abigail	summer_Thu4	Ew, I hope I don't get a tan this summer.$s	呃，我希望呢個夏天，我唔會畀曬黑。$s
+164	Abigail	summer_Fri	I kind of wish I had a cat. Unfortunately, my Dad is allergic to pretty much everything.	我有D希望我有一隻貓。不幸慨系，我阿爸對幾乎所有嘢都過敏。
+165	Abigail	summer_Sat	I'm looking forward to fall... the cool mountain breeze, the swirling red petals, the smell of mushrooms... *sigh*	我等咗好耐住秋天……涼爽慨山風，旋轉慨紅色花瓣，油蘑菇慨味道……*嚡嚡聲*。
+166	Abigail	summer_Sun	Do you ever get an urge to go exploring, @?#$q 25/26 summer_Sun_old#Okay... pretend you just won a free vacation. Where would you go?#$r 25 0 Sun_25#The beach#$r 26 30 Sun_26#In a dark cave#$r 26 30 Sun_26#The old, gnarled forest#$r 25 0 Sun_25#Joja Mega-Mall	你有過想去探險慨衝動呀，@？ #$q 25/26 summer_Sun_old#好啦，扮你啱啱贏得咗個免費慨假。你會去邊呀？ #$r 25 0 Sun_25#The beach#$r 26 30 Sun_26#黑洞#$r 26 30 Sun_26#森林t#$r 25 0 Sun_25#Joja Mega-Mall
+167	Abigail	summer_Sun_old	$p 25#I do... but you probably wouldn't like the places I'm thinking about...|Maybe we'll be neighbors someday. I think we both have similar, weird tastes.$h	$p 25#我願意……但你可能唔鍾意我想慨嗰啲地方……|或者有一日我哋會成為隔離。我想我哋都有類似慨、出奇品味。$h
+168	Abigail	Sun_25	Huh. I think that would get old fast.	嗯。我想咁會好快變老。
+169	Abigail	Sun_26	Yea! That sounds wonderful.$h	係呀！呢聽落好好。呢聽落好好。$h
+170	Abigail	summer_Wed2	I would love to live in an old farmhouse like you.#$b#The creak of a floorboard, the slow plumes of dust whispering through the rafters... There's something special about an old building, isn't there?	我好想喺好似你啖慨老式農舍度。 #$b#地板慨吱吱聲，嚤佗慨灰塵穿過椽子竊竊私語……。老建築有一啲特別之處，唔係咩？
+171	Abigail	summer_Tue4	You're an interesting guy, @. I'm glad you moved here.$h^You're an interesting lady, @. I'm glad you moved here.$h	你係一個得意慨人，@。我好開心你搬離呢度。 $h^你係個得意慨女士，@。我好開心你搬離呢度。 $h
+172	Abigail	summer_Sat6	I'm actually enjoying myself this summer.$h#$e#It's funny how quickly one's outlook can change.	我其實好享受呢個夏天。 $h#$e#好好玩，一個人慨道德觀念可以快手改變。
+173	Abigail	summer_Mon8	I used to think Pelican Town was kinda drab, but lately I'm starting to love some things about it.$h	我曾經話鵜鶘鎮有啲單調，但最近我開始鍾意佢慨一啲嘢。$h
+174	Abigail	summer_Thu10	Wow, you look nice today.#$e#I mean, that summer air is really good for the complexion, isn't it?... heh...$l	哇，你今日睇落唔錯。 #$e#我慨意思系，夏天慨空氣對膚色真係好好，唔係呀……$l系呵呵……
+175	Abigail	summer_Fri10	Do you ever get lonely on your farm?	你喺你個農場上有過孤獨嗎？
+176	Abigail	fall_1	Ah... Fall's here!$h#$e#I was getting so tired of summer.	呀……秋天到啦！$h#$e#我對夏天覺得好厭倦。
+177	Abigail	fall_Mon	I need to stretch my legs and get some fresh air today.	我今日要伸展我腳，呼吸D新鮮空氣。
+178	Abigail	fall_Tue	$d joja#I try to help out in the shop on most days. Business has been pretty bad since the Joja Mart opened, though.|Ever since Joja Mart shut down we've been doing great at the shop!$h	$d joja#我盡量喺大多數日子企到店裡幫手。不過自從Joja Mart星期開業以嚟，生意都好差。 |自從Joja Mart關閉以嚟，我哋店裡生意都好好，$h
+179	Abigail	fall_Wed	I can't wait to see some pumpkins this year.$h#$e#The spirit's eve festival happens at the end of the season. It's pretty low-key compared to what you'd see in Zuzu City, but for a small town like this it's a lot of fun.	我迫不及待地想睇到今年慨一啲番瓜。 $h#$e#精神前夕慨節發生喺季慨最後。唔關你喺祖城睇到慨比，佢都幾低調，但係對於啖一個小鎮嚟講，佢係好得意慨。
+180	Abigail	fall_Thu	#$1 AbigailHAND#Last night I dreamt that my left hand had turned into a gigantic %noun. Does that mean anything?#$e#%Abigail doesn't seem to be interested in talking right now.	#$1 AbigailHAND#尋晚我發夢見到我左手變咗個墟冚冚慨%名詞。呢意味住乜嘢呀？ #$e#%Abigail而家好似對講嘢唔有興趣。
+181	Abigail	fall_Sat	$d cc#I can't believe you fixed up that old Community Center all by yourself. I'm really impressed.|Do you have any scarecrows on your farm?	$d cc#我唔敢相信你一個人將個舊議員中心整翻好喇。我真係好佩服。 |你個農場入面有稻草人嗎？
+182	Abigail	fall_Sun	Hmm... what should I do tonight?#$q 27/28 fall_Sun_old#I was thinking about dyeing my hair again... what do you think?#$r 27 10 Sun_27#Dye it black.#$r 27 10 Sun_27#Why not blonde?#$r 27 20 Sun_WildColor#How about bubblegum pink?#$r 28 0 Sun_28#I like your hair just the way it is!	嗯……我今晚應該做咩？ #$q 27/28 fall_Sun_old#我喺度諗再次染髮……你點睇？#$r 27 10 Sun_27#染成黑色。#$r 27 10 Sun_27#點解唔係金髮？#$r 27 20 Sun_WildColor#吹波膠粉色點啊？#$r 28 0 Sun_28#我鍾意你啲頭髮系咁！
+183	Abigail	fall_Sun_old	$p 27#I was going to dye my hair but then I decided against it.|Yes? What is it?	$p 27#我本來想染髮慨，但後來決定唔|染。系咩？系乜嘢呢？
+184	Abigail	Sun_27	I guess that's a pretty safe choice, huh?#$e#I'll think about it.	我諗呢系一個好安全慨揀，系呵呵。 #$e#我考慮下啦。
+185	Abigail	Sun_28	Of course that's what you'd say.$u	梗係你會講慨。 $u
+186	Abigail	Sun_WildColor	You're always good for a laugh.$h	你成日可唔可以俾人笑得好開心。$h
+187	Abigail	fall_Wed2	Are you growing pumpkins on your farm this year?#$e#Save one for me!$h	你今年喺你個農場種番瓜呀？ #$e#畀我留個！ $h
+188	Abigail	fall_Tue4	I may fight with my parents a lot, but I know they're just looking out for me. They're doing what they think is best.$s#$b#I dunno why I'm saying this to you. Don't tell anyone.$8	可能我成日同我阿爸阿媽喺度嗌交，但我知佢哋只係為我諗。佢哋喺度做佢哋認為系最好慨嘢。 $s#$b#我唔知點解我會對你話啲。唔好話畀任何人。$8
+189	Abigail	fall_Sat6	Hi.$h#$e#Your hair looks cool today... did you do something different?	嗨$h#$e#你啲頭髮今日好似好有型……你做咗咩唔同慨事咩？
+190	Abigail	fall_Mon8	You know, I could actually see myself becoming a farmer some day...#$e#But how would that ever happen? *chuckle*$l	你知呀，其實我可以睇到自己有一日會成為一個農民……#$e#但呢點可能*發生呢？ chuckle*$l
+191	Abigail	fall_Thu10	I had an interesting dream last night, with you in it.#$e#It was a good dream.$h	我尋晚整咗個得意慨夢，入面有你。 #$e#呢系一個好夢。$h
+192	Abigail	fall_Fri6	I wish the season lasted a little longer.$8#$e#When the wind really picks up, I almost feel like a kid again.	我希望呢個季節可以持續更長慨時間。 $8#$e#當風真係返起身慨時候，我差唔多覺得自己又好似個仔。
+193	Abigail	fall_Fri10	I usually feel lonely this time of year, but not anymore.$l#$e#@, what are your plans for the future?	我通常喺年年慨呢個時候仲系孤獨，但而家唔會嘞。 $l#$e#@，你對未來有乜嘢計劃？
+194	Abigail	winter_1	Well, fall is over...$s#$e#But I like winter, too!$h	哇，秋天已經過去喇……$s#$e#，但係我都鍾意冬天！ $h
+195	Abigail	winter_Mon	It's just too cold to go outside much.#$e#But I do enjoy building a snowgoon.$h	只係太凍啦，唔好出去。#$e#但我真係鍾意造一個雪球。$h
+196	Abigail	winter_Tue	Doesn't a steaming hot cup of cocoa sound good right now?	而家飲杯熱氣騰騰慨谷古聽落唔係好唔好啊？
+197	Abigail	winter_Wed	Hi. Is it boring to be a farmer during the winter?	嗨，喺冬天做農民係咪好悶？
+198	Abigail	spring_12	I'm definitely going to enter the egg hunt tomorrow. Are you?	我聽日梗要參加尋蛋活動。你係咩？
+199	Abigail	spring_23	Well, tomorrow is the flower dance. Dancing is alright, but they make me wear this stupid white dress...$s	哇，聽日系花舞會。跳舞係可以慨，但係佢哋畀我著呢個壽慨白裙……$s
+200	Abigail	winter_7	I'm looking forward to making a snow man tomorrow.	我好等咗好耐聽日做一個雪人。
+201	Abigail	fall_26	Will I see you tomorrow at the Spirit's Eve festival? Look for me in the haunted maze.$h	我聽日會喺聖靈節前夕見到你呀？喺鬧鬼慨迷宮度搵我。$h
+202	Abigail	summer_10	Everyone's excited for the Luau tomorrow. Maybe a little nervous, too, considering the Governor will be here.	個個都對聽日慨Luau節覺得興奮。或者都有少少緊張，諗到州長會喺呢度。
+203	Abigail	summer_27	You can't miss tomorrow's festival. It's one of the most beautiful wonders of the valley.	你唔好錯過聽日慨節。佢係山卡罅中最美麗慨奇蹟之一。
+204	Abigail	winter_24	I'm going to eat so much cranberry sauce tomorrow.$h	我聽日要食好多蔓越莓醬料。$h
+205	Abigail	winter_Thu	Another year is almost over.#$e#It goes by so fast, doesn't it?$s	又一年快收檔咯。 #$e#佢過得好快，唔係咩？$s
+206	Abigail	winter_Fri	One thing I've learned living here... everyone stares at you if you look different.	我喺呢度生活學到咗一件事，如果你生得唔一樣，個個都會睇住你睇。
+207	Abigail	winter_Sat	It's the weekend!#$e#That means I can play twice as many video games.$h#$e#Bye.	今日系週末！ #$e#呢意味住我可以打好耐機。$h#$e#拜拜。
+208	Abigail	winter_Sun	Oh, hello.#$q 29/30 winter_Sun_old#I made these two drawings. What do you think?#$r 29 20 Sun_29#I like the jungle island and the tiger.#$r 30 5 Sun_30#I like the orc with the battleaxe.#$r 29 -50 Sun_Bad#I don't like either of them.	哦，你好。 #$q 29/30 winter_Sun_old#畫呢兩幅畫。你覺得點？#$r 29 20 Sun_29#我鍾意叢林島同老虎。#$r 30 5 Sun_30#我鍾意攞住戰斧慨獸人。#$r 29 -50 Sun_Bad#我唔中意佢哋中慨任何一個。
+209	Abigail	winter_Sun_old	$p 29#Remember those drawings I showed you a while ago? I accidentally threw them away.$s|Remember that drawing I showed you with the orc? I entered it into an online contest and won 50g!$h	$p 29#仲記得我冇幾耐前畀你睇啲畫嗎？我唔小心將佢哋抌咗。$s|仲記唔記得我畀你睇嗰張有獸人慨畫嗎？我將佢參加咗個網上競賽，贏咗五十克！$h
+210	Abigail	Sun_29	Oh yeah? I guess that makes sense.	哦，是嗎？我想這是有道理的。
+211	Abigail	Sun_30	I'm glad. It's embarrassing to share your art with others. But I think you and I are on the same page.	我很高興。與別人分享你的藝術是很尷尬的。但我認為你和我的想法是一致的。
+212	Abigail	Sun_Bad	Rude! Why would you hurt my feelings like that? You're so insensitive!$s	粗魯！你為什麼要這樣傷害我的感情？你太不敏感了！ $s
+213	Abigail	winter_Wed2	Hi. If you're ever bored, you can always hang out in my room.#$e#As long as I'm not changing, of course!	嗨，如果你覺得無聊，你可以隨時到我的房間去玩。 #$e#當然，只要我不換衣服!
+214	Abigail	winter_Tue4	It's so cold, I wish we had a hot cup of cocoa to share.$h	天氣太冷了，我希望我們有一杯熱可可可以分享。$h
+215	Abigail	winter_Sat6	I've been daydreaming a lot lately...#$e#Oh! You want to know what it's about? Well...$u#$b#...It's a secret.$h	我最近經常做白日夢......#$e#哦！你想知道是關於什麼的？嗯...$u#$b#...這是個秘密。 $h
+216	Abigail	winter_Thu10	Another year is almost over...#$b#But this was a really good year, don't you think?$h	又是一年快過去了......#$b#但今年真的是個好年頭，你不覺得嗎？$h
+217	Abigail	winter_Wed6	It must be nice not having crops to worry about this time of year.#$e#And that means you can hang out with me more often!$h	每年的這個時候沒有莊稼人的煩惱一定很好。 #$e#這意味著你可以更經常地和我一起玩！ $h
+218	Abigail	winter_Fri10	@, there's something I want to tell you...#$e#It's just... um... well... your boots! They, uh...look really clean... *gulp*#$e#That's all... *sigh*$s	@，有件事我想告訴你......#$e#這只是......嗯......嗯......你的靴子! 它們，呃......看起來真的很乾淨......。 *gulp*#$e#That's all... *sigh*$s
+502	Emily	Introduction	Ooh!... I can read it on your face. You're going to love it here in Pelican Town.#$b#If you're ever looking for something to do in the evening, stop by the saloon. That's where I work!	哦！ ...。我可以從你的臉上看出來。你會喜歡這裡的鵜鶘鎮的。 #$b#如果你想在晚上找點事做，請到酒館來。那是我工作的地方!
+503	Emily	Resort_Entering	Oh, I like this place! It's full of parrots!	哦，我喜歡這個地方！這裡到處都是鸚鵡!
+504	Emily	Resort_Leaving	Ah... my lungs feel perfect.	啊......我的肺部感覺很完美。
+505	Emily	Resort_Shore	Can you feel it? The ocean has a profound healing energy.	你能感覺到嗎？海洋有一種深刻的治療能量。
+506	Emily	Resort_Chair	Are you having fun, @? You need to remember to take breaks now and then too!	你玩得開心嗎，@？你也要記得時不時地休息一下!
+507	Emily	Resort_Bar	It's nice to be on this side of the bar for once!$h	很高興能站在酒吧的這一邊，這一次！ $h
+508	Emily	Resort	If you open your heart to the sun, you can feel a loving energy inside of you.$h	如果你向太陽敞開心扉，你可以感受到你體內的愛的能量。$h
+509	Emily	Resort_Dance	%Emily is lost in the music.	%Emily迷失在音樂中。
+510	Emily	danceRejection	I'm very sorry... but I've already agreed to dance with someone else.$u	我非常抱歉......但我已經同意和別人跳舞了。$u
+511	Emily	divorced	@... You broke my heart... I just can't talk to you anymore.$s#$e#Please, let me try to heal...$s	@... 你傷了我的心... 我只是不能再和你說話了。 $s#$e#請讓我試著去治愈...$s
+512	Emily	dumped_Girls	...$s	...$s
+513	Emily	breakUp	B...But I thought we had a special bond... *sniff*$s	......但我認為我們有一種特殊的聯繫......。 *sniff*$s
+514	Emily	reject_866	Oh, that's beautiful... I have a friend who would love that! But she lives far from here...	哦，太美了... 我有個朋友會喜歡這樣的! 但她住得離這裡很遠...
+515	Emily	secondChance_Girls	@... I'm ready to give you a second chance. I still have faith that there's a good person inside of you.$s	@... 我已經準備好給你第二次機會。我仍然有信心，你的內心有一個好人。$s
+516	Emily	Mon	Have I told you Haley and I are sisters? Strange, isn't it?	我有沒有告訴你Haley和我是姐妹？很奇怪，不是嗎？
+517	Emily	Mon2	I have a secret hobby, but I won't say any more.#$e#Maybe I'll show you some day.$h	我有一個秘密的愛好，但我不會說更多。 #$e#也許有一天我會給你看。 $h
+518	Emily	Mon4	This world is full of spirits and magic... Some don't believe me, but I know it's true.#$e#I can see it in your eyes... you believe in the other world, like me.	這個世界充滿了精神和魔法......。有些人不相信我，但我知道這是真的。 #$e#我可以從你的眼睛裡看到...你相信另一個世界，像我一樣。
+519	Emily	Mon6	I wish Haley would get a job or at least contribute to cooking and cleaning.$s#$e#I think she's hoping to marry someone rich.$u	我希望Haley能找到一份工作，或者至少為做飯和打掃衛生做出貢獻。 $s#$e#我認為她希望能嫁給一個有錢人。$u
+520	Emily	Mon6_inlaw_Haley	I have to say, now that Haley's gone I've had a much easier time keeping things in order.	我不得不說，現在Haley走了，我在維持秩序方面輕鬆多了。
+521	Emily	Mon8	There's good people in this town who just can't seem to find happiness. It makes me sad.$u#$e#Working in the saloon, I hear first-hand about everyone's problems.$u	這個鎮上有很多好人，他們似乎都找不到幸福。這讓我很難過。$u#$e#在酒館工作，我聽到了每個人的問題的第一手資料。$u
+522	Emily	Tue	I work part-time at Gus' saloon. It pays the bills.	我在Gus的酒館做兼職。它能支付賬單。
+523	Emily	Tue4	I'm just working at Gus' to make ends meet... but my real passion is tailoring.$u#$e#I made these clothes from scratch, see?	我在Gus酒吧工作只是為了維持生計......但我真正的愛好是裁縫。$u#$e#我從頭開始做這些衣服，看到了嗎？
+524	Emily	Tue6	Oh, hi... It's nice of you to visit me like this.$h	哦，嗨... 你能這樣來看我真是太好了。 $h
+525	Emily	Tue8	You know, @... I think the future looks bright for both of us.	你知道，@... 我想我們兩個人的未來看起來都很美好。
+526	Emily	Wed	I've heard rumors of rare and powerful magic rings, forged long ago by forgotten civilizations. I'm not sure if it's true or just a fairy tale.	我聽說過稀有而強大的魔法戒指的傳聞，是很久以前由被遺忘的文明鑄造的。我不知道這是真的還是只是一個童話故事。
+527	Emily	Wed4	You catch fish? I just hope you treat the poor things humanely.$s#$e#Every critter deserves our respect, even the slimy ones.	你捕魚嗎？我只希望你能人道地對待這些可憐的東西。 $s#$e#每個小動物都值得我們尊重，即使是那些粘糊糊的。
+528	Emily	Wed6	Have faith... every day you're taking one more step on the path of your destiny.	要有信心......每一天你都會在你的命運之路上多走一步。
+529	Emily	Wed8	Hi, @.$u#$e#I always knew we'd become close like this...	嗨，@.$u#$e#我一直知道我們會變得像這樣親密......
+530	Emily	Thu	I hope you're farming in a sustainable way. The valley's ecosystem is fragile!#$e#How do I know? I have a strong gut-feeling!	我希望你以可持續的方式耕作。山谷的生態系統是脆弱的！ #$e#我怎麼知道？我有一種強烈的直覺!
+531	Emily	Thu4	Sometimes the flowers speak to me... each one has a different story to tell!	有時花兒對我說話......每一朵花都有不同的故事!
+532	Emily	Fri	Ah, spring. The season of pastels. I actually prefer jewel tones, myself.#$b#Oh, excuse me! I was mumbling about fashion again, wasn't I?	啊，春天。粉彩的季節。其實我自己更喜歡寶石色。 #$b#哦，對不起！我又在嘀咕時尚。我又在嘀咕時尚了，不是嗎？
+533	Emily	Sat	I like making my own clothes, but it's not easy to get cloth.#$e#And it's such a long trip to the city.	我喜歡自己做衣服，但要弄到布並不容易。 #$e#而且去城市要走這麼遠的路。
+534	Emily	Sat6	Do you ever think about the texture of fabric, @? Each texture has a distinct personality... feel my dress... see?	你有沒有想過布料的質地，@？每種質地都有獨特的個性，摸摸我的衣服，看到了嗎？
+535	Emily	Sun	Hi @!#$e#Do you raise sheep in your barn? You can turn their wool into beautiful bolts of cloth!#$e#You'll need a loom, though. You can make them yourself if you know the crafting recipe.	嗨@！ #$e#你在你的穀倉裡養羊嗎？你可以把它們的羊毛變成漂亮的布疋！ #$e#不過你需要一個織布機。如果你知道工藝配方，你可以自己製作。
+536	Emily	Sun4	This house was left in our care by my parents. They've been traveling the world for the last two years.#$e#We have no idea when they'll be back.#$e#I enjoy living here, though. It's a beautiful area and the town is nice.	這所房子是我父母留給我們照看的。他們在過去的兩年裡一直在環遊世界。 #$e#我們不知道他們什麼時候會回來。 #$e#我喜歡住在這裡，雖然。這是一個美麗的地區，小鎮也很好。
+537	Emily	event_dance1	Thank you!	謝謝你!
+538	Emily	event_dance2	Um... Okay. Sorry you didn't like it. I guess those three years of practice were a complete waste...$s	嗯......好吧，抱歉你不喜歡這裡。我想那三年的練習完全是一種浪費......$s
+539	Emily	event_dance3	Did you really think so? That's exactly the effect I was shooting for!$h#$b#I'm so glad you liked it.	你真的這麼認為嗎？這正是我拍攝的效果！ $h#$b#我很高興你喜歡它。
+540	Emily	summer_Mon	Haley is a picky eater. It's so hard to cook for her.	海利是個挑剔的吃貨。為她做飯太難了。
+541	Emily	summer_Mon4	Eating healthy is very important to me. I want to live a long and active life.	飲食健康對我來說非常重要。我想活得長壽和活躍。
+542	Emily	summer_Mon_inlaw_Haley	Haley and I get along much better now that she's moved out. I look forward to her visits!	Haley和我現在相處得好多了，她已經搬出去了。我期待著她的來訪!
+543	Emily	summer_Tue	Hello there, @.#$e#I feel lazy today.$u	你好，@.#$e#我今天感覺很懶。$u
+544	Emily	summer_Tue6	I feel bad for Linus. People judge him, but he's just living a different lifestyle.$u#$e#I wish everyone could learn to be accepting of others.	我為Linus感到難過。人們評判他，但他只是過著不同的生活方式。 $u#$e#我希望每個人都能學會接受別人。
+545	Emily	summer_Sun6	Hi, @! We've become decent friends, haven't we?$h#$e#That's fine with me. You're a cool guy.^I'm glad.$h	嗨，@！我們已經成為體面的朋友，不是嗎？ $h#$e#這對我來說很好。你是一個很酷的人。 ^我很高興。 $h
+546	Emily	summer_Sun8	Hi, @! We've become decent friends, haven't we?$h#$e#This may sound weird, but I've always been certain this would happen.	嗨，@！我地已經成為好好睇睇慨朋友，唔係咩？ $h#$e#呢可能聽落好奇怪，但我一直確信會發生呢種情況。
+547	Emily	summer_Wed	It doesn't rain much in summer, does it?#$e#That just means more watering work for you, huh?#$e#Or do you enjoy the sunny weather?	夏天唔點落雨，系未啊？ #$e#呢只係意味住你要做多啲慨澆水做嘢，哇？ #$e#定你鍾意陽光明媚慨天氣？
+548	Emily	summer_Thu	I consider the bees and butterflies to be my special friends!	我認為蜜蜂同蝴蝶系我特殊慨朋友！如果我唔係咁忙慨話，我就會將佢哋可以當系我慨朋友。
+549	Emily	summer_Fri	If I wasn't so busy I'd come help you on the farm!#$e#But Gus would be upset if I had another job...$s	如果我得閒，我會去農場幫助你！ #$e#，但係如果我有另一份工，Gus會唔開心慨……$s
+550	Emily	summer_Fri6	You know, I'm sure Gus would understand if I wanted to leave the Saloon someday.#$b#There's so much out there, I can't stay a barmaid forever.$u	你知唔知，如果有一日我想離開酒館，我相信古斯會理解慨。 #$b#出便有好多嘢，我唔可能永遠當酒吧女郎。$u
+551	Emily	summer_Sat	Don't overwork yourself or you might end up in Harvey's clinic!	唔好濟勞累，如果唔係，你可能會喺哈維慨診所度搞掂！
+552	Emily	summer_Sun	Hi @!	你好@！
+553	Emily	summer_Sun4	It's around this time of year that my good friends visit the region... I mean the parrots!	明慨呢個時候，我好朋友都會喺呢一區嚟……。我係話鸚鵡們！
+554	Emily	fall_1	Well, fall is here. Time to plant some new crops, huh?	哇，秋天嚟嘞。係時候種植啲新慨作物，哇？
+555	Emily	fall_Mon	It's good weather for a picnic, isn't it?	呢個系一個啱野餐慨天氣，唔係咩？
+556	Emily	fall_Mon8	If I didn't have to work I'd suggest we go on a nice picnic!	如果我唔使做慨話，我建議我哋去做一次好靚慨野餐！
+557	Emily	fall_Tue	Hello. Did you have a good summer?	你好。你有一個大好慨夏天嗎？
+558	Emily	fall_Tue4	Hi @! I bet your farm did great this past summer, huh?#$e#You're an excellent farmer.$h	你好@！我打賭你個農場喺過去慨夏天做得好好，哇？ #$e#你係一個優秀慨農民。$h
+559	Emily	fall_Wed	My friend runs a shop in the desert. If you ever go there stop in and say hi for me.#$e#I think she sells some rare products.	我朋友喺沙漠中經營一間舖頭。如果你去果度，請停落嚟，幫我問好。 #$e#我想佢賣慨系一啲稀有產品。
+560	Emily	fall_Thu	Are you friends with Clint? He's a nice guy, if you get to know him.#$e#He gets lonely working in his shop all day. But he's so shy he has trouble making new friends.	你同克林特系朋友呀？佢係個好人，如果你了解佢慨話。 #$e#佢成日喺佢店裡做嘢會好孤獨。但佢好怕醜，好難交到新朋友。
+561	Emily	fall_Thu8	I think Clint's mad at me. He never looks at me anymore...$u#$e#I always thought we were friends.$u	我覺得克林特對我好嬲。佢以後都唔睇我……$u#$e#我一路以為我哋系朋友。$u
+562	Emily	fall_Fri	Another beautiful fall day.#$e#It's a pity it'll soon be over.	又係一個好靚慨秋日。 #$e#可惜佢好快就會搞掂。
+563	Emily	fall_Fri6	Smell that clean air? It's lovely, isn't it?#$b#I just fear that the Joja Co.'s of the world will take this away from us.$u	聞到咁清潔慨空氣呀？佢好得意，唔係咩？ #$b#我只係擔心世界上慨Joja Co.會將呢一切從我哋身邊外賣。$u
+564	Emily	fall_Sat	Keep your mind open and some interesting things might take root.#$e#Anyway, how is your day going?	保持你思想開放，啲有趣慨嘢可能會生根發芽。 #$e#你今日過得點啊？
+565	Emily	fall_Sat6	I don't have any huge plans for life. I prefer not to stress about the future.	我對生活冇任何墟冚冚慨計劃。我寧願唔啱未來有壓力。
+566	Emily	fall_Sun	Nothing like a sunny sunday to lift the spirits!	冇咩過個陽光明媚慨星期日更畀人精神振奮慨！
+567	Emily	fall_Sun6	There's so many invisible barriers holding us back. Why can't people learn to let go and celebrate freedom?#$e#Me? Well, you know what they say... 'You can't cage a wild Junimo'.	有咁多無形慨阻滯阻滯住我哋。點解啲人唔學識放手同慶祝自由呢？#$e#你知道佢哋講乜……“你唔籠絡一個野生慨朱尼莫”。
+568	Emily	fall_Sun10	You're such a nice person, @! Thanks for being my friend.$h	你真係好人，@！多謝你做我慨朋友。$h
+569	Emily	winter_Mon	Be careful an icicle doesn't fall on your head!	因住畀冰柱落喺你個頭上！
+570	Emily	winter_Mon10	Be careful an icicle doesn't fall on your head! I wouldn't want you to get hurt!	因住畀冰柱落喺你個頭上！我唔想畀你受咗傷！
+571	Emily	winter_Tue	Oh, hello @!$h#$e#You must be getting very good at farming by now, huh?	哦，你好@！ $h#$e#你而家一定已經好會種地啦，系嘛？
+572	Emily	winter_Tue2	I bet you're an excellent farmer by now!	我打賭你而家已經系一個優秀慨農夫喇！
+573	Emily	winter_Tue4	I think my hair is frozen solid...$s	我諗我啲頭髮已經凍到實$s……
+574	Emily	winter_Wed	Haley and I aren't made for such a big house. It's a hassle to keep it clean.#$e#Ah well. I really shouldn't be complaining.#$e#Your farmhouse seems nice and cozy.$h	Haley同我唔係好啱住咁大屋。要保持佢慨清潔係好麻煩慨。#$e#我真係唔應該怨。 #$e#你農舍睇落唔錯，好安樂。$h
+575	Emily	winter_Thu	It must be so cold for the poor fish.$s#$e#I wonder if any fish hibernate? Maybe I should ask Demetrius.	呢對可憐慨魚嚟講一定好凍。 $s#$e#我想知係咪有魚會冬眠？或者我應該問德米特里厄斯。
+576	Emily	winter_Fri	If I wasn't so busy I'd help you dig around in that cave by the lake.#$e#I bet there are some powerful crystals inside there.	如果我唔係咁忙慨話，我會幫你喺湖邊慨山窿入便挖一掘。#$e#我打賭裡面有一些強大的水晶。
+577	Emily	winter_Sat	Do you know how to cook 'Bean Hotpot'?#$e#I like that dish quite a bit.$h%revealtasteEmily207#$e#It's hard to get fresh ingredients in the winter, huh?	你識唔識做'豆打甂爐' 呀？ #$e#我幾鍾意嗰道菜。 $h%revealtasteEmily207#$e#喺冬天好難得到新鮮資料，哇？
+578	Emily	winter_Sun	Hi!#$e#...Yes?	你好！#$e#，系未啊？
+579	Emily	winter_Sun6	My sister and I might fight sometimes, but I would really miss her if she left.#$e#I think she'll become a very nice young lady some day... Don't tell her I said that.$h#$e#So, is there anything you want to talk about?	我阿妹同我有時可能會嗌交，但係如果佢走，我真係會好掛住佢。 #$e#我想佢有一天會成為一個好好慨後生女士……唔好話畀佢知我咁講。 $h#$e#咁，你有咩想講慨咩？
+580	Emily	winter_Sun6_inlaw_Haley	Say hi to my sister for me! And remind her to visit me tomorrow.	幫我向我阿妹問好！並提醒佢聽日嚟探下我。
+670	Haley	Introduction	Oh... you're that new farmer boy, aren't you?^Oh... You're that new farmer girl, or whatever. Aren't you?#$e#Huh? Oh... I'm Haley.#$e#Hmm... If it weren't for those horrendous clothes you might actually be cute.^Hmm... If it weren't for those horrendous clothes you might actually be pretty... Actually, nevermind.$h	哦，你係個新嚟慨農民男仔，系未啊？ ^……你係個新嚟慨農民女仔，定係乜嘢。你唔係呀？ #$e#Huh？哦……我係Haley。 #$e#嗯……如果唔係因為嗰啲可怕慨衫，你可能真係好得意。^如果唔係因為嗰啲可怕慨衫，你可能真係好靚呀……。事實上，唔好提啦。$h
+671	Haley	Resort_Entering	I saw a dolphin on the way in!	我係嚟嗰陣見到咗一隻海豚！
+672	Haley	Resort_Leaving	There's something about the sun that just makes me feel good.	陽光有啲嘢畀我覺得好好。
+673	Haley	Resort_Shore	It's strange the places life can take you... who knows what other lands are out there?	生活可以帶你去慨地方真係怪……知出便有咩其他慨土地？
+674	Haley	Resort_Shore_2	Wow, look at how the sunlight sparkles on the horizon!$h#$b#I bet the sunsets here would make for an amazing photo.#$e#I have to remember to bring my camera next time.	哇，看陽光在地平線上閃閃發光!$h#$b#我打賭這裡的日落會是一張令人驚嘆的照片。#$e#我下次得記著帶相機。
+675	Haley	Resort_Towel	Getting the perfect tan is an artform...#$e#It's kind of like toasting a marshmallow... you have to rotate the body just right.$h	獲得完美的日光浴是一種藝術......#$e#這有點像烤棉花糖......你必須把身體旋轉得恰到好處。$h
+676	Haley	Resort_Towel_2	Laying out on a tropical beach.#$b#*sigh* I think I've finally found my place in the universe.#$e#But I guess Stardew Valley's not such a bad place either!$h	躺在熱帶沙灘上。 #$b#*sigh*我想我終於找到了我在宇宙中的位置。 #$e#但我想Stardew Valley也不是一個壞地方！ $h
+677	Haley	Resort_Towel_3	Emily's friend had this swimsuit shipped to me from all the way out in Zuzu City.#$e#City fashion is on a whole different level, isn't it?$h	Emily的朋友把這件泳衣從祖國的大路上運到了我這裡。#$e#城市時尚是一個完全不同的層面，不是嗎? ?$h
+678	Haley	Resort_Chair	I painted my toenails blue to match the sea. What do you think? *wiggle* *wiggle*$h	我把我的腳趾甲塗成藍色，以配合大海。你覺得怎麼樣？ *wiggle* *wiggle*$h
+679	Haley	Resort_Bar	Gus made a cute, fruity drink just for me!$h	Gus專門為我做了一個可愛的果味飲料！ $h
+680	Haley	Resort	This is such a perfect beach. I'd stay here forever if I could!	這真是一個完美的沙灘。如果可以的話，我願意永遠呆在這裡。
+681	Haley	danceRejection	Ew... No.	... 唔好。
+682	Haley	divorced	I'll be fine on my own...$7#$e#Thanks for the memories.$7#$e#Why are you still clinging to me? Go live your own life.$7	我一個人就好了......$7#$e#謝謝你的回憶。 $7#$e#你為什麼還粘著我？去過你自己的生活吧。$7
+683	Haley	breakUp	Agh!$8#$b#Oh... hmph. Beat me to it, huh? Alright...	Agh! $8#$b#Oh... hmph. 打敗我了，嗯？好吧......。
+684	Haley	dumped_Girls	I've got nothing to say to you!$a	我對你無話可說！ $a
+685	Haley	secondChance_Girls	Alright, alright... I'm done giving you the cold shoulder. Just promise me you'll never, ever lie to me again.$s	好吧，好吧... 我已經受夠了對你的冷遇。只要你答應我，你永遠不會再對我撒謊。$s
+686	Haley	Mon	This town is so small. It sucks.$u#$e#I have to drive, like, twenty miles to buy any decent clothes.$s#$e#That's why I usually just order online.#$e#What?	這個鎮太小了。它很爛。 $u#$e#我必須開車，比如，20英里才能買到任何像樣的衣服。 $s#$e#這就是為什麼我通常只是在網上訂購。 #$e#什麼？
+687	Haley	Tue	Nice shoes.^Nice makeup.#$b#Are those made out of plastic?^Or wait... Are you even wearing any?#$e#I'm bored.	漂亮的鞋子。 ^你個粧好靚。 #$b#那些是塑料做的嗎？ ^等等。你到底有沒有穿？ #$e#我很無聊。
+688	Haley	Wed	The only thing I like about this town is the beach.$u	我唯一喜歡的是這個小鎮的沙灘。$u
+689	Haley	Thu	#$1 HaleyClothes#I've decided I am going to organize my clothes today. I'll have to throw out all of last year's styles to make room for the new ones!#$e#*sigh* I could really go for a cupcake right now.#$e#Do you need something?	#$1 HaleyClothes#我決定今天要整理我的衣服。我得把去年的款式全部扔掉，為新的款式騰出空間！ #$e#*sigh*我現在真想吃個小蛋糕。 #$e#你需要什麼嗎？
+690	Haley	Fri	%Haley is ignoring you.	Haley沒有理會你。
+691	Haley	Fri2	Don't you get tired of running around on that farm all day, or whatever it is you do?#$e#I couldn't stand getting all dirty like that.#$e#You probably get a nice tan, though.	你整天在農場裡跑來跑去，或者不管你是做什麼的，你不覺得累嗎？ #$e#我無法忍受像那樣弄得臟兮兮的。 #$e#不過，你可能會曬得很好。
+692	Haley	Sat	I'm feeling an urge to go shopping. Ugh! I wish there was a mall here.	我有一種想去購物的衝動。啊! 我希望這裡有一個商場。
+693	Haley	Sun	My sister is so weird. Sometimes I wonder if we're actually related.$u	我妹妹太奇怪了。有時我懷疑我們是否真的有關係。$u
+694	Haley	Wed8	There are only two things I like about this town.#$b#One of them is the beach.#$e#The other one is a secret! *giggle*$h	關於這個小鎮，我只喜歡兩件事。 #$b#其中一件是沙灘。 #$e#另一件是一個秘密! *giggle*$h
+695	Haley	Tue2	I wonder if any nice shells washed up on the beach this morning?#$e#This isn't the best time of year for shells, though.	我想知道今天早上是否有漂亮的貝殼被沖到沙灘上？ #$e#不過，這不是一年中貝殼的最佳時機。
+696	Haley	Wed4	I'm glad that the flowers are starting to bloom.#$e#Those pink ones smell so good.$h	我很高興花兒開始綻放。 #$e#這些粉紅色的花兒聞起來很香。$h
+697	Haley	Fri6	I need to find some kind of hobby other than shopping.#$e#I've decided I want to expand my horizons.#$e#Maybe I should learn to play the mini-harp?	我需要找到某種愛好，而不是購物。 #$e#我已經決定要擴大我的視野。 #$e#也許我應該學習彈奏迷你豎琴？
+698	Haley	Mon6	I used to complain about this town being so small, but I've grown to like it.#$e#If it was much bigger it wouldn't feel like a community.	我曾經抱怨這個小鎮太小了，但我越來越喜歡它了。#$e#如果它大得多，就不會覺得是一個社區。
+699	Haley	Thu6	I cooked dinner last night. It actually turned out okay!#$e#But I did make a huge mess in the kitchen...	我昨天晚上做了晚餐。其實結果還不錯！ #$e#但我確實在廚房裡弄得一團糟......
+700	Haley	Sun6	I'm thinking about donating a bunch of clothes... I must have a hundred pairs of shoes.	我在考慮捐出一堆衣服......。我一定有一百雙鞋。
+701	Haley	Sat8	#$1 haleySeagull#Yesterday I found a seagull with her wing caught in a net. I set her free, of course. She looked so helpless, the poor thing.$k$s#$e#You know, I should probably start exercising more... this youthful metabolism won't last forever.	#$1 haleySeagull#昨天我發現一隻海鷗，她的翅膀被網住了。當然，我把她放了出來。她看起來很無助，這個可憐的東西。 $k$s#$e#你知道，我也許應該開始多做運動......這種年輕的新陳代謝不會永遠持續。
+702	Haley	Fri10	@, can we go on a camping trip someday?#$e#The most exotic place I've been is Zuzu city.	@，哪天我們能去露營嗎？ #$e#我去過的最有異國情調的地方是祖國城。
+703	Haley	Event_clean1	*sigh*...$u	*嘆氣*...$u
+704	Haley	Event_clean2	NO!! I'm not going to do it!$a#$b#You guys are both stupid!%fork$a	唔好!!! 我不會這麼做的！ $a#$b#你們倆都很蠢！ %fork$a
+705	Haley	Event_clean3	She should take the 'high road'? What's that supposed to mean?$u#$b#You think I'm being a baby, huh?%fork$a	她應該走 "高路"？那是什麼意思？ $u#$b#你認為我是個孩子，嗯？ %fork$a
+706	Haley	Event_jar1	Great, then you shouldn't have any problem opening this jar for me!$h	很好，那麼你為我打開這個罐子應該不會有任何問題！ $h
+707	Haley	Event_jar2	Oh... you aren't? Hmmm...$s#$b#Well could you try opening this jar for me anyways?	哦...你不是嗎？嗯......$s#$b#那麼你能不能試著為我打開這個罐子呢？
+708	Haley	Event_darkroom1	Aw, thanks!$h	噢，謝謝！ $h
+709	Haley	Event_darkroom2	Oh! I thought you knew.#$b#This room's for developing photos.	哦！我以為你知道。 #$b#這間屋子是用來沖洗照片的。
+710	Haley	Event_darkroom3	Is that so...?$s	是這樣嗎......?$s
+711	Haley	Event_darkroom4	Aw, thanks!$h	哦，謝謝！ $h
+712	Haley	Event_darkroom5	Oh! I thought you knew.#$b#This room's for developing photos.	哦！我以為你知道。 #$b#這間屋子是用來沖洗照片的。
+713	Haley	Event_darkroom6	Is that so...?$s	是這樣嗎......?$s
+714	Haley	Event_beach1	No, you won't! This bracelet was passed down to me by my great-grandmother!$a	不，你不會的! 這個手鐲是我曾祖母傳給我的！ $a
+715	Haley	Event_beach2	*sigh*$s#$b#...Maybe it'll wash up on another shore. I can't bear to think of it at the bottom of the ocean.$s	*sigh*$s#$b#...也許它會被沖到另一個岸上。我不忍心想到它在海底的樣子。 $s
+716	Haley	Event_room1	Him? No!#$b#...Well, I guess I used to like Alex. But not anymore! He's immature.	他？不！ #$b#......嗯，我想我曾經喜歡過亞歷克斯。但現在不一樣了! 他是不成熟的。
+717	Haley	Event_room2	What? That sounds fun, but I wouldn't want to leave Stardew Valley right now...	什麼？這聽起來很有趣，但我現在不想離開星露谷...
+718	Haley	Event_room3	Huh? What's an android?	嗯？什麼是機器人？
+719	Haley	summer_Mon	I'm going to get such a nice tan this summer.	這個夏天我一定會曬得很好。
+720	Haley	summer_Tue	Ew, you're all dirty.	呃，你們都很髒。
+721	Haley	summer_Wed	Um... Yes?#$e#I didn't hear you, I'm thinking about something else.	嗯......是嗎？ #$e#我沒聽見，我在想別的事情。
+722	Haley	summer_10	Do you have baby bunnies on your farm? Bunnies are SO cute! <	你的農場裡有小兔子嗎？小兔子太可愛了! <
+723	Haley	summer_Thu	If you stay in the sun a lot it'll make your hair lighter.#$e#It's a good thing to know!	如果你成日屈喺陽光下，會令你啲頭髮變淺。 #$e#呢件好事，要知！
+724	Haley	summer_Fri	I wonder what Alex is doing today...#$e#Huh? I didn't notice you standing there.	我想知亞歷克斯今日系度做緊咩……#$e#Huh？我冇留意到你企喺度。
+725	Haley	summer_Sat	Farming sounds so boring...#$q 42/43 summer_Sat_old#What do you even do all day?#$r 42 10 summer_Sat_12#Care for plants#$r 42 10 summer_Sat_12#Explore the caves#$r 43 -10 summer_Sat_13#Snoop around in your room#$r 42 10 summer_Sat_12#Dig for treasure	耕種聽落好悶……#$q 42/43 summer_Sat_old#你全日做咩 #$ ？ r 42 10 summer_Sat_12#打理植物#$r 42 10 summer_Sat_12#探索洞穴#$r 43 -10 summer_Sat_13#去你房參觀#$r 42 10 summer_Sat_12#挖寶藏
+726	Haley	summer_Sat_old	#$p 43#Hey, you better not be snooping around in my room anymore!$a|But I guess it could get you in pretty good shape.	#$p 43#嘿，你最好唔好再喺我間房度窺探喇！ $a|，但我諗呢可能會畀你慨身體變得好好。
+727	Haley	summer_Sat_12	Hmm... sounds like a lot of work.	嗯……聽落好似好費事。
+728	Haley	summer_Sat_13	What? You'd better not be doing that!$a	乜你最好唔好啖做!$a
+729	Haley	summer_Sun	Emily usually cooks dinner... But she makes weird stuff like quinoa.	Emily通常會做晚餐慨，但佢會做啲怪慨嘢，比如藜麥。
+730	Haley	summer_Tue2	Do you wear those clothes every day?	你每日都著啲衫啊？
+731	Haley	summer_Tue4	$p 47#Hey I found this new tool to open jars with. So you won't need to help me anymore.$h|There's not a cloud in the sky today.$h	$p 47#嘿，我發現咗呢個新工具，可以用佢嚟打開個罐。啖你就唔使再幫我喇。 $h|今日個天冇一絲雲彩。$h
+732	Haley	summer_Wed4	It's so hot today!#$e#I wish I had some ice cream.$s	今日太熱喇！ #$e#我希望我有一啲雪糕。$s
+733	Haley	summer_Fri4	I spent 3 hours practicing my signature today.#$e#I guess that's pretty silly, huh?	今日我用咗三個鐘練習我簽名。#$e#我諗呢係好傻慨，系未啊？
+734	Haley	summer_Thu6	If you stay in the sun a lot it will make your hair lighter... But you don't want to get sunburnt, either.#$e#I just want a healthy amount of sunlight. Everything in moderation, right?	如果你成日屈喺陽光下，會令你啲頭髮變淺……但你都唔想畀曬傷啦。 #$e#我淨系想享受健康慨陽光。一切都要適度，對呀？
+735	Haley	summer_Mon6	I should start reading some books instead of magazines.#$e#It's good to learn things, isn't it?#$e#I only ever look at the pictures.	我應該開始咗一啲書，而唔係雜誌。 #$e#學嘢係咪好正？ #$e#我只係睇相。
+736	Haley	summer_Sun6	#$1 HaleySister#I talked to my sister for a while last night. I actually enjoyed it quite a bit.#$e#You know, Emily's not actually that weird. I guess we have more in common than I used to think.#$e#Don't tell her I said so.	#$1 HaleySister#我尋晚同我家姐傾咗一陣。我實際上好鍾意佢。 #$e#你知，Emily實際上都唔係咁怪。我想我哋慨共同啲比我以前想慨要多。 #$e#唔好話畀佢知我咁講。
+737	Haley	summer_Sat6	It seems like a good day to go swimming.	呢好似系一個去游水好日子。
+738	Haley	summer_Tue8	I guess living in the country isn't so bad.#$e#If I lived in the city I might start to miss all the trees.#$e#@, I think I've been hanging out with you too much.$h	我想喺鄉下都唔係咁衰。 #$e#如果我住城裡，我可能會開始掛住所有慨樹。 #$e#@，我諗我已經同你行得好熟架喇。 $h
+739	Haley	summer_Fri10	Oh, hi @!#$e#Do you like kids?$l	哦，你好@！ #$e#你鍾意仔嗎？ $l
+740	Haley	fall_1	It's fall already?$s	已經系秋天？$s
+741	Haley	fall_Mon	It's gross when all these fallen leaves get slimy.	呢啲落葉變得黐糊糊慨，真作嘔。
+742	Haley	fall_Tue	Hmm... Something smells weird...#$e#You've been working on the farm, huh?	哇，有啲嘢聞起身好怪……#$e#你一直喺農場做嘢，哇？
+743	Haley	fall_Wed	Oh, hi. Did you want something?	哦，你好。你想要乜嘢啊？
+744	Haley	fall_Thu	I feel the urge to go shopping. *sigh*	我有種想去買嘢慨*衝動。 sigh*
+745	Haley	fall_Fri	Is that a grass stain on your knee?#$e#Sorry, I'm allergic to grass.	你個膝頭哥上慨系草漬呀？ #$e#對唔住，我對草過敏。
+746	Haley	fall_Sat	It's too cold to go to the beach anymore.#$q 44 fall_Sat_old#*sigh*...what do you think I should do today?#$r 44 10 fall_Sat_12#Watercolor painting#$r 44 20 fall_Sat_12#Relax and read a magazine#$r 44 -30 fall_Sat_13#Stop being a selfish crybaby	咁凍去沙灘#$q 44 fall_Sat_old#*嘆氣*…我今日應該做咩?#$r 44 10 fall_Sat_12#水彩#$r 44 20 fall_Sat_12#休息睇雜誌#$r 44 -30 fall_Sat_13#咪咁自私
+747	Haley	fall_Sat_old	I'll probably take a nap later.	可能我一陣間要打個盹。
+748	Haley	fall_Sat_12	Hmm... That's a pretty good idea, actually.	哇，其實係一個好橋。
+749	Haley	fall_Sat_13	Get away from me, you stupid jerk.$a	離我遠啲，你呢個扑街。 .$a
+750	Haley	fall_Sun	I've never been to the forest. It's muddy and I could get a blister on my foot.	我從來冇去過森林。嗰度好泥濘，我隻腳會起水泡。
+751	Haley	fall_Tue2	Something smells earthy...#$b#Oh, right. You work on a farm.	有鋪泥湴慨味道……#$b#哦，對啦。你喺個農場工作。
+752	Haley	fall_Fri4	You look like you've been doing a lot of hard work.#$b#Why don't you take the rest of the day off?	你而家睇落似做咗好辛苦慨工作。 #$b#你點解唔喺今日剩慨時間裡休息嚇？
+753	Haley	fall_Wed4	If you're ever bored, come say hi.	如果你覺得悶，就嚟打個招呼。
+754	Haley	fall_Thu6	Shopping just doesn't sound as fun as it used to.#$e#What's happening to me?#$e#Hmm...	購物聽落唔似以前咁得意。 #$e#我發生咩事？ #$e#Hmm……
+755	Haley	fall_Mon6	$p 48#Did I ever tell you I found another one of my great-grandma's bracelets in the attic?|See this bracelet? It belonged to my great-grandmother.#$e#She was a really interesting lady.	$p 48#我有無話過你，我喺閣上又揾到咗我曾亞嬤慨一個玉扼？|佢我慨！ 曾亞嬤。 #$e#佢係一位好得意慨女士。
+756	Haley	fall_Sun6	I've never been to the forest, you know.#$e#It might be interesting to explore it some day.	我從來冇去過森林，你知咩？ #$e#有一日去探索佢可能會好得意。
+757	Haley	fall_Tue8	I'm starting to like the smell of dirt. Isn't that weird?#$e#I think it's because you're around all the time.$h	我開始鍾意泥湴慨味道了。呢個唔係好怪呀？ #$e#我諗呢，係因為你一直喺身邊。 $h
+758	Haley	fall_Mon10	@, I'm happy to see you today.$h	@，我好開心今日可以見到你。 $h
+759	Haley	winter_Mon	I want to move somewhere warmer.	我想搬更暖慨地方。
+760	Haley	winter_Tue	Hi. Do you need something from me?#$e#...	餵，你要我慨嘢呀？ #$e#……
+761	Haley	winter_9	Hmm. What brand is your shirt?#$e#Oh. Um, nevermind.	嗯。你慨襯衫系咩牌子慨？ #$e#哦。哇，算啦。
+762	Haley	winter_Wed	I wish someone would bring me a peppermint coffee.$s#$e#Don't even bother, I know you won't be able to make one.	我希望有人可以畀我帶一杯薄荷咖啡。$s#$e#甚至唔使麻煩，我知你唔會做一個。
+763	Haley	winter_Thu	I'm going to start writing a list of all the clothes I need for next spring.	我要開始寫一份清單，列出我出年春天需要慨所有衫。
+764	Haley	winter_Fri	Do you have a pony on your farm?$h#$e#Oh. That's disappointing...$s	你個農場有馬仔呀？ $h#$e#哦。呢個真係畀人失望……$s
+765	Haley	winter_Sat	The only good thing about winter is that I get to sleep more.#$e#I like at least 10 hours of sleep every night.	冬天唯著數係我可以多瞓一陣。 #$e#我鍾意晚晚最低限瞓十個鐘。
+766	Haley	winter_Sun	Will you say hi to Alex for me?#$e#Thanks.	你可唔可以幫我向亞歷克斯問好呀？ #$e#多謝。
+767	Haley	winter_Tue2	Your name is @, right?#$e#I keep forgetting.	你個名系@，對呀？ #$e#我一直都唔記得咗。
+768	Haley	winter_Tue4	Hi @.#$e#Is anything exciting happening on your farm?	你好 @.#$e#你個農場有咩令人興奮慨事情發生咩？
+769	Haley	winter_Wed6	I think I'm starting to realize that clothes aren't the most important thing. Right?#$e#I still like clothes, though. I mean, what's wrong with expressing yourself a little?	我諗我開始意識到，衫並唔係最重要慨嘢。對呀？ #$e#我都係鍾意衫，雖然。我慨意思系，稍微表達下自己有咩錯呢？
+770	Haley	winter_Thu6	Maybe I'll donate some of my skirts to a charity this spring.#$e#I mean, I do have over 1,000 skirts.$h#$e#...what?	或者今年春天，我會將我啲裙捐畀慈善機構。 #$e#我係講，我真係有1000多條裙。 $h#$e#…咩？
+771	Haley	winter_Sun6	Um, if you see Alex could you tell him I'm busy today?#$e#Thanks.	哇，如果你睇到亞歷克斯，你可唔可以講畀佢聽我今日好忙唔忙啊？ #$e#多謝。
+772	Haley	winter_Mon8	I wish it were warmer here in Stardew Valley.#$e#I could move somewhere else, but...	我希望Stardew Valley呢度可以更暖啲。 #$e#我可以搬其他地方，但係……。
+773	Haley	winter_Fri8	Do you think you'll ever have a pony on your farm?	你話你個農場會有一匹馬仔嗎？
+774	Haley	winter_Sat8	I'm glad you have less work to do in the winter.#$e#It must be nice to have a break, huh?	我好開心你喺冬天有更少慨嘢要做。 #$e#有休息慨機會一定好好，系嘛？
+775	Haley	winter_Sun10	@, you look rugged today. I like it.^@, you look pretty today.#$e#...$h	@，你今日好似好粗獷。我中意。 ^@，你今日好似好靚。 #$e#...$h
+887	Leah	Introduction	Hello, it's nice to meet you. $h#$e#You picked a good time to move here... The spring is lovely.	你好，好開心見到你。 $h#$e#你揀咗個好時機搬離呢度…春天好得意。
+888	Leah	Resort_Entering	Don't tell anyone, but Willy let me steer the boat for a few minutes.$h	唔好話畀任何人，但Willy畀我開咗幾分鐘慨船。$h
+889	Leah	Resort_Leaving	Well, that was deeply relaxing.	哇，啖系深深慨放鬆。
+890	Leah	Resort	I love the weather in Stardew Valley, but seeing a different climate now and then helps put things into perspective.	我鍾意星雲谷慨天氣，但偶然見到唔同慨氣候有助於將野睇清楚。
+891	Leah	Resort_Shore	The shape of the waves here is awe inspiring.#$e#I wonder if I could ever capture that sort of formlessness in a sculpture.	呢度慨浪形狀畀人敬畏。#$e#我想知我係咪可以喺雕塑中捕捉到嗰啲無形慨嘢。
+892	Leah	Resort_Chair	I like the heat as long as I'm keeping perfectly still.$h	我鍾意熱，只要我保持完全靜止。$h
+893	Leah	Resort_Wander	Mmm, I bet the trees around here would make for an interesting medium to work with.#$e#Though Willy probably wouldn't be happy with me if I dragged a bunch of logs onto his ship!$h	哇，我夠膽打賭，呢度慨樹木會成為一種有趣慨嘢媒介。#$e#儘管如果我把一堆木頭拖到他的船上，Willy可能會對我不滿意！ $h
+894	Leah	Resort_Wander_2	I wonder what kind of things you could forage out here.#$e#I think I saw some tasty looking walnuts growing on a bush nearby.	我想知你喺呢度可以摘到乜嘢。 #$e#我諗我睇到啲好似好食慨合桃生喺附近慨灌木叢中。
+895	Leah	Resort_Bar	Have you tried the Piña Colada? I'm on my second one... hehe.	你試過Piña Colada嗎？我喺飲第二杯……嘿嘿。
+896	Leah	danceRejection	I'll be honest. I don't want to dance with you.$u	我講真。我唔想同你跳舞。$u
+897	Leah	divorced	I've realized I'm happier by myself. So just leave me be.$u	我已經意識到我一個人更開心。所以唔好理我。$u
+898	Leah	breakUp	Ohh... Got it. Hah... I really don't have any luck when it comes to this stuff...$s	哦……明喇。我真係冇任何彩數，當佢涉及到呢樣嘢……$s
+899	Leah	dumped_Girls	I don't want to see you for a while...$s	我有排唔想你……$s
+900	Leah	secondChance_Girls	You caused a lot of grief with what you did... but I'm ready to put the past behind us.$s	你所作所為惹咗好多悲傷，但我已經準備好將過去慨事情揼咗喺腦後。$s
+901	Leah	Beach	I came for the sound of the ocean. Beautiful, isn't it?	我係嚟聽海聲。好靚，唔係咩？
+902	Leah	Mon	The trees look nice today, don't they?#$q 21/22/211132 Mon_old#So why did you become a farmer?#$r 21 -5 Mon_21#I want to make tons of money.#$r 22 5 Mon_22#It's more \"real\" than living in the city.#$r 211132 5 Mon_211132#To follow in grandpa's footsteps.#$r 22 5 Mon_22#I wanted to escape my old life.	今日慨樹睇落唔錯，唔係咩？ #$q 21/22/211132 Mon_old#咁你點解要做農民呢？ #$r 21 -5 Mon_21#我想搵大錢。#$r 22 5 Mon_22#呢過住城裡更“真實”。 #$r 211132 5 Mon_211132#要跟隨阿爺慨足跡。#$r 22 5 Mon_22#我想逃避。
+903	Leah	Mon_old	$p 21#So are you making as much money as you hoped?|Spending time in nature is very rewarding.	$p 21#咁你賺慨錢同你希望慨一樣多呀？ |喺大自然中度過慨時間係好有意義架。
+904	Leah	Mon_21	Hmm. That seems kind of shallow, doesn't it?$s	嗯。呢好似有啲淺薄，唔係咩？ $s
+905	Leah	Mon_22	That's pretty much the reason I came here, too!$h	咁都差唔多系我嚟呢度羅！ $h
+906	Leah	Mon_211132	That's very sweet to honor your grandfather like that.	你啖紀念你亞爺，真係好。
+907	Leah	Tue4	Hi. Oh, you want to talk?#$e#The landscape around here gives me a lot of ideas. The terrain is almost like a sculpture itself.#$e#I don't make art for money. It's just an urge that I have.#$e#Farming seems like a very rewarding profession. You get to create delicious food for everyone!$h#$e#You're probably busy. Sorry.	嗨，哦，你想傾下呀？ #$e#呢度慨風景畀咗我好多諗法。地形幾乎就一個雕塑本身。 #$e#我做藝術唔係為咗錢。呢只係我一種衝動。 #$e#農場似乎系一個好有價值慨職業。你可以為大家創造靚慨嘢食！$ h#$e#你可能好忙。對唔住。
+908	Leah	Tue	Hello, neighbor.#$e#We both live outside of town. Does that mean something?	你好，隔離屋。 .#$e#我哋都喺城外。呢意味住乜嘢呀？
+909	Leah	Wed	#$1 LeahBug#This morning I accidentally stepped on a bug.$s#$e#Sometimes I think it's impossible to live without destroying nature in some way.	#$1 LeahBug#今日朝早我唔覺意踩到咗一隻蟲子。 $s#$e#有時，我覺得唔以某種方式破壞大自然系唔可能番落去。
+910	Leah	Wed6	I love being around animals. They're so innocent.#$e#Farm animals are wonderful, too.$h	我中意同動物喺埋一齊。佢哋系啲啖慨無辜。$e#農場啲動物都好精彩。$h
+911	Leah	Wed8	Hi @! I was just thinking about you and your farm.#$e#I was imagining how good it must feel to harvest a big bunch of crops.$h#$e#Wouldn't it be nice to have help, though?$l	你好@！我只係想你同你個農場。 #$e#我喺想像收穫大把女莊稼慨感覺一定好好。 $h#$e#不過，有幫助唔係好唔好啊？$l
+912	Leah	Thu	There's actually a lot of wild food in this area, if you know where to look.#$e#I've been having fresh salads almost every day.$h	其實呢一區有好多野生嘢食，如果你知去邊處揾啲嘢。 #$e#我幾乎日日都有新鮮慨沙律。 $h
+913	Leah	Thu6	Foraging is a specialty of mine. Someday I'll make you a fresh salad.$h	揾食系我慨一個專長。有一日我會畀你做一份新鮮慨沙律。 $h
+914	Leah	Fri	It's simpler to be friends with the trees. They don't have much to say.$h	同樹做朋友比較簡單。佢哋冇咩夠膽講話慨。$h
+915	Leah	Fri2	We wouldn't be able to survive without nature. It's good to remember that.	冇大自然，我哋就生存唔到。記住呢啲好好慨。
+916	Leah	Fri4	Hello, @. It's a nice day, isn't it?#$e#Stop by my cabin if you ever need someone to talk to.$h	你好，@。今日天氣唔錯，唔係咩？ #$e#如果你要搵人傾計，唔該去我小屋嚟。$h
+917	Leah	Sat	I love to decorate for the different seasons.	我鍾意為唔同慨季節進行裝潢。
+918	Leah	Sat8	Farming sounds so fun. I want to try it, someday.$l	耕作聽落好得意。我想試，總有一日。$l
+919	Leah	Sun	If you hear any banging from inside my hut, it's probably just me working on one of my sculptures.	如果你聽到我小屋入面有任何敲擊聲，可能係我喺做我一個雕塑作品。
+920	Leah	Sun8	If you ever find any interesting looking driftwood, I could use it.#$e#It would be special that you gave it to me.$l	如果你搵到任何有趣慨浮木，我可以用佢。 #$e#你將佢送畀我，只會好特別。$l
+921	Leah	event_sculpt1	...What?$7#$b#Oh! Yeah, that's absolutely right!$h	…咩？ $7#$b#哦！係呀，呢又啱慨！ $h
+922	Leah	event_sculpt2	There's nothing wrong with that... I think there's lots of beauty to be found in raw, untouched nature!#$b#But as a human, I'm also interested in how we shape and interpret the world around us... I guess what I'm saying is that I'm interested in 'art'.	咁冇咩錯……。我認為係原始慨、未畀觸及慨大自然中可以穩到好多靚！ #$b#但作為一個人，我都對我哋點塑造同解釋我哋周圍慨世界有興趣……我諗我要講慨系，我對'藝術'有興趣。
+923	Leah	event_sculpt3	You pig!%fork$a^Oh! You're...? Me too.$6#$b#Get out!$a^That's good to know.$l	你呢隻豬！ %fork$a^Oh！你係……？我都係。 $6#$b# 出去！ $a^好好理解。.$l
+924	Leah	event_parents1	You're right... I just wouldn't have been happy back there.$u#$b#It was better for both of us... to end an unsustainable relationship while we were still young and flexible.$u	你係啱慨，我只係喺嗰度唔會快樂。 $u#$b#呢對我哋兩個人都好……我哋仲後生同靈活嗰陣結束一段唔永續慨關係。$u
+925	Leah	event_parents2	That's a little harsh... but, yeah. We had different priorities.$u	呢度有D醃尖，但係，系慨。我哋有唔同慨都係睇事項。$u
+926	Leah	event_parents3	Oh yeah? Well maybe I'll just leave, then!%fork$a	哦，系未啊？好啦，或者我會離開，然後！ %fork$a
+927	Leah	event_parents4	*sigh*...$s#$b#I guess you're right... it was kind of selfish. But can you really blame me for wanting to be happy? Ugh... I don't know...$s	*sigh*……$s#$b#我想你係啱慨，呢度有D精。但你真係可以鬧定我想要開心啊？呃…我唔知……$s
+928	Leah	event_parents5	*sigh*...$s#$b#Maybe you're right... Humans are selfish creatures. I don't know. $s#$b#I probably shouldn't dwell on it. We all have to make hard choices from time to time.$s	*sigh*……$s#$b#或者你係啱慨……。人類系精慨動物。我唔知。 $s#$b#我或者唔應該煩亂於此。我哋都要不時啖做出艱難慨選擇。$s
+929	Leah	summer_1	You can tell it's summer by the sweet smell of nectar wafting through the air!$h	你可以通過空氣中飄散慨花蜜慨甜味嚟判斷而家系夏天！ $h
+930	Leah	summer_Mon	I found some wild fruits this morning!#$e#Sorry, I don't have any left.$s#$e#Keep looking, I'm sure you'll find something.	我今朝發現咗一啲野果！ #$e#對唔住，我已經冇咗。 $s#$e#繼續尋找，我相信你會揾啲嘢。
+931	Leah	summer_Tue	The sound of farm animals is great, isn't it?	農場動物聲好好，唔係咩？
+932	Leah	summer_Tue4	The simple things in life are best: a soft summer breeze, majestic clouds, and a goblet full of Stardew Valley red.	生活中簡單慨嘢系最好慨：柔和慨夏日微風，雄偉慨雲朵，與及滿滿一杯酒星露谷紅。
+933	Leah	summer_Thu6	I have a good eye for wild fruit. Some day I'll make you a nice fruit salad.$h	我有一對善於發現野果慨眼。有一日，我會畀你做一個好靚慨水果沙律。$h
+934	Leah	summer_Fri	You can use a tapper to harvest syrups and other useful liquids directly from trees.#$e#It's a slow process, but the result can be quite valuable.	你可以用攻絲機直接從樹上收穫糖漿同其他有用慨液體。 #$e#呢系一個嚤佗慨過程，但結果可能相當有價值。
+935	Leah	summer_Fri2	I hate to be blunt, but if we don't treat nature with respect, our grandchildren will be doomed.#$e#Don't you think so?	我唔想講得太直白，但係如果我哋唔尊重自然，我哋慨子孫就會當衰。 #$e#你唔咁話嗎？
+936	Leah	summer_Fri6	Hello, @. Do you ever get lonely on that big farm?#$e#Stop by my cabin if you ever need someone to talk to.$h	你好，@。你喺個大農場度會唔會覺得孤獨？ #$e#如果你要搵人傾計，唔該去我小屋嚟。$h
+937	Leah	summer_Sat	The flowing water keeps my house a little bit cooler in summer.#$e#I can't tolerate heat very well.	流動慨水令我間屋系夏天有啲涼爽。 #$e#我唔好好地忍受熱。
+938	Leah	summer_Sun	What should I do on such a warm, lazy day? *sigh*#$e#Any ideas?	系啖一個暖、慵懶慨日子入面，我應該*做緊啲咩呀？ sigh*#$e#Any ideas？
+939	Leah	fall_1	How quickly the seasons change!#$e#It's shocking.	季節變化得好快呀！ #$e#呢畀人震驚。
+940	Leah	fall_Mon	#$c .5#I found some wild mushrooms over the weekend!#$e#I had a huge plate of wild mushrooms and eggs for breakfast today... I'm still full.#$e#Keep your nose to the ground and you'll find some mushrooms yourself... I'm sure of it.	#$c .5#我喺週末發現咗一啲野生油蘑菇！ #$e#我今日早餐食咗大盤野生油蘑菇同雞蛋。 我好飽。#$e#把你的鼻子放在地上，你會自己找到一些蘑菇。…我敢肯定。
+941	Leah	fall_Tue	I wonder if I could make a collage out of dried leaves?#$e#They're just so colorful... I can't help but think of the potential for art projects.$h	我想知我係咪可以用做樹葉做一幅博貼畫？ #$e#佢哋系咁豐富多彩…我不禁諗到藝術項目慨潛質。 $h
+942	Leah	fall_Tue4	Everyone has a unique and interesting perspective, whether they believe it or not. Don't you think so?#$e#Although, some people have opinions that I just can't respect.	個個都有一個獨特而有趣慨視角，無論佢哋係咪相信佢。你唔咁話嗎？ #$e#雖然，有啲人慨觀點我就係唔尊重。
+943	Leah	fall_Wed	It's so nice to live by the river.#$e#I fall asleep to the soothing sound of water every night.	住喺河邊真係好。#$e#我每晚喺舒緩慨水聲中入睡。
+944	Leah	fall_Thu6	One of these days I'll have to make you a wild mushroom stir-fry.$h	總有一日，我得畀你做一條野生油蘑菇炒菜。$h
+945	Leah	fall_Fri	Do you have a kitchen in your house?#$e#If you have a kitchen, you can cook all kinds of delicious meals.$h	你屋企有廚房呀？ #$e#如果你有廚房，你可以做好靚啲嘢食。$h
+946	Leah	fall_Fri6	Stop by my cabin if you ever need someone to talk to.$h	如果你要搵人傾計，唔該去我小屋嚟。$h
+947	Leah	fall_Sat	Decorations accentuate the feeling of the season. I think it's a worthwhile tradition.	裝飾品出位咗季慨感覺。我認為呢系一個值得慨傳統。
+948	Leah	fall_Sun	There's a lot of good places to walk around here.#$e#It feels good to stretch your legs.	呢度有好多可以散步慨地方。 #$e#伸展你腳感覺好好。
+949	Leah	winter_Mon	I love the way everything looks when it's covered with fresh snow.	我鍾意一切畀新雪覆蓋時慨樣。
+950	Leah	winter_Tue	It gets pretty cold in my little cabin.$s#$e#I just snuggle up under a huge blanket, and I'm okay.$h	喺我細木屋企會好凍。 $s#$e#我只係依偎喺一張氊下，我就冇事嘞。$h
+951	Leah	winter_Wed	I saw a snow rabbit early this morning! They're rare, aren't they?	我今日晨早就見到咗一隻雪兔！佢哋好罕見，唔係咩？
+952	Leah	winter_Thu	I'm having a hard time finding fresh food to eat.#$e#I've been eating a lot of bread.$s	我好難搵到新鮮啲嘢食。 #$e#我已經食咗好多包嘞。$s
+953	Leah	winter_Thu6	*Sigh*... It's hard to get fresh food in the winter.#$e#I bet your farm is pretty well stocked with food, huh?	*嚡嚡聲*…冬天好難買到新鮮啲嘢食。 #$e#我想你個農場一定有好好啲嘢食儲備吖？
+954	Leah	winter_Fri	Time seems to move slower here.#$e#When I lived in the city, the year went by so fast.	呢度慨時間似乎過得比較慢。 #$e#當我喺城市入面慨時候，一年時間過得好快。
+955	Leah	winter_Fri6	Do you ever get cold in that farmhouse of yours?#$e#Stop by my cabin if you want to huddle under one of my quilts and drink cider.$h	你喺你農舍度會唔會覺得凍？ #$e#如果你想屈埋喺我被度飲蘋果酒，就嚟我小屋啦。$h
+956	Leah	winter_Sat	Hello. Do you want something?	你好。你想要乜嘢啊？
+957	Leah	winter_Sat2	Hello, @. Is there something you wanted to talk about?	你好，@。你有咩想講慨咩？
+958	Leah	winter_Sun	Do you ever take a whole day off?#$e#It's a refreshing break.	你曾經休息過一成日呀？ #$e#呢系一個令人振奮慨休息。
+1078	Maru	Introduction	Oh! Aren't you the one who just moved in?#$b#I'm Maru. I've been looking forward to meeting you!$h#$e#You know, with a small town like this, a new face can really alter the community dynamic. It's exciting!	哦！你唔係岩搬嚟嗰個呀？ #$b#我係Maru。我一直喺度等咗好耐住見到你！ $h#$e#你知，好似啖慨小鎮，個新面孔真係可以改變議員慨活力。好畀人興奮！
+1079	Maru	Resort_Entering	Willy mentioned that you helped fix the boat. Thanks for doing that!	Willy提到你幫手修船。多謝你啖做！
+1080	Maru	Resort_Leaving	That was fun!	好好玩！
+1081	Maru	Resort	I've been noticing a few different starfish species. My favorite are the big purple ones, but they're all very interesting!	我已經留意咗一啲唔同慨海星種類。我最鍾意慨系紫慨大海星，但係佢哋都好得意！
+1082	Maru	Resort_Towel	*gasp*... It's a solar eclipse!$3#$b#Oh... nevermind. It's just your body blocking the sun.	*gasp*…呢係日食！!$3#$b#哦…算啦。呢只係你慨身體擋住曬太陽啫。
+1083	Maru	Resort_Towel_2	We're so far removed from civilization out here.#$b#Imagine the stars you could see at night.#$e#Who knows, maybe we'd even see a flying saucer or two!$h	我哋喺呢度遠離文明。#$b#想像下你夜晚可以睇到慨星星。 #$e#點知呢，或者我哋甚至會見到一兩個飛碟！ $h
+1084	Maru	Resort_Bar	Mmmm... Why are tropical fruits so good?	嗯…點解熱帶水果咁食？
+1085	Maru	Resort_Shore	I wonder if Willy would let me bring my telescope here sometime...#The sky is so clear here, I bet I could spot Pelican Town out in the horizon.#Maybe I'd even see you running around %farm Farm!	我想知Willy會唔會畀我有時間帶住我望遠鏡嚟呢度……#呢度慨天系咁清晰，我打賭我可以喺地平線上睇到鵜鶘鎮。#也許我什至會看到你在 %農場到處跑!
+1086	Maru	danceRejection	I'm flattered! But... No.	我真係受寵若驚！但係，唔好。
+1087	Maru	divorced	We have nothing to say to each other.$a	我哋大家之間冇咩夠膽講話慨。$a
+1088	Maru	breakUp	Not good enough for you, huh?$a#$b#Fine...$s	對你嚟講都唔夠好，哇？$a#$b#好啦……$s
+1089	Maru	dumped_Girls	You've got some nerve, speaking to me!$a	你真係有膽，同我講嘢！ $a
+1090	Maru	secondChance_Girls	You've lost some respect with me, @... but I'm willing to forgive you.$s	你喺我度失去咗一啲尊重，@……但我願意原諒你。 $s
+1091	Maru	Mon	Whenever I'm struggling with a technical problem, I always take a walk.#$e#It's surprising how much a change of scenery can help.	每當我為一個技術問題而苦惱慨時候，我總係出去行下。 #$e#令人驚訝慨系，換個環境可有幾大幫助。
+1092	Maru	Tue	Have you met my mother? She's the town's carpenter.	你見過我阿媽啊？佢係鎮上慨鬥木佬。
+1093	Maru	Wed	On Tuesdays and Thursdays I work at Harvey's clinic.#$b#He says he likes having me around in case his medical equipment goes haywire!$h#$e#Being a farmer must be pretty easy, huh?	喺星期二同星期四，我喺哈維慨診所工作。 #$b#佢話佢鍾意有我喺身邊，以防佢醫療設備出錯！$h#$e#做一個農民一定好松，系嘛？
+1094	Maru	Thu	I plan on spending a lot of time with my telescope this summer.	我計劃今年熱天花好多時間喺我望遠鏡上。
+1095	Maru	Sat	Do you know my Dad, Demetrius? He's a scientist. I have a lot of fun helping him out in the laboratory.	你識我阿爸Demetrius嗎？佢係一個科學家。我喺實驗室度幫助佢有好多樂趣。
+1096	Maru	Fri	Hey, sorry if I seem cranky... I'm a little sore from work yesterday.#$c .5# I had to carry ten boxes of medical files to the attic!#$e#I had to sort patient records for four hours straight!	嘿，對唔住，如果我好似好孟…尋日慨工作畀我有啲淵。 #$c .5#我要拎將十箱醫療文件搬閣上！ #$e#我要拎連續四個鐘對病人慨紀錄進行分類。
+1097	Maru	Sun	Hi!#$q 3/4 Sun_01_old#Do you have fun working on the farm?#$r 3 0 Sun_01_01#Yes.#$r 4 0 Sun_01_02#No.	你好！#$q 3/4 Sun_01_old#你喺農場做嘢有樂趣呀？#$r 3 0 Sun_01_01#系慨。 #$r 4 0 Sun_01_02#唔好。
+1098	Maru	Sun_01_old	$p 3#Hey, you've made another week of progress on the farm! It seems like things are going well for you.$h|Another tiring week on the farm, huh? It must really be a lot of work...$s	$p 3#嘿，你喺農場又取得咗一個星期慨進展！睇嚟你慨嘢進展順利。 $h|喺農場啲另一個禮拜好攰，系未啊？呢一定係個好大慨嘢……$s
+1099	Maru	Sun_01_01	Well that's good, isn't it?$h	哇，好好，唔係咩？$h
+1100	Maru	Sun_01_02	Yikes! I'm sorry. Have you ever thought of doing something different...?$s	呀！我好對唔住。你有冇諗過做啲唔同慨嘢……$s
+1101	Maru	Tue2	Stop by our house when you need to upgrade your buildings.#$e#It's always nice to have visitors.	當你要升你慨建築物慨時候，唔該去我哋屋企。 #$e#有訪客係好好慨。
+1102	Maru	Fri4	My mother is a carpenter and my dad is a scientist. I guess it makes sense that I'm into building gadgets.	我阿媽系個鬥木佬，我阿爸系個科學家。我諗，我鍾意建造小玩意係有道理慨。
+1103	Maru	Mon6	Sometimes my head gets so cluttered with nonsense I can hardly think. Does that ever happen to you?#$e#Getting some fresh air usually helps.	有時，我腦子裡會畀垃圾嘢塞滿，幾乎唔諗。你有過呢種情況呀？ #$e#呼吸D新鮮空氣通常會有幫助。
+1104	Maru	Wed8	I work at Harvey's clinic on Tuesdays and Thursdays.#$e#He's nice, but not really my type...	我星期二同星期四喺哈維慨診所工作。 #$e#佢好好，但唔係我中意慨類型……
+1105	Maru	Thu10	Oh, @! Is there anything you want to talk to me about?$l	哦，@！你有咩想同我講慨咩？$l
+1106	Maru	Event_Hospital_1	Of course he'll know the difference! This sample is completely ruined!%fork$s	佢當然會知道其中慨差別！呢個樣本完全被毀喇！!%fork$s
+1107	Maru	Event_Hospital_2	Okay. I'll blame it on you, then.$u	好啦，咁我就將佢歸咎於你啦。.$u
+1108	Maru	Event_Hospital_3	You're right. I should just tell him the truth.%fork$u	你係啱慨。我應該直接講畀佢聽真相。 %fork$u
+1109	Maru	Event_Space1	It's amazing, isn't it?	好神奇，唔係咩？
+1110	Maru	Event_Space2	I guess you could see it like that...$s#$b#But it's still incredible, isn't it?	我諗你可以啖睇…………$s#$b#但係都係好不可思議，唔係咩？
+1111	Maru	Event_Cut1	Oh no?$8#$b#Well, that makes me feel a little better, then. Thanks.	哦，唔？ $8#$b#好啦，咁畀我覺得好啲啦，咁。多謝。
+1112	Maru	Event_Cut2	Oh no! Aghh... I'm really really sorry.$s	哦，唔！丫，我真係好對唔住。$s
+1113	Maru	event_robot1	Thanks. That means a lot to me, @.#$b#I know gadgets aren't really your kind of thing... but I do appreciate that you're showing interest in what I do.#$b#I wish I could return the favor somehow.$l	多謝。呢對我嚟講意義架。重大，@。 #$b#我知小玩意並唔係你菜，但我好感激你對我慨工作表現出興趣。 #$b#我希望可以以某種方式回報你。$l
+1114	Maru	event_robot2	What? After she said point-blank that she doesn't want to be a slave? How cold...%fork$a	什麼？在她直截了當地說她不想做奴隸之後？多麼冷酷......%fork$a
+1115	Maru	event_robot3	Heh...$8#$b#Yeah I guess he did kinda say that, didn't he?$l#$b#...Um...$l	Heh...$8#$b#Yeah I guess he did kinda say that, didn't he?$l#$b#...嗯...$l
+1116	Maru	event_robot4	...$8#$b#@...$8	...$8#$b#@...$8
+1117	Maru	event_robot_explain1	...$s#$b#You have a point, I did program her to act human... but her neural net is so complex, I can't be sure conciousness didn't emerge on its own.$8#$b#Furthermore, isn't it a little arrogant to assume that human-like consciousness is the only worthwhile vessel of existence? Computer brains are different than ours, but that doesn't mean we can disregard them.$8	...$s#$b#你說的有道理，我確實把她編程為人類的行為...但她的神經網絡非常複雜，我不能確定意識不是自己出現的。 $8#$b#此外，假設類似人類的意識是唯一有價值的存在容器，這是不是有點傲慢？計算機的大腦與我們的不同，但這並不意味著我們可以無視它們。$8
+1118	Maru	event_robot_explain2	I see. Well it wasn't a very funny joke.$a	我明白了。嗯，這不是一個很有趣的笑話。$a
+1119	Maru	event_robot_explain3	That's horrible! What's gotten into you, @?$a#$b#I'm just going to forget about this conversation... you aren't acting yourself.$a	太可怕了! 你怎麼了，@？ $a#$b#我打算忘掉這次談話......你不是在演戲。$a
+1120	Maru	summer_1	This is going to be a great season for stargazing.	這將是一個觀星的好季節。
+1121	Maru	summer_Mon	Hmm... What sort of gadget should I tinker with this summer?	嗯... 這個夏天我應該搗鼓什麼樣的小玩意兒？
+1122	Maru	summer_Mon6	Come to my room if you ever want to tinker with my gadgets.	如果你想修理我的小玩意，就到我的房間來。
+1123	Maru	summer_Tue	Sebastian is my half-brother, if you didn't know already.#$e#We look totally different.	Sebastian是我同父異母的兄弟，如果你還不知道的話。#$e#我們看起來完全不同。
+1124	Maru	summer_Tue4	Sebastian hardly ever talks to me. I wonder if he even likes me at all?#$e#It's sad, I want to have a brother but he doesn't act like one.	Sebastian很少和我說話。我想知道他到底喜不喜歡我？ #$e#這很可悲，我想有一個兄弟，但他的行為卻不像一個。
+1125	Maru	summer_Wed	Are you enjoying the season?#$e#It's been so warm this year.$h	你喜歡這個季節嗎？ #$e#今年的天氣很溫暖。$h
+1126	Maru	summer_Thu	Sorry, I was just thinking about some gadgets I'm making.#$q 35/36 Thu_01_old#I've decided I'm going to build a robot someday.#$r 35 30 Thu_0#That should be very easy for you#$r 36 -50 Thu_01_01#You should be more realistic#$r 35 40 Thu_01_02#It sounds challenging	對不起，我只是在想我正在做的一些小玩意。 #$q 35/36 Thu_01_old#我決定有一天要造一個機器人。 #$r 35 30 Thu_0#這對你來說應該很容易#$r 36 -50 Thu_01_01#你應該更現實一些#$r 35 40 Thu_01_02#這聽起來很有挑戰性
+1127	Maru	Thu_01_old	See you later.	回頭見。
+1128	Maru	Thu_0	Really? Are you sure you're not just trying to flatter me?	真的嗎？你確定你不是在奉承我嗎？
+1129	Maru	Thu_01_01	You don't think I could do it?$s	你認為我做不到嗎？$s
+1130	Maru	Thu_01_02	You're right, but I love a challenge!$h	你是對的，但我喜歡挑戰！ $h
+1131	Maru	summer_Sat	Hey, have any interesting farm stories to tell me?#$e#Guess not.	嘿，有什麼有趣的農場故事要告訴我嗎？ #$e#我想沒有。
+1132	Maru	summer_Fri	I worked at the clinic yesterday. We didn't have a single patient.#$e#I guess people get sick less during summer.	我昨天在診所工作。我們沒有一個病人。 #$e#我猜人們在夏天會少生病。
+1133	Maru	summer_Sun	I bet you're growing some interesting crops right now.#$b#Dad says a lot of exotic plants grow in the valley this time of year.	我敢打賭，你現在正在種植一些有趣的作物。 #$b#爸爸說，每年的這個時候，很多外來的植物都在山谷裡生長。
+1134	Maru	summer_Fri2	Hey, tell me a story about farming.#$e#That's really interesting!	嘿，給我講一個關於農業的故事。 #$e#這真的很有趣!
+1135	Maru	summer_Wed4	Is it just me or did it suddenly get really hot?#$e#I guess it's just me.	是我的錯覺，還是它突然變得非常熱？ #$e#我想這只是我的錯覺。
+1136	Maru	summer_Sun6	Some day I'm going to be a world-class inventor.$u#$e#You're lucky to be friends with me!#$b#...just kidding.	有一天我將成為世界級的發明家。 $u#$e#你很幸運能和我成為朋友！ #$b#...只是開玩笑。
+1137	Maru	summer_Tue8	@, you're looking sharp today.$h	@，你今天看起來很精神。 $h
+1138	Maru	summer_Thu10	How do your hands stay so soft with all that farm work?	做了那麼多農活，你的手怎麼能保持這麼柔軟？
+1139	Maru	fall_Mon	Have you explored the mines much? I've heard you can find some useful materials there.	你經常探索礦區嗎？我聽說你可以在那裡找到一些有用的材料。
+1140	Maru	fall_Tue	The trees look beautiful today!$h	今天的樹看起來很美！ $h
+1141	Maru	fall_Thu	In other parts of the world it's spring right now. Imagine that!	在世界的其他地方，現在是春天。想像一下吧!
+1142	Maru	fall_Wed	Bleh... I don't feel like working tomorrow.	糟糕...。我覺得明天不想工作了。
+1143	Maru	fall_Fri	I bet we'll start seeing more people at the clinic this season.$s#$e#I hope everyone stays healthy.	我打賭這個季節我們會開始在診所看到更多的人。 $s#$e#我希望每個人都能保持健康。
+1144	Maru	fall_Sat	All these falling leaves will provide food for mushrooms and other small organisms.$u#$e#Interesting, isn't it?	所有這些落葉將為蘑菇和其他小生物提供食物。 $u#$e#有趣的是，不是嗎？
+1145	Maru	fall_Sun	Hey, here's to another good week! *toast*	嘿，為另一個美好的一周乾杯! *敬酒*
+1146	Maru	fall_Tue2	@, I just love how the trees look right now!#$e#I know you like them too.	@，我只是喜歡現在的樹的樣子！ #$e#我知道你也喜歡它們。
+1147	Maru	fall_Wed4	If you have any extra metal laying around, I could always use it for one of my projects.#$e#But only if you don't need it yourself.	如果你身邊有多餘的金屬，我可以隨時用它來做我的一個項目。 #$e#但前提是你自己不需要它。
+1148	Maru	fall_Fri6	I've been feeling especially optimistic lately...$h	我最近感覺特別樂觀...$h
+1149	Maru	fall_Mon8	You should come visit me at the clinic Tomorrow. I work from 10 a.m. to 4 p.m.$h	你明天應該來診所看我。我的工作時間是上午10點到下午4點，$h
+1150	Maru	fall_Thu10	You have a leaf in your hair. Let me get it for you.#$e#...$h	你的頭髮上有一片葉子。讓我來幫你拿吧。#$e#...$h
+1151	Maru	winter_1	Oh man, it's so cold...$s	哦，伙計，太冷了...$s
+1152	Maru	winter_Mon	Did you see the snowman I built?$h	你看到我堆的雪人了嗎？$h
+1153	Maru	winter_Tue	My hair gets so frizzy in this dry weather. *sigh*	在這種干燥的天氣裡，我的頭髮變得很毛糙。 *嘆氣*
+1154	Maru	winter_Wed	I guess winter is a good time to work on my gadgets.#$e#I wonder if I could make anything useful for farmers?	我想冬天是研究我的小玩意的好時機。 #$e#我想知道我是否能為農民做一些有用的東西？
+1155	Maru	winter_Thu	Hey! What's up?#$e#It's a good time to explore the caves.#$e#I would go but my Dad would flip.	嘿!點呀?#$e#這是探索洞穴的好時機。#$e#我會去，但我爸爸會瘋掉。
+1156	Maru	winter_Fri	I hope I don't catch the flu this year.	我希望我今年不會染上流感。
+1157	Maru	winter_Sat	Have you built a furnace yet?#$e#You can use them to turn raw material like ores into more useful products.$u	你建了一個爐子了嗎？ #$e#你可以用它們把礦石等原材料變成更有用的產品。$u
+1158	Maru	winter_Sun	I get so sleepy when it's cold...	天冷的時候我就很想睡覺...
+1159	Maru	winter_Sat2	Hey, if any of your farming machines need to be fixed, just let me know.$h	嘿，如果你的任何農用機器需要修理，就告訴我吧！ $h
+1160	Maru	winter_Tue4	Hey, do you have any ideas for a new gadget I can make?#$e#Mhmm. I trust your opinion.	嘿，你有什麼想法可以讓我做一個新的小工具嗎？#$e#我相信你的意見。
+1161	Maru	winter_Fri6	You look fresh today. I guess it's that crisp winter air.	你今天看起來很清爽。我猜是冬天的清涼空氣。
+1162	Maru	winter_Mon8	Hi @!$h#$e#Hey, don't you think my snowman looks kind of like you?	嗨@！ $h#$e#嘿，你不覺得我的雪人看起來有點像你嗎？
+1163	Maru	winter_Thu10	@, come closer. I'm cold.$l#$e#My hands are so dry from the winter air. I'm sorry about that.$l	@，走近點。我很冷。 $l#$e#我的手被冬天的空氣弄得很乾。對此我很抱歉。 $l
+1225	Penny	Introduction	Oh... Hello! I'm Penny...	哦......你好! 我是Penny…
+1226	Penny	Resort_Entering	This island is so beautiful!	這個島太美了!
+1227	Penny	Resort_Leaving	I had a great time.$h	我玩得很開心。 $h
+1228	Penny	Resort_Shore	I'm a little embarrassed wearing my bathing suit in public.$s#$b#I hope no one's looking...$s	我有點不好意思在公共場合穿泳衣。 $s#$b#我希望沒有人在看...$s
+1229	Penny	Resort_Shore_2	Somehow, the water here looks so different...#$e#I can hardly believe this is the same ocean I've been gazing at my entire life.	不知何故，這裡的水看起來如此不同......#$e#我很難相信這是我一生都在凝視的同一個海洋。
+1230	Penny	Resort_Towel	The wind keeps making me lose my page, but it feels really great on the skin.$h	風一直讓我失去我的頁面，但它在皮膚上的感覺真的很棒。$h
+1231	Penny	Resort_Towel_2	I'm reading a book about a sailor who washes up on a deserted island.#$b#I wonder what I would do in that sort of a situation?	我正在讀一本關於一個水手衝上荒島的書。 #$b#我想知道我在那種情況下會怎麼做？
+1232	Penny	Resort_Marriage_Towel_2	Hey honey, do you mind standing a little to the left?#$b#Thanks, the sun was making it a little bit hard to read!$h	嘿，親愛的，你介意站在左邊一點嗎？ #$b#謝謝，太陽讓它有點難看！ $h
+1233	Penny	Resort	This sand is so soft and fine. It feels great on my toes!$h	這沙子是如此柔軟和細密。它在我的腳趾上感覺很好！ $h
+1234	Penny	Mon	Hi... #$e#Oh, did you want something?	嗨......#$e#哦，你想要什麼嗎？
+1235	Penny	danceRejection	Oh... No, thanks.$s	哦......不，謝謝。 $s
+1236	Penny	breakUp	...$s#$b#I... I see... *sniff* ... W... We can just be friends, then.$s	...$s#$b#我... 我明白了... *sniff* ... W... 我們可以只做朋友。$s
+1237	Penny	pamHouseUpgrade	What you did for my family is so generous. Thank you!	你為我的家庭所做的一切是如此的慷慨。謝謝你!
+1238	Penny	pamHouseUpgradeAnonymous	There are some truly wonderful people in the world...	世界上有一些真正優秀的人... ...
+1239	Penny	dumped_Girls	I can't bear to see you...$s	我唔忍心見到你……$s
+1240	Penny	divorced	...Please, leave me alone.$s	…請畀我一個人留住。$s
+1241	Penny	secondChance_Girls	You've left a permanent scar on my heart, @. Still... I'm ready to speak to you again.$s	你喺我個心度留低咗個永久慨疓，@。即管咁，我已經準備好再次同你講野。 $s
+1242	Penny	Mon4	*sigh*... My mother definitely has a problem with going to the saloon too much.$s#$q 7/8 Mon_old#But it's best not to dwell on bad things, right?#$r 7 50 Mon_7#Right. It's best to be positive!#$r 8 10 Mon_8#I think it's good to be realistic.	*sigh*…我阿媽肯定有問題，去沙龍慨次數太多。 $s#$q 7/8 Mon_old#但最好唔好糾纏於衰，對呀？ #$r 7 50 Mon_7#冇錯。最好系積極慨！ #$r 8 10 Mon_8#我認為真相啲係好慨。
+1243	Penny	Mon_old	#$p 7#But if I keep trying I think I can get her to change.|I guess it makes sense. There's not much I can do to change it, anyway.	#$p 7#，但係如果我繼續努力，我諗我可以畀佢改變。 |我諗呢係有道理慨。咁我都冇咩可以改變慨。
+1244	Penny	Mon_7	That's how I feel. I'm just going to focus on making the future better.	呢個系我慨感覺。我只係諗住將注意力擺喺畀未來變得更好。
+1245	Penny	Mon_8	Maybe you're right. It's better to cope with reality.$u	或者你係啱慨。應對真相會更好。$u
+1246	Penny	Mon8	I'm eager to move out. It's such a burden to be worrying about Mom all the time.#$e#I want her to be happy, but I can't stay here forever... you know?$s	我好想擔出去住。一直擔心阿媽系個負擔。 #$e#我希望佢可以快樂，但我唔可以永遠留喺呢度……你知道嗎？$s
+1247	Penny	Tue	I'm tutoring Vincent and Jas today... They're a handful, but it's nice to make a difference in someone's life.	我今日要輔導Vincent 同 Jas ，佢哋好揦手，但可唔可以人哋慨生活帶嚟改變系件好事。
+1248	Penny	Tue4	$d bus#Maybe now that my mother has her bus driving job back, I can start saving more money. Things are looking a little brighter.|I'm trying to save money from my tutoring job, but it's hard with my mother out of work.$s	$d bus#或者而家我阿媽恢復咗佢公交車做嘢，我可以開始存多啲錢。事情睇落更加明朗|喇。我喺努力由我家教工作中存錢，但我阿媽冇工作，好難。$s
+1249	Penny	Tue10	Um, @? A farm seems like a good place for children, don't you think?$l#$e#It was just a thought I had.$l	哇，@？農場似乎系仔們慨地方，你唔覺得呀？ $l#$e#呢只係我個諗法。$l
+1250	Penny	Wed	We don't have a school here but I'm doing my best to give Vincent and Jas a proper education.#$e#Every child deserves a chance to be successful.#$e#Jas is very good at math and reading. Vincent is good at... well, he has an active imagination!	我地呢度冇學校，但我喺盡力畀Vincent同Jas講嚇嘢喇！適當慨教育。 #$e#每個仔都應該有機會獲得成功。 #$e#雅斯喺數學同睇書方面十分出色。Vincent強項系…好啦，佢想像力好豐富！佢係一個好好慨仔。
+1251	Penny	Wed2	You know what? I should take the children on a field trip some time. Maybe to the forest.#$e#A guest speaker would be nice... maybe someone familiar with nature?#$e#Sorry, I'm just thinking out loud.	你知道嗎？我應該揾個時間帶仔們去實地考量一下。或者係去森林。 #$e#一個客座演講者會好好，或者係熟自然慨人？ #$e#對唔住，我只係大聲諗。
+1252	Penny	Wed4	I've lived in Pelican Town my whole life. Can you believe that?#$e#I guess there's a lot out there I'll never experience.	我喺鵜鶘鎮住咗一世。你可以唔信呀？ #$e#我想出便有好多嘢我永遠唔會經歷。
+1253	Penny	Thu	We're very lucky to have a library in such a small town.#$e#When you're lost in a book, it's easy to forget the realities of your life.$u#$e#...Maybe that's why I like reading so much.$s#$e#...Sorry. I got carried away there.	我哋好好彩，喺咁個小鎮上有一個圖書館。 #$e#當你迷失喺書中慨時候，好容易唔記得咗你個真相生活。$u#$e#，或者呢就係點解我咁鍾意睇書。 $s#$e#…唔好意思。我喺度忘乎所以喇。
+1254	Penny	Thu6	I wish I could keep a garden, but our yard is such a mess.$u#$e#Maybe I'll live in a place where I can have a garden someday.#$e#Maybe I'll live on a farm! *giggle*$h	我希望可以養個花園，但係我哋個院太亂。 $u#$e#或者有一日我會喺一個可以有花園慨地方。 #$e#或者我會喺個農場*咧？ giggle*$h
+1255	Penny	Fri	If you dig in the dirt you can find some interesting things.#$e#One time I found a really old piece of pottery. I brought it to Gunther and he said it was over a thousand years old.	如果你在泥土裡挖，你會發現一些有趣的東西。#$e#有一次我發現了一件非常古老的陶器。我將佢畀岡特，佢話佢有一千多年慨歷史喇。
+1256	Penny	Fri2	If you dig in the dirt you can find some interesting things.#$e#One time I found a really old piece of pottery. I brought it to Gunther and he said it was over a thousand years old.	如果你喺泥湴中挖掘，你可以發現啲有趣慨嘢。 #$e#有一次，我發現咗一張好古老慨慨陶器。我將佢畀岡特，佢話佢有一千多年慨歷史喇。
+1257	Penny	Fri4	Dishes, dishes, dishes. Ugh... If my mother wasn't always nursing a headache from her late nights at the saloon, maybe she could help around the house a little.$s	洗碗，洗碗，洗碗。呃，如果我阿媽唔係因為喺酒館做到好夜而成日頭痛，或者佢可以喺屋企幫啲忙。$s
+1258	Penny	Sat	This is such a small town. You can't avoid meeting everyone.#$e#I wonder what it's like to live in the city?	哩個細城鎮。你真係逃過與個個見面。 #$e#我想知喺城市入面系咩感覺？
+1259	Penny	Sat2	$d Joja#Things changed a lot after the JojaMart went up. It's been really bad for Pierre's shop. Mom loves JojaMart, though. The prices are cheap, so she can afford a lot more there than she ever could at Pierre's.|Mom's been complaining ever since JojaMart closed down. I think it's good for her, though. Maybe she'll drink less Joja Cola now.	$d Joja#建成後，情況發生咗好大慨變化。呢對皮埃爾慨舖頭嚟講，真係好大鑊。不過，阿媽鍾意JojaMart。果度慨價錢好平，所以佢喺度買慨嘢比喺皮埃爾店裡買慨多得多。|但我認為呢對佢有著數。或者佢而家會飲少Joja可樂。
+1260	Penny	Sun	Hello. Ummm...$u#$b#The weather's interesting today, don't you think?#$e#Sorry...$u	你好。呃……$u#$b#今日慨天氣好得意，你唔覺得呀？ #$e#對唔住……$u
+1261	Penny	Sun4	I've been trying to keep our place clean, but it always gets messy again.$s#$e#It's hard to run a household all by yourself.$u	我不溜喺努力保持我哋慨地方清潔，但總系又變得，好亂。.$s#$e#一個人管理個家庭係好難慨。 $u
+1262	Penny	event_speaker_kids1	Oh no?$l#$b#Well, I guess that makes sense... you're busy with other things right now.	哦，唔？ $l#$b#嗯，我諗呢係有道理慨……你而家忙於其他事。
+1263	Penny	event_speaker_kids2	... Me too. I'm glad you feel that way.$7	…我都係。我好開心你有呢種感覺。$7
+1264	Penny	event_speaker_kids3	Yes... the urge to care for something innocent and helpless. It makes sense that we'd feel that.	系慨……照顧無辜同無助慨嘢慨衝動。我哋有呢種感覺係有道理慨。
+1265	Penny	event_speaker_kids4	Oh, really?$s#$b# I think you'd make a good parent.$7	哦，真係？ $s#$b#我想你會成為一個好家長。$7
+1266	Penny	event_speaker_kids5	hmm...$s#$b#If everyone thought like that, humans would die out.$s	hmm……$s#$b#如果個個都咁諗，人類就會絕種。$s
+1267	Penny	event_speaker_kids6	Oh...$s#$b#That's kind of sad... but I guess I can understand your point.$s	哦……$s#$b#呢有啲可悲，但我諗我可以理解你慨觀點。$s
+1268	Penny	event_speaker_yes	Great!$h#$b#Let me just call the children over.	真係好！ $h#$b#畀我將仔們叫我過嚟。
+1269	Penny	event_speaker_no	Really?... Uh... Well, alright. I guess I'll see you later then.%fork$s	真係咩？呃……哇，好啦。我諗我以後會見到你。 %fork$s
+1270	Penny	event_mail1	Thank you...$l#$b#I just wish George wasn't so upset... I was only trying to help.$s	多謝你……$l#$b#我只係希望阿George唔好咁嬲……。我只係想幫手啫。$s
+1271	Penny	event_mail2	Oh... I guess you're right.$l#$b#I'm sorry, Mr. Mullner. It was rude, what I did.$s	哦，我想你係啱慨。 $l#$b#我好對唔住，Mullner先生。我所做慨嘢好冇禮貌。$s
+1272	Penny	event_mail3	I see.	我明喇。
+1273	Penny	event_old1	I guess you're right... why stress out about something you can't change?$u	我諗你係啱慨，點解要為你唔改變慨嘢，而感到緊張？$u
+1274	Penny	event_old2	You're right, we shouldn't ignore the reality of aging.$u#$b#I guess the sooner we come to terms with our mortality, the more time we can spend really living in the here-and-now.$u	你係啱慨，我哋唔應該忽視衰老慨真相。$u#$b#我想，我哋越早接受我哋慨死亡，我哋就可以有多啲時間真正生喺當下。$u
+1275	Penny	event_old3	That's nice of you to say... I totally agree with you.#$b#We should treat our elders with the same respect we hope to receive ourselves some day.	你講得真係好……我完全同意你慨觀點。我完全同意你觀點。#$b#我哋應該用我哋希望有一日可以得到慨同樣慨尊重來對我哋啲長輩。
+1276	Penny	event_old4	That's a horrible thing to say. Life is a precious thing to waste like that!$a	呢句說話好可怕。生命系一種寶貴慨嘢，唔好咁大嘥！ $a
+1277	Penny	event_cook1	You really mean it? Thank you! ... it's such a relief to hear that.$h#$b#I've been working so hard on this recipe, and I'm really proud of it.	你係認真慨？多謝你！ ………………聽到呢句話我就放心啦。 $h#$b#我一直喺畀心機研究呢個菜單，我真係好自豪。
+1278	Penny	event_cook2	Oh... Uh, sure.$s	哦……呃，當然。 $s
+1279	Penny	event_cook3	Oh...I'm sorry.$s	哦……我唔好意思。 $s
+1280	Penny	event_pool1	That's right...$8	呢就係喇……$8
+1281	Penny	event_pool2	Really? I thought you'd have noticed by now...$8	真係咩？我以為你而家已經留意咗……$8
+1282	Penny	event_pool3	No!$9	唔好！ $9
+1283	Penny	event_pool4	...Oh, @. I thought you did, but I wasn't sure.$6#$b#...I'll always remember this night.$6^You look so beautiful tonight... I... *gasp*$6	…哦，@。我以為你有，但我唔確定。$6#$b#……我永遠會記住呢個晚。 $6^你今晚睇落真係靚……。我$6 …
+1284	Penny	event_pool5	Y...You don't?$8#$b#...!!!%fork$10	你……你唔？ $8#$b#！ ！ ！ ！ %fork$10
+1285	Penny	event_family1	Me too.$h	我都係。 $h
+1286	Penny	event_family2	...sorry.$s	對唔住.$s……
+1287	Penny	event_family3	I see.$s	我明喇。.$s
+1288	Penny	summer_Mon	Hi... Um, nice weather, isn't it?	你好……嗯，天氣唔錯，唔係咩？
+1289	Penny	summer_Mon4	$d cc#Thanks for fixing the community center back up. I guess you're kind of a town hero.|Hello, @. It's nice to see you're doing well.	$d cc#多謝你將議員中心重新整翻好喇。我諗你係一種鎮上慨英雄。|你好，@。好開心見到你過得好好。
+1290	Penny	summer_Fri	$d bus#I heard you were responsible for fixing the bus back up. Thank you.|My mother used to drive the bus to Calico Desert... but the bus stopped working a few years ago. Mayor says there's not enough money in the town coffers, or else he'd have it fixed.$u	$d bus#我收到風你負責將公交車整翻好喇。多謝你。 |我阿媽曾經開住架巴士去Calico Desert……但巴士幾年前就閘住咗份工。鎮長講鎮裡慨錢唔夠，如果唔係，佢就會將佢整好。$u
+1291	Penny	summer_Sun	So... do you like to decorate your farm house?#$e#It must be nice having your own place to decorate.	咁……你鍾意裝潢你農舍呀？ #$e#有自己慨地方可以裝潢一定好好。
+1292	Penny	summer_Sat	Hello. Ummm...$u#$b#The mountains look nice today, don't they?$u	你好。嗯……$u#$b#今日慨山睇落唔錯，唔係咩？$u
+1293	Penny	fall_Mon	Hi... Um, are you doing okay?$u	你好……嗯，你幾好嗎？$u
+1294	Penny	fall_Mon4	It's kind of embarrassing to be the only family in town who lives in a trailer.$u#$e#I wish I could live in a nice house, someday.$s	作為鎮上唯一一個住喺拖車入面慨家庭，呢度有D令人尷尬。$u#$e#我希望我有一天可以住在一個好房子裡。$s
+1295	Penny	fall_Tue4	Your farm looks really pretty right now.$h	你個農場而家睇落好靚。$h
+1296	Penny	fall_Thu6	Mom doesn't take very good care of herself...$u#$e#I worry about her.$u	阿媽冇好好地照顧自己……$u#$e#我擔心佢。$u
+1297	Penny	fall_Fri	Fall is a sad time of year for me...$s	秋天對我嚟講系一個悲傷慨季節……$s
+1298	Penny	fall_Fri6	When I was a little girl, my father abandoned us because he said he felt 'trapped'. We haven't seen him since.$s#$b#I'm sorry to make things uncomfortable for you... It's just that this time of year makes me think of it for some reason.$u#$e#Anyway... How's the farming life going?	當我定個細路女慨時候，我老豆拋棄咗我哋，因為佢話佢覺得'畀眼訓'喇。喺嗰以後我哋就再都未見過佢。 $s#$b#我好對唔住，畀你覺得唔舒服……。只係年年慨呢個時候都會因為某啲原因慨畀我諗到佢。 $u#$e#點都好……耕作生活點啊？
+1299	Penny	fall_Sun10	@! I was just thinking about the future...#$e#Where do you picture yourself in ten years?$l#$e#I have a few ideas for myself...$u	@！我喺度諗未來……#$e#你想像自己十年後喺邊呀？ $l#$e#我對自己有一啲諗法……$u
+1300	Penny	fall_Sat8	Hi @.$h#$e#Your farmhouse must be pretty easy to clean, huh?	你好@.$h#$e#你農捨一定好易打掃，系未啊？
+1301	Penny	winter_Fri	...yes?$u	…呀？$u
+1302	Penny	winter_Fri2	Are you friends with Linus? He lives in a tent up in the mountains.#$e#Everyone ignores him, the poor guy. He's actually really nice... Just a little odd.#$e#It must be so cold to live in a tent this time of year.	你係Linus慨朋友呀？佢喺山上慨一個帳篷#$e#度。個個都忽視佢，呢個可憐慨嘢。佢其實真係好好，只係有啲怪。 #$e#年年呢個時候住喺帳篷度一定好凍。
+1303	Penny	winter_Tue4	I'm looking forward to seeing what your farm looks like in the spring.#$e#It's going to be so fresh and beautiful.$h	我好等咗好耐睇到你個農場喺春天慨樣。 #$e#佢將系咁新鮮同靚。$h
+1304	Penny	winter_Tue	I try to stay indoors as much as possible during the winter. I hate being cold.	我喺冬天盡量留喺室內。我憎寒冷。
+1305	Penny	winter_Thu	Oh... hi. You want to talk?$u#$e#If you find any interesting artifacts or minerals, Gunther will gladly display them in the museum.#$e#He told me he has special gifts for people who donate.	哦……你好。你想傾下呀？ $u#$e#如果你發現任何得意慨文物或者礦物，岡特會好樂意喺博物館度展示佢哋。#$e#佢話畀我知，佢對捐贈慨人有特別慨禮物。
+1306	Penny	winter_Mon	On the 25th we'll be having the Feast of the Winter Star. It's one of my favorite events.#$e#It's supposed to be a time to show gratitude for all the good things in your life... but for most people it's just a time to relax and exchange gifts.	25號，我哋將舉行冬天之星慨盛宴。呢個系我最鍾意慨活動之一。 #$e#呢應該系一個對生活中所有大好事物表示多謝慨時刻……但對大多數人嚟講，呢只係一個放鬆同交換禮物慨時刻。
