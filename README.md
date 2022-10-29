@@ -11,7 +11,7 @@ So far we have basic Colloquial Cantonese translations for all Main NPCs.
 The Stardew Valley Mod can be found here: ... (wip) ...
 
 ## How to Contribute
-- [Help Edit Translations by Commenting on the Google Sheet](https://docs.google.com/spreadsheets/d/1hzStdmur_WqyAIkejPVBQW0k5XMyXm0Ns4LAFIaZWmQ/edit#gid=0)
+- 👉 [Help Edit Translations by Commenting on the Google Sheet](https://docs.google.com/spreadsheets/d/1hzStdmur_WqyAIkejPVBQW0k5XMyXm0Ns4LAFIaZWmQ/edit#gid=0) 👈
 
 ---
 ### Change Log
